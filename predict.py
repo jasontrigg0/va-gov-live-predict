@@ -519,7 +519,7 @@ if __name__ == "__main__":
     compute_stats(categories_baseline)
 
     #categories_live = load_election_live("2020_from_json.csv", 2020, True) #simulate from 2020 data
-    categories_live = load_election_live("2021_from_json.csv",2021)
+    categories_live = load_election_live("results_from_json.csv",2021)
     compute_stats(categories_live)
 
     merge_baselines(categories_live, categories_baseline)
