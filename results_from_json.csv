@@ -127,10 +127,10 @@ Glenn A. Youngkin,1.0,Albemarle County,28.62%,Republican,203 - GEORGETOWN (05),2
 Terry R. McAuliffe,2.0,Albemarle County,70.06%,Democratic,203 - GEORGETOWN (05),688.0
 Princess L. Blanding,3.0,Albemarle County,1.12%,Liberation,203 - GEORGETOWN (05),11.0
 Write In,2147483647.0,Albemarle County,0.20%,Write-In,203 - GEORGETOWN (05),2.0
-Glenn A. Youngkin,1.0,Albemarle County,0.00%,Republican,301 - IVY (05),0.0
-Terry R. McAuliffe,2.0,Albemarle County,0.00%,Democratic,301 - IVY (05),0.0
-Princess L. Blanding,3.0,Albemarle County,0.00%,Liberation,301 - IVY (05),0.0
-Write In,2147483647.0,Albemarle County,0.00%,Write-In,301 - IVY (05),0.0
+Glenn A. Youngkin,1.0,Albemarle County,40.20%,Republican,301 - IVY (05),730.0
+Terry R. McAuliffe,2.0,Albemarle County,59.42%,Democratic,301 - IVY (05),1079.0
+Princess L. Blanding,3.0,Albemarle County,0.33%,Liberation,301 - IVY (05),6.0
+Write In,2147483647.0,Albemarle County,0.06%,Write-In,301 - IVY (05),1.0
 Glenn A. Youngkin,1.0,Albemarle County,48.99%,Republican,302 - RED HILL (05),658.0
 Terry R. McAuliffe,2.0,Albemarle County,50.19%,Democratic,302 - RED HILL (05),674.0
 Princess L. Blanding,3.0,Albemarle County,0.67%,Liberation,302 - RED HILL (05),9.0
@@ -655,10 +655,10 @@ Glenn A. Youngkin,1.0,Arlington County,26.13%,Republican,053 - MET PARK (08),311
 Terry R. McAuliffe,2.0,Arlington County,73.11%,Democratic,053 - MET PARK (08),870.0
 Princess L. Blanding,3.0,Arlington County,0.67%,Liberation,053 - MET PARK (08),8.0
 Write In,2147483647.0,Arlington County,0.08%,Write-In,053 - MET PARK (08),1.0
-Glenn A. Youngkin,1.0,Arlington County,0.00%,Republican,054 - GARFIELD PARK (08),0.0
-Terry R. McAuliffe,2.0,Arlington County,0.00%,Democratic,054 - GARFIELD PARK (08),0.0
-Princess L. Blanding,3.0,Arlington County,0.00%,Liberation,054 - GARFIELD PARK (08),0.0
-Write In,2147483647.0,Arlington County,0.00%,Write-In,054 - GARFIELD PARK (08),0.0
+Glenn A. Youngkin,1.0,Arlington County,27.10%,Republican,054 - GARFIELD PARK (08),132.0
+Terry R. McAuliffe,2.0,Arlington County,72.07%,Democratic,054 - GARFIELD PARK (08),351.0
+Princess L. Blanding,3.0,Arlington County,0.41%,Liberation,054 - GARFIELD PARK (08),2.0
+Write In,2147483647.0,Arlington County,0.41%,Write-In,054 - GARFIELD PARK (08),2.0
 Glenn A. Youngkin,1.0,Augusta County,45.93%,Republican,# AB - Central Absentee Precinct (06),881.0
 Terry R. McAuliffe,2.0,Augusta County,53.39%,Democratic,# AB - Central Absentee Precinct (06),1024.0
 Princess L. Blanding,3.0,Augusta County,0.52%,Liberation,# AB - Central Absentee Precinct (06),10.0
@@ -1859,17 +1859,17 @@ Glenn A. Youngkin,1.0,Chesterfield County,58.67%,Republican,414 - CRENSHAW (07),
 Terry R. McAuliffe,2.0,Chesterfield County,40.32%,Democratic,414 - CRENSHAW (07),721.0
 Princess L. Blanding,3.0,Chesterfield County,1.01%,Liberation,414 - CRENSHAW (07),18.0
 Write In,2147483647.0,Chesterfield County,0.00%,Write-In,414 - CRENSHAW (07),0.0
-Glenn A. Youngkin,1.0,Chesterfield County,0.00%,Republican,415 - EVERGREEN (07),0.0
-Terry R. McAuliffe,2.0,Chesterfield County,0.00%,Democratic,415 - EVERGREEN (07),0.0
-Princess L. Blanding,3.0,Chesterfield County,0.00%,Liberation,415 - EVERGREEN (07),0.0
+Glenn A. Youngkin,1.0,Chesterfield County,57.24%,Republican,415 - EVERGREEN (07),656.0
+Terry R. McAuliffe,2.0,Chesterfield County,41.10%,Democratic,415 - EVERGREEN (07),471.0
+Princess L. Blanding,3.0,Chesterfield County,1.66%,Liberation,415 - EVERGREEN (07),19.0
 Write In,2147483647.0,Chesterfield County,0.00%,Write-In,415 - EVERGREEN (07),0.0
 Glenn A. Youngkin,1.0,Chesterfield County,54.38%,Republican,416 - EVERGREEN WEST (07),466.0
 Terry R. McAuliffe,2.0,Chesterfield County,44.92%,Democratic,416 - EVERGREEN WEST (07),385.0
 Princess L. Blanding,3.0,Chesterfield County,0.70%,Liberation,416 - EVERGREEN WEST (07),6.0
 Write In,2147483647.0,Chesterfield County,0.00%,Write-In,416 - EVERGREEN WEST (07),0.0
-Glenn A. Youngkin,1.0,Chesterfield County,0.00%,Republican,417 - EDGEWATER (07),0.0
-Terry R. McAuliffe,2.0,Chesterfield County,0.00%,Democratic,417 - EDGEWATER (07),0.0
-Princess L. Blanding,3.0,Chesterfield County,0.00%,Liberation,417 - EDGEWATER (07),0.0
+Glenn A. Youngkin,1.0,Chesterfield County,57.16%,Republican,417 - EDGEWATER (07),479.0
+Terry R. McAuliffe,2.0,Chesterfield County,42.60%,Democratic,417 - EDGEWATER (07),357.0
+Princess L. Blanding,3.0,Chesterfield County,0.24%,Liberation,417 - EDGEWATER (07),2.0
 Write In,2147483647.0,Chesterfield County,0.00%,Write-In,417 - EDGEWATER (07),0.0
 Glenn A. Youngkin,1.0,Chesterfield County,47.15%,Republican,501 - HUGUENOT (07),513.0
 Terry R. McAuliffe,2.0,Chesterfield County,51.29%,Democratic,501 - HUGUENOT (07),558.0
@@ -2143,9 +2143,9 @@ Glenn A. Youngkin,1.0,Cumberland County,62.03%,Republican,501 - PRECINCT 5 (05),
 Terry R. McAuliffe,2.0,Cumberland County,37.29%,Democratic,501 - PRECINCT 5 (05),217.0
 Princess L. Blanding,3.0,Cumberland County,0.69%,Liberation,501 - PRECINCT 5 (05),4.0
 Write In,2147483647.0,Cumberland County,0.00%,Write-In,501 - PRECINCT 5 (05),0.0
-Glenn A. Youngkin,1.0,Dickenson County,0.00%,Republican,# AB - Central Absentee Precinct (09),0.0
-Terry R. McAuliffe,2.0,Dickenson County,0.00%,Democratic,# AB - Central Absentee Precinct (09),0.0
-Princess L. Blanding,3.0,Dickenson County,0.00%,Liberation,# AB - Central Absentee Precinct (09),0.0
+Glenn A. Youngkin,1.0,Dickenson County,49.12%,Republican,# AB - Central Absentee Precinct (09),111.0
+Terry R. McAuliffe,2.0,Dickenson County,49.56%,Democratic,# AB - Central Absentee Precinct (09),112.0
+Princess L. Blanding,3.0,Dickenson County,1.33%,Liberation,# AB - Central Absentee Precinct (09),3.0
 Write In,2147483647.0,Dickenson County,0.00%,Write-In,# AB - Central Absentee Precinct (09),0.0
 Glenn A. Youngkin,1.0,Dickenson County,70.85%,Republican,# EV - Central Absentee Precinct (09),863.0
 Terry R. McAuliffe,2.0,Dickenson County,28.98%,Democratic,# EV - Central Absentee Precinct (09),353.0
@@ -2479,10 +2479,10 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,209 - RESTON #2 (11),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,209 - RESTON #2 (11),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,209 - RESTON #2 (11),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,209 - RESTON #2 (11),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,213 - VIENNA #1 (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,213 - VIENNA #1 (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,213 - VIENNA #1 (11),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,213 - VIENNA #1 (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,39.36%,Republican,213 - VIENNA #1 (11),679.0
+Terry R. McAuliffe,2.0,Fairfax County,60.17%,Democratic,213 - VIENNA #1 (11),1038.0
+Princess L. Blanding,3.0,Fairfax County,0.41%,Liberation,213 - VIENNA #1 (11),7.0
+Write In,2147483647.0,Fairfax County,0.06%,Write-In,213 - VIENNA #1 (11),1.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,214 - VIENNA #2 (11),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,214 - VIENNA #2 (11),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,214 - VIENNA #2 (11),0.0
@@ -2599,9 +2599,9 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,310 - KIRBY (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,310 - KIRBY (08),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,310 - KIRBY (08),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,310 - KIRBY (08),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,311 - LANGLEY (10),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,311 - LANGLEY (10),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,311 - LANGLEY (10),0.0
+Glenn A. Youngkin,1.0,Fairfax County,50.75%,Republican,311 - LANGLEY (10),405.0
+Terry R. McAuliffe,2.0,Fairfax County,48.62%,Democratic,311 - LANGLEY (10),388.0
+Princess L. Blanding,3.0,Fairfax County,0.63%,Liberation,311 - LANGLEY (10),5.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,311 - LANGLEY (10),0.0
 Glenn A. Youngkin,1.0,Fairfax County,39.41%,Republican,312 - LONGFELLOW (08),361.0
 Terry R. McAuliffe,2.0,Fairfax County,60.48%,Democratic,312 - LONGFELLOW (08),554.0
@@ -2663,10 +2663,10 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,328 - HICKORY (10),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,328 - HICKORY (10),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,328 - HICKORY (10),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,328 - HICKORY (10),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,329 - SENECA (10),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,329 - SENECA (10),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,329 - SENECA (10),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,329 - SENECA (10),0.0
+Glenn A. Youngkin,1.0,Fairfax County,52.47%,Republican,329 - SENECA (10),668.0
+Terry R. McAuliffe,2.0,Fairfax County,47.05%,Democratic,329 - SENECA (10),599.0
+Princess L. Blanding,3.0,Fairfax County,0.24%,Liberation,329 - SENECA (10),3.0
+Write In,2147483647.0,Fairfax County,0.24%,Write-In,329 - SENECA (10),3.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,331 - SPRING HILL (10),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,331 - SPRING HILL (10),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,331 - SPRING HILL (10),0.0
@@ -2787,10 +2787,10 @@ Glenn A. Youngkin,1.0,Fairfax County,34.87%,Republican,502 - BARCROFT (11),197.0
 Terry R. McAuliffe,2.0,Fairfax County,64.78%,Democratic,502 - BARCROFT (11),366.0
 Princess L. Blanding,3.0,Fairfax County,0.35%,Liberation,502 - BARCROFT (11),2.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,502 - BARCROFT (11),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,503 - BELVEDERE (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,503 - BELVEDERE (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,503 - BELVEDERE (11),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,503 - BELVEDERE (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,35.00%,Republican,503 - BELVEDERE (11),210.0
+Terry R. McAuliffe,2.0,Fairfax County,64.17%,Democratic,503 - BELVEDERE (11),385.0
+Princess L. Blanding,3.0,Fairfax County,0.50%,Liberation,503 - BELVEDERE (11),3.0
+Write In,2147483647.0,Fairfax County,0.33%,Write-In,503 - BELVEDERE (11),2.0
 Glenn A. Youngkin,1.0,Fairfax County,37.79%,Republican,504 - BRISTOW (11),348.0
 Terry R. McAuliffe,2.0,Fairfax County,61.24%,Democratic,504 - BRISTOW (11),564.0
 Princess L. Blanding,3.0,Fairfax County,0.76%,Liberation,504 - BRISTOW (11),7.0
@@ -2859,9 +2859,9 @@ Glenn A. Youngkin,1.0,Fairfax County,41.48%,Republican,519 - HUMMER (11),319.0
 Terry R. McAuliffe,2.0,Fairfax County,58.00%,Democratic,519 - HUMMER (11),446.0
 Princess L. Blanding,3.0,Fairfax County,0.52%,Liberation,519 - HUMMER (11),4.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,519 - HUMMER (11),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,520 - SKYLINE (08),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,520 - SKYLINE (08),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,520 - SKYLINE (08),0.0
+Glenn A. Youngkin,1.0,Fairfax County,25.56%,Republican,520 - SKYLINE (08),183.0
+Terry R. McAuliffe,2.0,Fairfax County,74.16%,Democratic,520 - SKYLINE (08),531.0
+Princess L. Blanding,3.0,Fairfax County,0.28%,Liberation,520 - SKYLINE (08),2.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,520 - SKYLINE (08),0.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,521 - BROOK HILL (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,521 - BROOK HILL (08),0.0
@@ -2907,9 +2907,9 @@ Glenn A. Youngkin,1.0,Fairfax County,41.15%,Republican,534 - CAMELOT #2 (11),237
 Terry R. McAuliffe,2.0,Fairfax County,58.33%,Democratic,534 - CAMELOT #2 (11),336.0
 Princess L. Blanding,3.0,Fairfax County,0.52%,Liberation,534 - CAMELOT #2 (11),3.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,534 - CAMELOT #2 (11),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,601 - BELLE HAVEN (08),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,601 - BELLE HAVEN (08),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,601 - BELLE HAVEN (08),0.0
+Glenn A. Youngkin,1.0,Fairfax County,45.79%,Republican,601 - BELLE HAVEN (08),381.0
+Terry R. McAuliffe,2.0,Fairfax County,53.49%,Democratic,601 - BELLE HAVEN (08),445.0
+Princess L. Blanding,3.0,Fairfax County,0.72%,Liberation,601 - BELLE HAVEN (08),6.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,601 - BELLE HAVEN (08),0.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,602 - BELLEVIEW (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,602 - BELLEVIEW (08),0.0
@@ -2919,10 +2919,10 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,604 - BUCKNELL (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,604 - BUCKNELL (08),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,604 - BUCKNELL (08),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,604 - BUCKNELL (08),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,605 - FORT HUNT (08),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,605 - FORT HUNT (08),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,605 - FORT HUNT (08),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,605 - FORT HUNT (08),0.0
+Glenn A. Youngkin,1.0,Fairfax County,47.36%,Republican,605 - FORT HUNT (08),467.0
+Terry R. McAuliffe,2.0,Fairfax County,52.03%,Democratic,605 - FORT HUNT (08),513.0
+Princess L. Blanding,3.0,Fairfax County,0.41%,Liberation,605 - FORT HUNT (08),4.0
+Write In,2147483647.0,Fairfax County,0.20%,Write-In,605 - FORT HUNT (08),2.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,606 - HOLLIN HALL (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,606 - HOLLIN HALL (08),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,606 - HOLLIN HALL (08),0.0
@@ -2931,8 +2931,8 @@ Glenn A. Youngkin,1.0,Fairfax County,29.58%,Republican,607 - HUNTINGTON (08),336
 Terry R. McAuliffe,2.0,Fairfax County,68.84%,Democratic,607 - HUNTINGTON (08),782.0
 Princess L. Blanding,3.0,Fairfax County,1.32%,Liberation,607 - HUNTINGTON (08),15.0
 Write In,2147483647.0,Fairfax County,0.26%,Write-In,607 - HUNTINGTON (08),3.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,608 - KIRKSIDE (08),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,608 - KIRKSIDE (08),0.0
+Glenn A. Youngkin,1.0,Fairfax County,30.73%,Republican,608 - KIRKSIDE (08),216.0
+Terry R. McAuliffe,2.0,Fairfax County,69.27%,Democratic,608 - KIRKSIDE (08),487.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,608 - KIRKSIDE (08),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,608 - KIRKSIDE (08),0.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,609 - MARLAN (08),0.0
@@ -3051,10 +3051,10 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,712 - SHREVE (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,712 - SHREVE (08),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,712 - SHREVE (08),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,712 - SHREVE (08),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,713 - TIMBER LANE (08),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,713 - TIMBER LANE (08),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,713 - TIMBER LANE (08),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,713 - TIMBER LANE (08),0.0
+Glenn A. Youngkin,1.0,Fairfax County,29.05%,Republican,713 - TIMBER LANE (08),364.0
+Terry R. McAuliffe,2.0,Fairfax County,69.75%,Democratic,713 - TIMBER LANE (08),874.0
+Princess L. Blanding,3.0,Fairfax County,1.04%,Liberation,713 - TIMBER LANE (08),13.0
+Write In,2147483647.0,Fairfax County,0.16%,Write-In,713 - TIMBER LANE (08),2.0
 Glenn A. Youngkin,1.0,Fairfax County,37.30%,Republican,714 - WALKER (11),458.0
 Terry R. McAuliffe,2.0,Fairfax County,62.21%,Democratic,714 - WALKER (11),764.0
 Princess L. Blanding,3.0,Fairfax County,0.49%,Liberation,714 - WALKER (11),6.0
@@ -3067,10 +3067,10 @@ Glenn A. Youngkin,1.0,Fairfax County,40.33%,Republican,718 - PINE RIDGE (11),344
 Terry R. McAuliffe,2.0,Fairfax County,58.26%,Democratic,718 - PINE RIDGE (11),497.0
 Princess L. Blanding,3.0,Fairfax County,1.29%,Liberation,718 - PINE RIDGE (11),11.0
 Write In,2147483647.0,Fairfax County,0.12%,Write-In,718 - PINE RIDGE (11),1.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,720 - THOREAU (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,720 - THOREAU (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,720 - THOREAU (11),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,720 - THOREAU (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,38.98%,Republican,720 - THOREAU (11),490.0
+Terry R. McAuliffe,2.0,Fairfax County,59.98%,Democratic,720 - THOREAU (11),754.0
+Princess L. Blanding,3.0,Fairfax County,0.95%,Liberation,720 - THOREAU (11),12.0
+Write In,2147483647.0,Fairfax County,0.08%,Write-In,720 - THOREAU (11),1.0
 Glenn A. Youngkin,1.0,Fairfax County,28.20%,Republican,721 - MERRIFIELD (11),379.0
 Terry R. McAuliffe,2.0,Fairfax County,70.91%,Democratic,721 - MERRIFIELD (11),953.0
 Princess L. Blanding,3.0,Fairfax County,0.82%,Liberation,721 - MERRIFIELD (11),11.0
@@ -3079,10 +3079,10 @@ Glenn A. Youngkin,1.0,Fairfax County,28.67%,Republican,723 - GALLOWS EAST (11),1
 Terry R. McAuliffe,2.0,Fairfax County,69.98%,Democratic,723 - GALLOWS EAST (11),415.0
 Princess L. Blanding,3.0,Fairfax County,1.18%,Liberation,723 - GALLOWS EAST (11),7.0
 Write In,2147483647.0,Fairfax County,0.17%,Write-In,723 - GALLOWS EAST (11),1.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,726 - MAGARITY (08),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,726 - MAGARITY (08),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,726 - MAGARITY (08),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,726 - MAGARITY (08),0.0
+Glenn A. Youngkin,1.0,Fairfax County,34.10%,Republican,726 - MAGARITY (08),432.0
+Terry R. McAuliffe,2.0,Fairfax County,65.27%,Democratic,726 - MAGARITY (08),827.0
+Princess L. Blanding,3.0,Fairfax County,0.55%,Liberation,726 - MAGARITY (08),7.0
+Write In,2147483647.0,Fairfax County,0.08%,Write-In,726 - MAGARITY (08),1.0
 Glenn A. Youngkin,1.0,Fairfax County,44.88%,Republican,727 - OAKTON (11),473.0
 Terry R. McAuliffe,2.0,Fairfax County,54.55%,Democratic,727 - OAKTON (11),575.0
 Princess L. Blanding,3.0,Fairfax County,0.09%,Liberation,727 - OAKTON (11),1.0
@@ -3895,10 +3895,10 @@ Glenn A. Youngkin,1.0,Goochland County,71.94%,Republican,402 - CENTERVILLE (07),
 Terry R. McAuliffe,2.0,Goochland County,27.69%,Democratic,402 - CENTERVILLE (07),299.0
 Princess L. Blanding,3.0,Goochland County,0.28%,Liberation,402 - CENTERVILLE (07),3.0
 Write In,2147483647.0,Goochland County,0.09%,Write-In,402 - CENTERVILLE (07),1.0
-Glenn A. Youngkin,1.0,Goochland County,0.00%,Republican,501 - MANAKIN (07),0.0
-Terry R. McAuliffe,2.0,Goochland County,0.00%,Democratic,501 - MANAKIN (07),0.0
-Princess L. Blanding,3.0,Goochland County,0.00%,Liberation,501 - MANAKIN (07),0.0
-Write In,2147483647.0,Goochland County,0.00%,Write-In,501 - MANAKIN (07),0.0
+Glenn A. Youngkin,1.0,Goochland County,72.68%,Republican,501 - MANAKIN (07),947.0
+Terry R. McAuliffe,2.0,Goochland County,26.63%,Democratic,501 - MANAKIN (07),347.0
+Princess L. Blanding,3.0,Goochland County,0.61%,Liberation,501 - MANAKIN (07),8.0
+Write In,2147483647.0,Goochland County,0.08%,Write-In,501 - MANAKIN (07),1.0
 Glenn A. Youngkin,1.0,Goochland County,0.00%,Republican,502 - BLAIR (07),0.0
 Terry R. McAuliffe,2.0,Goochland County,0.00%,Democratic,502 - BLAIR (07),0.0
 Princess L. Blanding,3.0,Goochland County,0.00%,Liberation,502 - BLAIR (07),0.0
@@ -7207,9 +7207,9 @@ Glenn A. Youngkin,1.0,Prince William County,43.56%,Republican,505 - MOHICAN (01)
 Terry R. McAuliffe,2.0,Prince William County,55.32%,Democratic,505 - MOHICAN (01),640.0
 Princess L. Blanding,3.0,Prince William County,1.12%,Liberation,505 - MOHICAN (01),13.0
 Write In,2147483647.0,Prince William County,0.00%,Write-In,505 - MOHICAN (01),0.0
-Glenn A. Youngkin,1.0,Prince William County,0.00%,Republican,506 - BETHEL (11),0.0
-Terry R. McAuliffe,2.0,Prince William County,0.00%,Democratic,506 - BETHEL (11),0.0
-Princess L. Blanding,3.0,Prince William County,0.00%,Liberation,506 - BETHEL (11),0.0
+Glenn A. Youngkin,1.0,Prince William County,44.90%,Republican,506 - BETHEL (11),480.0
+Terry R. McAuliffe,2.0,Prince William County,54.07%,Democratic,506 - BETHEL (11),578.0
+Princess L. Blanding,3.0,Prince William County,1.03%,Liberation,506 - BETHEL (11),11.0
 Write In,2147483647.0,Prince William County,0.00%,Write-In,506 - BETHEL (11),0.0
 Glenn A. Youngkin,1.0,Prince William County,41.18%,Republican,507 - CHINN (11),383.0
 Terry R. McAuliffe,2.0,Prince William County,58.39%,Democratic,507 - CHINN (11),543.0
@@ -7275,25 +7275,25 @@ Glenn A. Youngkin,1.0,Prince William County,38.21%,Republican,608 - ENTERPRISE (
 Terry R. McAuliffe,2.0,Prince William County,59.93%,Democratic,608 - ENTERPRISE (11),516.0
 Princess L. Blanding,3.0,Prince William County,1.86%,Liberation,608 - ENTERPRISE (11),16.0
 Write In,2147483647.0,Prince William County,0.00%,Write-In,608 - ENTERPRISE (11),0.0
-Glenn A. Youngkin,1.0,Prince William County,0.00%,Republican,609 - KING (01),0.0
-Terry R. McAuliffe,2.0,Prince William County,0.00%,Democratic,609 - KING (01),0.0
+Glenn A. Youngkin,1.0,Prince William County,19.57%,Republican,609 - KING (01),9.0
+Terry R. McAuliffe,2.0,Prince William County,80.43%,Democratic,609 - KING (01),37.0
 Princess L. Blanding,3.0,Prince William County,0.00%,Liberation,609 - KING (01),0.0
 Write In,2147483647.0,Prince William County,0.00%,Write-In,609 - KING (01),0.0
-Glenn A. Youngkin,1.0,Prince William County,0.00%,Republican,609 - KING (11),0.0
-Terry R. McAuliffe,2.0,Prince William County,0.00%,Democratic,609 - KING (11),0.0
-Princess L. Blanding,3.0,Prince William County,0.00%,Liberation,609 - KING (11),0.0
+Glenn A. Youngkin,1.0,Prince William County,37.90%,Republican,609 - KING (11),445.0
+Terry R. McAuliffe,2.0,Prince William County,61.07%,Democratic,609 - KING (11),717.0
+Princess L. Blanding,3.0,Prince William County,1.02%,Liberation,609 - KING (11),12.0
 Write In,2147483647.0,Prince William County,0.00%,Write-In,609 - KING (11),0.0
-Glenn A. Youngkin,1.0,Prince William County,0.00%,Republican,610 - FITZGERALD (11),0.0
-Terry R. McAuliffe,2.0,Prince William County,0.00%,Democratic,610 - FITZGERALD (11),0.0
-Princess L. Blanding,3.0,Prince William County,0.00%,Liberation,610 - FITZGERALD (11),0.0
+Glenn A. Youngkin,1.0,Prince William County,34.21%,Republican,610 - FITZGERALD (11),207.0
+Terry R. McAuliffe,2.0,Prince William County,65.12%,Democratic,610 - FITZGERALD (11),394.0
+Princess L. Blanding,3.0,Prince William County,0.66%,Liberation,610 - FITZGERALD (11),4.0
 Write In,2147483647.0,Prince William County,0.00%,Write-In,610 - FITZGERALD (11),0.0
 Glenn A. Youngkin,1.0,Prince William County,34.89%,Republican,611 - NEABSCO (11),254.0
 Terry R. McAuliffe,2.0,Prince William County,64.15%,Democratic,611 - NEABSCO (11),467.0
 Princess L. Blanding,3.0,Prince William County,0.96%,Liberation,611 - NEABSCO (11),7.0
 Write In,2147483647.0,Prince William County,0.00%,Write-In,611 - NEABSCO (11),0.0
-Glenn A. Youngkin,1.0,Prince William County,0.00%,Republican,701 - BELMONT (11),0.0
-Terry R. McAuliffe,2.0,Prince William County,0.00%,Democratic,701 - BELMONT (11),0.0
-Princess L. Blanding,3.0,Prince William County,0.00%,Liberation,701 - BELMONT (11),0.0
+Glenn A. Youngkin,1.0,Prince William County,46.84%,Republican,701 - BELMONT (11),459.0
+Terry R. McAuliffe,2.0,Prince William County,52.55%,Democratic,701 - BELMONT (11),515.0
+Princess L. Blanding,3.0,Prince William County,0.61%,Liberation,701 - BELMONT (11),6.0
 Write In,2147483647.0,Prince William County,0.00%,Write-In,701 - BELMONT (11),0.0
 Glenn A. Youngkin,1.0,Prince William County,28.38%,Republican,702 - LIBRARY (11),260.0
 Terry R. McAuliffe,2.0,Prince William County,70.31%,Democratic,702 - LIBRARY (11),644.0
@@ -7311,9 +7311,9 @@ Glenn A. Youngkin,1.0,Prince William County,47.52%,Republican,705 - POTOMAC VIEW
 Terry R. McAuliffe,2.0,Prince William County,52.14%,Democratic,705 - POTOMAC VIEW (11),305.0
 Princess L. Blanding,3.0,Prince William County,0.34%,Liberation,705 - POTOMAC VIEW (11),2.0
 Write In,2147483647.0,Prince William County,0.00%,Write-In,705 - POTOMAC VIEW (11),0.0
-Glenn A. Youngkin,1.0,Prince William County,0.00%,Republican,706 - RIPPON (11),0.0
-Terry R. McAuliffe,2.0,Prince William County,0.00%,Democratic,706 - RIPPON (11),0.0
-Princess L. Blanding,3.0,Prince William County,0.00%,Liberation,706 - RIPPON (11),0.0
+Glenn A. Youngkin,1.0,Prince William County,39.71%,Republican,706 - RIPPON (11),388.0
+Terry R. McAuliffe,2.0,Prince William County,59.77%,Democratic,706 - RIPPON (11),584.0
+Princess L. Blanding,3.0,Prince William County,0.51%,Liberation,706 - RIPPON (11),5.0
 Write In,2147483647.0,Prince William County,0.00%,Write-In,706 - RIPPON (11),0.0
 Glenn A. Youngkin,1.0,Prince William County,40.89%,Republican,707 - KILBY (11),303.0
 Terry R. McAuliffe,2.0,Prince William County,58.43%,Democratic,707 - KILBY (11),433.0
@@ -7639,13 +7639,13 @@ Glenn A. Youngkin,1.0,Roanoke County,62.63%,Republican,506 - MOUNT VERNON (06),3
 Terry R. McAuliffe,2.0,Roanoke County,36.49%,Democratic,506 - MOUNT VERNON (06),208.0
 Princess L. Blanding,3.0,Roanoke County,0.88%,Liberation,506 - MOUNT VERNON (06),5.0
 Write In,2147483647.0,Roanoke County,0.00%,Write-In,506 - MOUNT VERNON (06),0.0
-Glenn A. Youngkin,1.0,Roanoke County,0.00%,Republican,507 - HUNTING HILLS (06),0.0
-Terry R. McAuliffe,2.0,Roanoke County,0.00%,Democratic,507 - HUNTING HILLS (06),0.0
-Princess L. Blanding,3.0,Roanoke County,0.00%,Liberation,507 - HUNTING HILLS (06),0.0
-Write In,2147483647.0,Roanoke County,0.00%,Write-In,507 - HUNTING HILLS (06),0.0
-Glenn A. Youngkin,1.0,Rockbridge County,0.00%,Republican,# AB - Central Absentee Precinct (06),0.0
-Terry R. McAuliffe,2.0,Rockbridge County,0.00%,Democratic,# AB - Central Absentee Precinct (06),0.0
-Princess L. Blanding,3.0,Rockbridge County,0.00%,Liberation,# AB - Central Absentee Precinct (06),0.0
+Glenn A. Youngkin,1.0,Roanoke County,67.30%,Republican,507 - HUNTING HILLS (06),741.0
+Terry R. McAuliffe,2.0,Roanoke County,32.24%,Democratic,507 - HUNTING HILLS (06),355.0
+Princess L. Blanding,3.0,Roanoke County,0.36%,Liberation,507 - HUNTING HILLS (06),4.0
+Write In,2147483647.0,Roanoke County,0.09%,Write-In,507 - HUNTING HILLS (06),1.0
+Glenn A. Youngkin,1.0,Rockbridge County,31.15%,Republican,# AB - Central Absentee Precinct (06),181.0
+Terry R. McAuliffe,2.0,Rockbridge County,68.16%,Democratic,# AB - Central Absentee Precinct (06),396.0
+Princess L. Blanding,3.0,Rockbridge County,0.69%,Liberation,# AB - Central Absentee Precinct (06),4.0
 Write In,2147483647.0,Rockbridge County,0.00%,Write-In,# AB - Central Absentee Precinct (06),0.0
 Glenn A. Youngkin,1.0,Rockbridge County,0.00%,Republican,# EV - Central Absentee Precinct (06),0.0
 Terry R. McAuliffe,2.0,Rockbridge County,0.00%,Democratic,# EV - Central Absentee Precinct (06),0.0
@@ -9103,10 +9103,10 @@ Glenn A. Youngkin,1.0,Alexandria City,0.00%,Republican,# AB - Central Absentee P
 Terry R. McAuliffe,2.0,Alexandria City,0.00%,Democratic,# AB - Central Absentee Precinct (08),0.0
 Princess L. Blanding,3.0,Alexandria City,0.00%,Liberation,# AB - Central Absentee Precinct (08),0.0
 Write In,2147483647.0,Alexandria City,0.00%,Write-In,# AB - Central Absentee Precinct (08),0.0
-Glenn A. Youngkin,1.0,Alexandria City,0.00%,Republican,# EV - Central Absentee Precinct (08),0.0
-Terry R. McAuliffe,2.0,Alexandria City,0.00%,Democratic,# EV - Central Absentee Precinct (08),0.0
-Princess L. Blanding,3.0,Alexandria City,0.00%,Liberation,# EV - Central Absentee Precinct (08),0.0
-Write In,2147483647.0,Alexandria City,0.00%,Write-In,# EV - Central Absentee Precinct (08),0.0
+Glenn A. Youngkin,1.0,Alexandria City,21.81%,Republican,# EV - Central Absentee Precinct (08),3630.0
+Terry R. McAuliffe,2.0,Alexandria City,77.73%,Democratic,# EV - Central Absentee Precinct (08),12940.0
+Princess L. Blanding,3.0,Alexandria City,0.39%,Liberation,# EV - Central Absentee Precinct (08),65.0
+Write In,2147483647.0,Alexandria City,0.07%,Write-In,# EV - Central Absentee Precinct (08),12.0
 Glenn A. Youngkin,1.0,Alexandria City,0.00%,Republican,# PE - Central Absentee Precinct (08),0.0
 Terry R. McAuliffe,2.0,Alexandria City,0.00%,Democratic,# PE - Central Absentee Precinct (08),0.0
 Princess L. Blanding,3.0,Alexandria City,0.00%,Liberation,# PE - Central Absentee Precinct (08),0.0
@@ -9131,14 +9131,14 @@ Glenn A. Youngkin,1.0,Alexandria City,27.23%,Republican,104 - DURANT CENTER (08)
 Terry R. McAuliffe,2.0,Alexandria City,71.66%,Democratic,104 - DURANT CENTER (08),708.0
 Princess L. Blanding,3.0,Alexandria City,0.81%,Liberation,104 - DURANT CENTER (08),8.0
 Write In,2147483647.0,Alexandria City,0.30%,Write-In,104 - DURANT CENTER (08),3.0
-Glenn A. Youngkin,1.0,Alexandria City,0.00%,Republican,105 - LEE CENTER (08),0.0
-Terry R. McAuliffe,2.0,Alexandria City,0.00%,Democratic,105 - LEE CENTER (08),0.0
-Princess L. Blanding,3.0,Alexandria City,0.00%,Liberation,105 - LEE CENTER (08),0.0
-Write In,2147483647.0,Alexandria City,0.00%,Write-In,105 - LEE CENTER (08),0.0
-Glenn A. Youngkin,1.0,Alexandria City,0.00%,Republican,106 - CORA KELLY (08),0.0
-Terry R. McAuliffe,2.0,Alexandria City,0.00%,Democratic,106 - CORA KELLY (08),0.0
-Princess L. Blanding,3.0,Alexandria City,0.00%,Liberation,106 - CORA KELLY (08),0.0
-Write In,2147483647.0,Alexandria City,0.00%,Write-In,106 - CORA KELLY (08),0.0
+Glenn A. Youngkin,1.0,Alexandria City,30.00%,Republican,105 - LEE CENTER (08),237.0
+Terry R. McAuliffe,2.0,Alexandria City,69.24%,Democratic,105 - LEE CENTER (08),547.0
+Princess L. Blanding,3.0,Alexandria City,0.63%,Liberation,105 - LEE CENTER (08),5.0
+Write In,2147483647.0,Alexandria City,0.13%,Write-In,105 - LEE CENTER (08),1.0
+Glenn A. Youngkin,1.0,Alexandria City,23.46%,Republican,106 - CORA KELLY (08),339.0
+Terry R. McAuliffe,2.0,Alexandria City,75.50%,Democratic,106 - CORA KELLY (08),1091.0
+Princess L. Blanding,3.0,Alexandria City,0.90%,Liberation,106 - CORA KELLY (08),13.0
+Write In,2147483647.0,Alexandria City,0.14%,Write-In,106 - CORA KELLY (08),2.0
 Glenn A. Youngkin,1.0,Alexandria City,19.69%,Republican,107 - MT VERNON RECREATION CENTER (08),372.0
 Terry R. McAuliffe,2.0,Alexandria City,79.78%,Democratic,107 - MT VERNON RECREATION CENTER (08),1507.0
 Princess L. Blanding,3.0,Alexandria City,0.37%,Liberation,107 - MT VERNON RECREATION CENTER (08),7.0
@@ -9151,10 +9151,10 @@ Glenn A. Youngkin,1.0,Alexandria City,30.32%,Republican,109 - FIRE DEPARTMENT HE
 Terry R. McAuliffe,2.0,Alexandria City,69.09%,Democratic,109 - FIRE DEPARTMENT HEADQUARTERS (08),695.0
 Princess L. Blanding,3.0,Alexandria City,0.50%,Liberation,109 - FIRE DEPARTMENT HEADQUARTERS (08),5.0
 Write In,2147483647.0,Alexandria City,0.10%,Write-In,109 - FIRE DEPARTMENT HEADQUARTERS (08),1.0
-Glenn A. Youngkin,1.0,Alexandria City,0.00%,Republican,110 - CHARLES HOUSTON CENTER (08),0.0
-Terry R. McAuliffe,2.0,Alexandria City,0.00%,Democratic,110 - CHARLES HOUSTON CENTER (08),0.0
-Princess L. Blanding,3.0,Alexandria City,0.00%,Liberation,110 - CHARLES HOUSTON CENTER (08),0.0
-Write In,2147483647.0,Alexandria City,0.00%,Write-In,110 - CHARLES HOUSTON CENTER (08),0.0
+Glenn A. Youngkin,1.0,Alexandria City,22.35%,Republican,110 - CHARLES HOUSTON CENTER (08),276.0
+Terry R. McAuliffe,2.0,Alexandria City,76.60%,Democratic,110 - CHARLES HOUSTON CENTER (08),946.0
+Princess L. Blanding,3.0,Alexandria City,0.89%,Liberation,110 - CHARLES HOUSTON CENTER (08),11.0
+Write In,2147483647.0,Alexandria City,0.16%,Write-In,110 - CHARLES HOUSTON CENTER (08),2.0
 Glenn A. Youngkin,1.0,Alexandria City,27.16%,Republican,111 - POTOMAC YARD (08),173.0
 Terry R. McAuliffe,2.0,Alexandria City,71.90%,Democratic,111 - POTOMAC YARD (08),458.0
 Princess L. Blanding,3.0,Alexandria City,0.63%,Liberation,111 - POTOMAC YARD (08),4.0
@@ -9199,9 +9199,9 @@ Glenn A. Youngkin,1.0,Alexandria City,22.94%,Republican,209 - JAMES K POLK SCHOO
 Terry R. McAuliffe,2.0,Alexandria City,76.44%,Democratic,209 - JAMES K POLK SCHOOL (08),993.0
 Princess L. Blanding,3.0,Alexandria City,0.46%,Liberation,209 - JAMES K POLK SCHOOL (08),6.0
 Write In,2147483647.0,Alexandria City,0.15%,Write-In,209 - JAMES K POLK SCHOOL (08),2.0
-Glenn A. Youngkin,1.0,Alexandria City,0.00%,Republican,210 - The Hermitage (08),0.0
-Terry R. McAuliffe,2.0,Alexandria City,0.00%,Democratic,210 - The Hermitage (08),0.0
-Princess L. Blanding,3.0,Alexandria City,0.00%,Liberation,210 - The Hermitage (08),0.0
+Glenn A. Youngkin,1.0,Alexandria City,34.14%,Republican,210 - The Hermitage (08),184.0
+Terry R. McAuliffe,2.0,Alexandria City,65.31%,Democratic,210 - The Hermitage (08),352.0
+Princess L. Blanding,3.0,Alexandria City,0.56%,Liberation,210 - The Hermitage (08),3.0
 Write In,2147483647.0,Alexandria City,0.00%,Write-In,210 - The Hermitage (08),0.0
 Glenn A. Youngkin,1.0,Alexandria City,23.85%,Republican,302 - PATRICK HENRY REC CENTER (08),202.0
 Terry R. McAuliffe,2.0,Alexandria City,74.97%,Democratic,302 - PATRICK HENRY REC CENTER (08),635.0
@@ -9215,18 +9215,18 @@ Glenn A. Youngkin,1.0,Alexandria City,24.10%,Republican,304 - SAMUEL TUCKER SCHO
 Terry R. McAuliffe,2.0,Alexandria City,73.99%,Democratic,304 - SAMUEL TUCKER SCHOOL (08),660.0
 Princess L. Blanding,3.0,Alexandria City,1.68%,Liberation,304 - SAMUEL TUCKER SCHOOL (08),15.0
 Write In,2147483647.0,Alexandria City,0.22%,Write-In,304 - SAMUEL TUCKER SCHOOL (08),2.0
-Glenn A. Youngkin,1.0,Alexandria City,0.00%,Republican,305 - JOHN ADAMS SCHOOL (08),0.0
-Terry R. McAuliffe,2.0,Alexandria City,0.00%,Democratic,305 - JOHN ADAMS SCHOOL (08),0.0
-Princess L. Blanding,3.0,Alexandria City,0.00%,Liberation,305 - JOHN ADAMS SCHOOL (08),0.0
-Write In,2147483647.0,Alexandria City,0.00%,Write-In,305 - JOHN ADAMS SCHOOL (08),0.0
+Glenn A. Youngkin,1.0,Alexandria City,26.15%,Republican,305 - JOHN ADAMS SCHOOL (08),255.0
+Terry R. McAuliffe,2.0,Alexandria City,73.13%,Democratic,305 - JOHN ADAMS SCHOOL (08),713.0
+Princess L. Blanding,3.0,Alexandria City,0.51%,Liberation,305 - JOHN ADAMS SCHOOL (08),5.0
+Write In,2147483647.0,Alexandria City,0.21%,Write-In,305 - JOHN ADAMS SCHOOL (08),2.0
 Glenn A. Youngkin,1.0,Alexandria City,24.01%,Republican,306 - WILLIAM RAMSAY SCHOOL (08),266.0
 Terry R. McAuliffe,2.0,Alexandria City,74.55%,Democratic,306 - WILLIAM RAMSAY SCHOOL (08),826.0
 Princess L. Blanding,3.0,Alexandria City,1.35%,Liberation,306 - WILLIAM RAMSAY SCHOOL (08),15.0
 Write In,2147483647.0,Alexandria City,0.09%,Write-In,306 - WILLIAM RAMSAY SCHOOL (08),1.0
-Glenn A. Youngkin,1.0,Alexandria City,0.00%,Republican,307 - SOUTH PORT (08),0.0
-Terry R. McAuliffe,2.0,Alexandria City,0.00%,Democratic,307 - SOUTH PORT (08),0.0
-Princess L. Blanding,3.0,Alexandria City,0.00%,Liberation,307 - SOUTH PORT (08),0.0
-Write In,2147483647.0,Alexandria City,0.00%,Write-In,307 - SOUTH PORT (08),0.0
+Glenn A. Youngkin,1.0,Alexandria City,27.00%,Republican,307 - SOUTH PORT (08),287.0
+Terry R. McAuliffe,2.0,Alexandria City,71.31%,Democratic,307 - SOUTH PORT (08),758.0
+Princess L. Blanding,3.0,Alexandria City,1.41%,Liberation,307 - SOUTH PORT (08),15.0
+Write In,2147483647.0,Alexandria City,0.28%,Write-In,307 - SOUTH PORT (08),3.0
 Glenn A. Youngkin,1.0,Alexandria City,33.28%,Republican,308 - CAMERON STATION COMMUNITY CTR (08),448.0
 Terry R. McAuliffe,2.0,Alexandria City,65.90%,Democratic,308 - CAMERON STATION COMMUNITY CTR (08),887.0
 Princess L. Blanding,3.0,Alexandria City,0.74%,Liberation,308 - CAMERON STATION COMMUNITY CTR (08),10.0
@@ -9295,10 +9295,10 @@ Glenn A. Youngkin,1.0,Charlottesville City,8.70%,Republican,# AB - Central Absen
 Terry R. McAuliffe,2.0,Charlottesville City,89.81%,Democratic,# AB - Central Absentee Precinct (05),1859.0
 Princess L. Blanding,3.0,Charlottesville City,1.35%,Liberation,# AB - Central Absentee Precinct (05),28.0
 Write In,2147483647.0,Charlottesville City,0.14%,Write-In,# AB - Central Absentee Precinct (05),3.0
-Glenn A. Youngkin,1.0,Charlottesville City,0.00%,Republican,# EV - Central Absentee Precinct (05),0.0
-Terry R. McAuliffe,2.0,Charlottesville City,0.00%,Democratic,# EV - Central Absentee Precinct (05),0.0
-Princess L. Blanding,3.0,Charlottesville City,0.00%,Liberation,# EV - Central Absentee Precinct (05),0.0
-Write In,2147483647.0,Charlottesville City,0.00%,Write-In,# EV - Central Absentee Precinct (05),0.0
+Glenn A. Youngkin,1.0,Charlottesville City,10.86%,Republican,# EV - Central Absentee Precinct (05),492.0
+Terry R. McAuliffe,2.0,Charlottesville City,88.50%,Democratic,# EV - Central Absentee Precinct (05),4010.0
+Princess L. Blanding,3.0,Charlottesville City,0.60%,Liberation,# EV - Central Absentee Precinct (05),27.0
+Write In,2147483647.0,Charlottesville City,0.04%,Write-In,# EV - Central Absentee Precinct (05),2.0
 Glenn A. Youngkin,1.0,Charlottesville City,0.00%,Republican,# PE - Central Absentee Precinct (05),0.0
 Terry R. McAuliffe,2.0,Charlottesville City,0.00%,Democratic,# PE - Central Absentee Precinct (05),0.0
 Princess L. Blanding,3.0,Charlottesville City,0.00%,Liberation,# PE - Central Absentee Precinct (05),0.0
@@ -9379,17 +9379,17 @@ Glenn A. Youngkin,1.0,Chesapeake City,71.53%,Republican,001 - GREAT BRIDGE (04),
 Terry R. McAuliffe,2.0,Chesapeake City,27.55%,Democratic,001 - GREAT BRIDGE (04),240.0
 Princess L. Blanding,3.0,Chesapeake City,0.69%,Liberation,001 - GREAT BRIDGE (04),6.0
 Write In,2147483647.0,Chesapeake City,0.23%,Write-In,001 - GREAT BRIDGE (04),2.0
-Glenn A. Youngkin,1.0,Chesapeake City,0.00%,Republican,002 - BETHEL (04),0.0
-Terry R. McAuliffe,2.0,Chesapeake City,0.00%,Democratic,002 - BETHEL (04),0.0
-Princess L. Blanding,3.0,Chesapeake City,0.00%,Liberation,002 - BETHEL (04),0.0
+Glenn A. Youngkin,1.0,Chesapeake City,87.60%,Republican,002 - BETHEL (04),989.0
+Terry R. McAuliffe,2.0,Chesapeake City,12.13%,Democratic,002 - BETHEL (04),137.0
+Princess L. Blanding,3.0,Chesapeake City,0.27%,Liberation,002 - BETHEL (04),3.0
 Write In,2147483647.0,Chesapeake City,0.00%,Write-In,002 - BETHEL (04),0.0
-Glenn A. Youngkin,1.0,Chesapeake City,0.00%,Republican,003 - CAMELOT (03),0.0
-Terry R. McAuliffe,2.0,Chesapeake City,0.00%,Democratic,003 - CAMELOT (03),0.0
-Princess L. Blanding,3.0,Chesapeake City,0.00%,Liberation,003 - CAMELOT (03),0.0
+Glenn A. Youngkin,1.0,Chesapeake City,12.75%,Republican,003 - CAMELOT (03),84.0
+Terry R. McAuliffe,2.0,Chesapeake City,84.98%,Democratic,003 - CAMELOT (03),560.0
+Princess L. Blanding,3.0,Chesapeake City,2.28%,Liberation,003 - CAMELOT (03),15.0
 Write In,2147483647.0,Chesapeake City,0.00%,Write-In,003 - CAMELOT (03),0.0
 Glenn A. Youngkin,1.0,Chesapeake City,0.00%,Republican,004 - CHURCHLAND (03),0.0
-Terry R. McAuliffe,2.0,Chesapeake City,0.00%,Democratic,004 - CHURCHLAND (03),0.0
-Princess L. Blanding,3.0,Chesapeake City,0.00%,Liberation,004 - CHURCHLAND (03),0.0
+Terry R. McAuliffe,2.0,Chesapeake City,98.25%,Democratic,004 - CHURCHLAND (03),225.0
+Princess L. Blanding,3.0,Chesapeake City,1.75%,Liberation,004 - CHURCHLAND (03),4.0
 Write In,2147483647.0,Chesapeake City,0.00%,Write-In,004 - CHURCHLAND (03),0.0
 Glenn A. Youngkin,1.0,Chesapeake City,16.85%,Republican,005 - CRESTWOOD (03),139.0
 Terry R. McAuliffe,2.0,Chesapeake City,82.06%,Democratic,005 - CRESTWOOD (03),677.0
@@ -9415,9 +9415,9 @@ Glenn A. Youngkin,1.0,Chesapeake City,56.89%,Republican,010 - OSCAR SMITH (03),2
 Terry R. McAuliffe,2.0,Chesapeake City,42.32%,Democratic,010 - OSCAR SMITH (03),212.0
 Princess L. Blanding,3.0,Chesapeake City,0.80%,Liberation,010 - OSCAR SMITH (03),4.0
 Write In,2147483647.0,Chesapeake City,0.00%,Write-In,010 - OSCAR SMITH (03),0.0
-Glenn A. Youngkin,1.0,Chesapeake City,0.00%,Republican,011 - GENEVA PARK (03),0.0
-Terry R. McAuliffe,2.0,Chesapeake City,0.00%,Democratic,011 - GENEVA PARK (03),0.0
-Princess L. Blanding,3.0,Chesapeake City,0.00%,Liberation,011 - GENEVA PARK (03),0.0
+Glenn A. Youngkin,1.0,Chesapeake City,64.83%,Republican,011 - GENEVA PARK (03),483.0
+Terry R. McAuliffe,2.0,Chesapeake City,33.83%,Democratic,011 - GENEVA PARK (03),252.0
+Princess L. Blanding,3.0,Chesapeake City,1.34%,Liberation,011 - GENEVA PARK (03),10.0
 Write In,2147483647.0,Chesapeake City,0.00%,Write-In,011 - GENEVA PARK (03),0.0
 Glenn A. Youngkin,1.0,Chesapeake City,21.48%,Republican,012 - GEORGETOWN (03),122.0
 Terry R. McAuliffe,2.0,Chesapeake City,77.29%,Democratic,012 - GEORGETOWN (03),439.0
@@ -9607,10 +9607,10 @@ Glenn A. Youngkin,1.0,Chesapeake City,75.03%,Republican,060 - PARKER ROAD (04),6
 Terry R. McAuliffe,2.0,Chesapeake City,24.64%,Democratic,060 - PARKER ROAD (04),224.0
 Princess L. Blanding,3.0,Chesapeake City,0.22%,Liberation,060 - PARKER ROAD (04),2.0
 Write In,2147483647.0,Chesapeake City,0.11%,Write-In,060 - PARKER ROAD (04),1.0
-Glenn A. Youngkin,1.0,Chesapeake City,0.00%,Republican,061 - CENTERVILLE (04),0.0
-Terry R. McAuliffe,2.0,Chesapeake City,0.00%,Democratic,061 - CENTERVILLE (04),0.0
-Princess L. Blanding,3.0,Chesapeake City,0.00%,Liberation,061 - CENTERVILLE (04),0.0
-Write In,2147483647.0,Chesapeake City,0.00%,Write-In,061 - CENTERVILLE (04),0.0
+Glenn A. Youngkin,1.0,Chesapeake City,74.04%,Republican,061 - CENTERVILLE (04),1007.0
+Terry R. McAuliffe,2.0,Chesapeake City,25.44%,Democratic,061 - CENTERVILLE (04),346.0
+Princess L. Blanding,3.0,Chesapeake City,0.44%,Liberation,061 - CENTERVILLE (04),6.0
+Write In,2147483647.0,Chesapeake City,0.07%,Write-In,061 - CENTERVILLE (04),1.0
 Glenn A. Youngkin,1.0,Chesapeake City,0.00%,Republican,062 - FENTRESS (04),0.0
 Terry R. McAuliffe,2.0,Chesapeake City,0.00%,Democratic,062 - FENTRESS (04),0.0
 Princess L. Blanding,3.0,Chesapeake City,0.00%,Liberation,062 - FENTRESS (04),0.0
@@ -10259,10 +10259,10 @@ Glenn A. Youngkin,1.0,Lexington City,48.47%,Republican,001 - LEXINGTON (06),474.
 Terry R. McAuliffe,2.0,Lexington City,50.61%,Democratic,001 - LEXINGTON (06),495.0
 Princess L. Blanding,3.0,Lexington City,0.51%,Liberation,001 - LEXINGTON (06),5.0
 Write In,2147483647.0,Lexington City,0.41%,Write-In,001 - LEXINGTON (06),4.0
-Glenn A. Youngkin,1.0,Lynchburg City,0.00%,Republican,# AB - Central Absentee Precinct (06),0.0
-Terry R. McAuliffe,2.0,Lynchburg City,0.00%,Democratic,# AB - Central Absentee Precinct (06),0.0
-Princess L. Blanding,3.0,Lynchburg City,0.00%,Liberation,# AB - Central Absentee Precinct (06),0.0
-Write In,2147483647.0,Lynchburg City,0.00%,Write-In,# AB - Central Absentee Precinct (06),0.0
+Glenn A. Youngkin,1.0,Lynchburg City,25.67%,Republican,# AB - Central Absentee Precinct (06),726.0
+Terry R. McAuliffe,2.0,Lynchburg City,72.60%,Democratic,# AB - Central Absentee Precinct (06),2053.0
+Princess L. Blanding,3.0,Lynchburg City,1.59%,Liberation,# AB - Central Absentee Precinct (06),45.0
+Write In,2147483647.0,Lynchburg City,0.14%,Write-In,# AB - Central Absentee Precinct (06),4.0
 Glenn A. Youngkin,1.0,Lynchburg City,41.36%,Republican,# EV - Central Absentee Precinct (06),2117.0
 Terry R. McAuliffe,2.0,Lynchburg City,58.18%,Democratic,# EV - Central Absentee Precinct (06),2978.0
 Princess L. Blanding,3.0,Lynchburg City,0.43%,Liberation,# EV - Central Absentee Precinct (06),22.0
@@ -10707,10 +10707,10 @@ Glenn A. Youngkin,1.0,Norfolk City,0.00%,Republican,## Provisional (03),0.0
 Terry R. McAuliffe,2.0,Norfolk City,0.00%,Democratic,## Provisional (03),0.0
 Princess L. Blanding,3.0,Norfolk City,0.00%,Liberation,## Provisional (03),0.0
 Write In,2147483647.0,Norfolk City,0.00%,Write-In,## Provisional (03),0.0
-Glenn A. Youngkin,1.0,Norfolk City,0.00%,Republican,101 - GRANBY (03),0.0
-Terry R. McAuliffe,2.0,Norfolk City,0.00%,Democratic,101 - GRANBY (03),0.0
-Princess L. Blanding,3.0,Norfolk City,0.00%,Liberation,101 - GRANBY (03),0.0
-Write In,2147483647.0,Norfolk City,0.00%,Write-In,101 - GRANBY (03),0.0
+Glenn A. Youngkin,1.0,Norfolk City,37.16%,Republican,101 - GRANBY (03),424.0
+Terry R. McAuliffe,2.0,Norfolk City,61.88%,Democratic,101 - GRANBY (03),706.0
+Princess L. Blanding,3.0,Norfolk City,0.88%,Liberation,101 - GRANBY (03),10.0
+Write In,2147483647.0,Norfolk City,0.09%,Write-In,101 - GRANBY (03),1.0
 Glenn A. Youngkin,1.0,Norfolk City,55.93%,Republican,102 - OCEAN VIEW SCHOOL (02),297.0
 Terry R. McAuliffe,2.0,Norfolk City,43.13%,Democratic,102 - OCEAN VIEW SCHOOL (02),229.0
 Princess L. Blanding,3.0,Norfolk City,0.94%,Liberation,102 - OCEAN VIEW SCHOOL (02),5.0
@@ -10855,34 +10855,34 @@ Glenn A. Youngkin,1.0,Norfolk City,22.55%,Republican,413 - POPLAR HALLS (03),214
 Terry R. McAuliffe,2.0,Norfolk City,75.87%,Democratic,413 - POPLAR HALLS (03),720.0
 Princess L. Blanding,3.0,Norfolk City,1.37%,Liberation,413 - POPLAR HALLS (03),13.0
 Write In,2147483647.0,Norfolk City,0.21%,Write-In,413 - POPLAR HALLS (03),2.0
-Glenn A. Youngkin,1.0,Norfolk City,0.00%,Republican,414 - YOUNG PARK (03),0.0
-Terry R. McAuliffe,2.0,Norfolk City,0.00%,Democratic,414 - YOUNG PARK (03),0.0
-Princess L. Blanding,3.0,Norfolk City,0.00%,Liberation,414 - YOUNG PARK (03),0.0
+Glenn A. Youngkin,1.0,Norfolk City,7.20%,Republican,414 - YOUNG PARK (03),37.0
+Terry R. McAuliffe,2.0,Norfolk City,90.47%,Democratic,414 - YOUNG PARK (03),465.0
+Princess L. Blanding,3.0,Norfolk City,2.33%,Liberation,414 - YOUNG PARK (03),12.0
 Write In,2147483647.0,Norfolk City,0.00%,Write-In,414 - YOUNG PARK (03),0.0
-Glenn A. Youngkin,1.0,Norfolk City,0.00%,Republican,415 - LAKE TAYLOR HIGH SCHOOL (03),0.0
-Terry R. McAuliffe,2.0,Norfolk City,0.00%,Democratic,415 - LAKE TAYLOR HIGH SCHOOL (03),0.0
-Princess L. Blanding,3.0,Norfolk City,0.00%,Liberation,415 - LAKE TAYLOR HIGH SCHOOL (03),0.0
+Glenn A. Youngkin,1.0,Norfolk City,44.09%,Republican,415 - LAKE TAYLOR HIGH SCHOOL (03),302.0
+Terry R. McAuliffe,2.0,Norfolk City,53.58%,Democratic,415 - LAKE TAYLOR HIGH SCHOOL (03),367.0
+Princess L. Blanding,3.0,Norfolk City,2.34%,Liberation,415 - LAKE TAYLOR HIGH SCHOOL (03),16.0
 Write In,2147483647.0,Norfolk City,0.00%,Write-In,415 - LAKE TAYLOR HIGH SCHOOL (03),0.0
-Glenn A. Youngkin,1.0,Norfolk City,0.00%,Republican,501 - BAYVIEW (02),0.0
-Terry R. McAuliffe,2.0,Norfolk City,0.00%,Democratic,501 - BAYVIEW (02),0.0
-Princess L. Blanding,3.0,Norfolk City,0.00%,Liberation,501 - BAYVIEW (02),0.0
+Glenn A. Youngkin,1.0,Norfolk City,56.47%,Republican,501 - BAYVIEW (02),607.0
+Terry R. McAuliffe,2.0,Norfolk City,42.23%,Democratic,501 - BAYVIEW (02),454.0
+Princess L. Blanding,3.0,Norfolk City,1.30%,Liberation,501 - BAYVIEW (02),14.0
 Write In,2147483647.0,Norfolk City,0.00%,Write-In,501 - BAYVIEW (02),0.0
-Glenn A. Youngkin,1.0,Norfolk City,0.00%,Republican,503 - EAST OCEAN VIEW (02),0.0
-Terry R. McAuliffe,2.0,Norfolk City,0.00%,Democratic,503 - EAST OCEAN VIEW (02),0.0
-Princess L. Blanding,3.0,Norfolk City,0.00%,Liberation,503 - EAST OCEAN VIEW (02),0.0
-Write In,2147483647.0,Norfolk City,0.00%,Write-In,503 - EAST OCEAN VIEW (02),0.0
-Glenn A. Youngkin,1.0,Norfolk City,0.00%,Republican,504 - LARRYMORE (02),0.0
-Terry R. McAuliffe,2.0,Norfolk City,0.00%,Democratic,504 - LARRYMORE (02),0.0
-Princess L. Blanding,3.0,Norfolk City,0.00%,Liberation,504 - LARRYMORE (02),0.0
+Glenn A. Youngkin,1.0,Norfolk City,54.69%,Republican,503 - EAST OCEAN VIEW (02),630.0
+Terry R. McAuliffe,2.0,Norfolk City,44.18%,Democratic,503 - EAST OCEAN VIEW (02),509.0
+Princess L. Blanding,3.0,Norfolk City,1.04%,Liberation,503 - EAST OCEAN VIEW (02),12.0
+Write In,2147483647.0,Norfolk City,0.09%,Write-In,503 - EAST OCEAN VIEW (02),1.0
+Glenn A. Youngkin,1.0,Norfolk City,45.70%,Republican,504 - LARRYMORE (02),420.0
+Terry R. McAuliffe,2.0,Norfolk City,53.21%,Democratic,504 - LARRYMORE (02),489.0
+Princess L. Blanding,3.0,Norfolk City,1.09%,Liberation,504 - LARRYMORE (02),10.0
 Write In,2147483647.0,Norfolk City,0.00%,Write-In,504 - LARRYMORE (02),0.0
 Glenn A. Youngkin,1.0,Norfolk City,57.26%,Republican,505 - LITTLE CREEK (02),434.0
 Terry R. McAuliffe,2.0,Norfolk City,41.29%,Democratic,505 - LITTLE CREEK (02),313.0
 Princess L. Blanding,3.0,Norfolk City,1.19%,Liberation,505 - LITTLE CREEK (02),9.0
 Write In,2147483647.0,Norfolk City,0.26%,Write-In,505 - LITTLE CREEK (02),2.0
-Glenn A. Youngkin,1.0,Norfolk City,0.00%,Republican,506 - OCEAN VIEW CENTER (02),0.0
-Terry R. McAuliffe,2.0,Norfolk City,0.00%,Democratic,506 - OCEAN VIEW CENTER (02),0.0
-Princess L. Blanding,3.0,Norfolk City,0.00%,Liberation,506 - OCEAN VIEW CENTER (02),0.0
-Write In,2147483647.0,Norfolk City,0.00%,Write-In,506 - OCEAN VIEW CENTER (02),0.0
+Glenn A. Youngkin,1.0,Norfolk City,43.58%,Republican,506 - OCEAN VIEW CENTER (02),445.0
+Terry R. McAuliffe,2.0,Norfolk City,54.65%,Democratic,506 - OCEAN VIEW CENTER (02),558.0
+Princess L. Blanding,3.0,Norfolk City,1.57%,Liberation,506 - OCEAN VIEW CENTER (02),16.0
+Write In,2147483647.0,Norfolk City,0.20%,Write-In,506 - OCEAN VIEW CENTER (02),2.0
 Glenn A. Youngkin,1.0,Norfolk City,48.86%,Republican,507 - PRETLOW (02),429.0
 Terry R. McAuliffe,2.0,Norfolk City,48.63%,Democratic,507 - PRETLOW (02),427.0
 Princess L. Blanding,3.0,Norfolk City,2.28%,Liberation,507 - PRETLOW (02),20.0
@@ -11167,14 +11167,14 @@ Glenn A. Youngkin,1.0,Radford City,55.23%,Republican,004 - NEW RIVER PRECINCT (0
 Terry R. McAuliffe,2.0,Radford City,43.16%,Democratic,004 - NEW RIVER PRECINCT (09),161.0
 Princess L. Blanding,3.0,Radford City,1.61%,Liberation,004 - NEW RIVER PRECINCT (09),6.0
 Write In,2147483647.0,Radford City,0.00%,Write-In,004 - NEW RIVER PRECINCT (09),0.0
-Glenn A. Youngkin,1.0,Richmond City,0.00%,Republican,# AB - Central Absentee Precinct (04),0.0
-Terry R. McAuliffe,2.0,Richmond City,0.00%,Democratic,# AB - Central Absentee Precinct (04),0.0
-Princess L. Blanding,3.0,Richmond City,0.00%,Liberation,# AB - Central Absentee Precinct (04),0.0
-Write In,2147483647.0,Richmond City,0.00%,Write-In,# AB - Central Absentee Precinct (04),0.0
-Glenn A. Youngkin,1.0,Richmond City,0.00%,Republican,# EV - Central Absentee Precinct (04),0.0
-Terry R. McAuliffe,2.0,Richmond City,0.00%,Democratic,# EV - Central Absentee Precinct (04),0.0
-Princess L. Blanding,3.0,Richmond City,0.00%,Liberation,# EV - Central Absentee Precinct (04),0.0
-Write In,2147483647.0,Richmond City,0.00%,Write-In,# EV - Central Absentee Precinct (04),0.0
+Glenn A. Youngkin,1.0,Richmond City,12.06%,Republican,# AB - Central Absentee Precinct (04),745.0
+Terry R. McAuliffe,2.0,Richmond City,85.11%,Democratic,# AB - Central Absentee Precinct (04),5259.0
+Princess L. Blanding,3.0,Richmond City,2.70%,Liberation,# AB - Central Absentee Precinct (04),167.0
+Write In,2147483647.0,Richmond City,0.13%,Write-In,# AB - Central Absentee Precinct (04),8.0
+Glenn A. Youngkin,1.0,Richmond City,16.39%,Republican,# EV - Central Absentee Precinct (04),3354.0
+Terry R. McAuliffe,2.0,Richmond City,82.10%,Democratic,# EV - Central Absentee Precinct (04),16806.0
+Princess L. Blanding,3.0,Richmond City,1.49%,Liberation,# EV - Central Absentee Precinct (04),306.0
+Write In,2147483647.0,Richmond City,0.01%,Write-In,# EV - Central Absentee Precinct (04),3.0
 Glenn A. Youngkin,1.0,Richmond City,0.00%,Republican,# PE - Central Absentee Precinct (04),0.0
 Terry R. McAuliffe,2.0,Richmond City,0.00%,Democratic,# PE - Central Absentee Precinct (04),0.0
 Princess L. Blanding,3.0,Richmond City,0.00%,Liberation,# PE - Central Absentee Precinct (04),0.0
@@ -11363,10 +11363,10 @@ Glenn A. Youngkin,1.0,Richmond City,7.65%,Republican,603 - SIX HUNDRED THREE (04
 Terry R. McAuliffe,2.0,Richmond City,86.58%,Democratic,603 - SIX HUNDRED THREE (04),600.0
 Princess L. Blanding,3.0,Richmond City,5.63%,Liberation,603 - SIX HUNDRED THREE (04),39.0
 Write In,2147483647.0,Richmond City,0.14%,Write-In,603 - SIX HUNDRED THREE (04),1.0
-Glenn A. Youngkin,1.0,Richmond City,0.00%,Republican,604 - SIX HUNDRED FOUR (04),0.0
-Terry R. McAuliffe,2.0,Richmond City,0.00%,Democratic,604 - SIX HUNDRED FOUR (04),0.0
-Princess L. Blanding,3.0,Richmond City,0.00%,Liberation,604 - SIX HUNDRED FOUR (04),0.0
-Write In,2147483647.0,Richmond City,0.00%,Write-In,604 - SIX HUNDRED FOUR (04),0.0
+Glenn A. Youngkin,1.0,Richmond City,7.63%,Republican,604 - SIX HUNDRED FOUR (04),39.0
+Terry R. McAuliffe,2.0,Richmond City,84.74%,Democratic,604 - SIX HUNDRED FOUR (04),433.0
+Princess L. Blanding,3.0,Richmond City,7.44%,Liberation,604 - SIX HUNDRED FOUR (04),38.0
+Write In,2147483647.0,Richmond City,0.20%,Write-In,604 - SIX HUNDRED FOUR (04),1.0
 Glenn A. Youngkin,1.0,Richmond City,6.14%,Republican,606 - SIX HUNDRED SIX (04),44.0
 Terry R. McAuliffe,2.0,Richmond City,89.12%,Democratic,606 - SIX HUNDRED SIX (04),639.0
 Princess L. Blanding,3.0,Richmond City,4.60%,Liberation,606 - SIX HUNDRED SIX (04),33.0
@@ -11431,42 +11431,42 @@ Glenn A. Youngkin,1.0,Richmond City,15.52%,Republican,812 - EIGHT HUNDRED TWELVE
 Terry R. McAuliffe,2.0,Richmond City,82.18%,Democratic,812 - EIGHT HUNDRED TWELVE (04),715.0
 Princess L. Blanding,3.0,Richmond City,2.18%,Liberation,812 - EIGHT HUNDRED TWELVE (04),19.0
 Write In,2147483647.0,Richmond City,0.11%,Write-In,812 - EIGHT HUNDRED TWELVE (04),1.0
-Glenn A. Youngkin,1.0,Richmond City,0.00%,Republican,814 - EIGHT HUNDRED FOURTEEN (04),0.0
-Terry R. McAuliffe,2.0,Richmond City,0.00%,Democratic,814 - EIGHT HUNDRED FOURTEEN (04),0.0
-Princess L. Blanding,3.0,Richmond City,0.00%,Liberation,814 - EIGHT HUNDRED FOURTEEN (04),0.0
+Glenn A. Youngkin,1.0,Richmond City,8.36%,Republican,814 - EIGHT HUNDRED FOURTEEN (04),30.0
+Terry R. McAuliffe,2.0,Richmond City,89.14%,Democratic,814 - EIGHT HUNDRED FOURTEEN (04),320.0
+Princess L. Blanding,3.0,Richmond City,2.51%,Liberation,814 - EIGHT HUNDRED FOURTEEN (04),9.0
 Write In,2147483647.0,Richmond City,0.00%,Write-In,814 - EIGHT HUNDRED FOURTEEN (04),0.0
-Glenn A. Youngkin,1.0,Richmond City,0.00%,Republican,902 - NINE HUNDRED TWO (04),0.0
-Terry R. McAuliffe,2.0,Richmond City,0.00%,Democratic,902 - NINE HUNDRED TWO (04),0.0
-Princess L. Blanding,3.0,Richmond City,0.00%,Liberation,902 - NINE HUNDRED TWO (04),0.0
+Glenn A. Youngkin,1.0,Richmond City,7.43%,Republican,902 - NINE HUNDRED TWO (04),15.0
+Terry R. McAuliffe,2.0,Richmond City,88.61%,Democratic,902 - NINE HUNDRED TWO (04),179.0
+Princess L. Blanding,3.0,Richmond City,3.96%,Liberation,902 - NINE HUNDRED TWO (04),8.0
 Write In,2147483647.0,Richmond City,0.00%,Write-In,902 - NINE HUNDRED TWO (04),0.0
-Glenn A. Youngkin,1.0,Richmond City,0.00%,Republican,903 - NINE HUNDRED THREE (04),0.0
-Terry R. McAuliffe,2.0,Richmond City,0.00%,Democratic,903 - NINE HUNDRED THREE (04),0.0
-Princess L. Blanding,3.0,Richmond City,0.00%,Liberation,903 - NINE HUNDRED THREE (04),0.0
+Glenn A. Youngkin,1.0,Richmond City,16.87%,Republican,903 - NINE HUNDRED THREE (04),95.0
+Terry R. McAuliffe,2.0,Richmond City,80.11%,Democratic,903 - NINE HUNDRED THREE (04),451.0
+Princess L. Blanding,3.0,Richmond City,3.02%,Liberation,903 - NINE HUNDRED THREE (04),17.0
 Write In,2147483647.0,Richmond City,0.00%,Write-In,903 - NINE HUNDRED THREE (04),0.0
-Glenn A. Youngkin,1.0,Richmond City,0.00%,Republican,908 - NINE HUNDRED EIGHT (04),0.0
-Terry R. McAuliffe,2.0,Richmond City,0.00%,Democratic,908 - NINE HUNDRED EIGHT (04),0.0
-Princess L. Blanding,3.0,Richmond City,0.00%,Liberation,908 - NINE HUNDRED EIGHT (04),0.0
-Write In,2147483647.0,Richmond City,0.00%,Write-In,908 - NINE HUNDRED EIGHT (04),0.0
-Glenn A. Youngkin,1.0,Richmond City,0.00%,Republican,909 - NINE HUNDRED NINE (04),0.0
-Terry R. McAuliffe,2.0,Richmond City,0.00%,Democratic,909 - NINE HUNDRED NINE (04),0.0
-Princess L. Blanding,3.0,Richmond City,0.00%,Liberation,909 - NINE HUNDRED NINE (04),0.0
+Glenn A. Youngkin,1.0,Richmond City,13.18%,Republican,908 - NINE HUNDRED EIGHT (04),75.0
+Terry R. McAuliffe,2.0,Richmond City,84.01%,Democratic,908 - NINE HUNDRED EIGHT (04),478.0
+Princess L. Blanding,3.0,Richmond City,2.64%,Liberation,908 - NINE HUNDRED EIGHT (04),15.0
+Write In,2147483647.0,Richmond City,0.18%,Write-In,908 - NINE HUNDRED EIGHT (04),1.0
+Glenn A. Youngkin,1.0,Richmond City,14.60%,Republican,909 - NINE HUNDRED NINE (04),101.0
+Terry R. McAuliffe,2.0,Richmond City,81.65%,Democratic,909 - NINE HUNDRED NINE (04),565.0
+Princess L. Blanding,3.0,Richmond City,3.76%,Liberation,909 - NINE HUNDRED NINE (04),26.0
 Write In,2147483647.0,Richmond City,0.00%,Write-In,909 - NINE HUNDRED NINE (04),0.0
-Glenn A. Youngkin,1.0,Richmond City,0.00%,Republican,910 - NINE HUNDRED TEN (04),0.0
-Terry R. McAuliffe,2.0,Richmond City,0.00%,Democratic,910 - NINE HUNDRED TEN (04),0.0
-Princess L. Blanding,3.0,Richmond City,0.00%,Liberation,910 - NINE HUNDRED TEN (04),0.0
+Glenn A. Youngkin,1.0,Richmond City,15.36%,Republican,910 - NINE HUNDRED TEN (04),88.0
+Terry R. McAuliffe,2.0,Richmond City,83.42%,Democratic,910 - NINE HUNDRED TEN (04),478.0
+Princess L. Blanding,3.0,Richmond City,1.22%,Liberation,910 - NINE HUNDRED TEN (04),7.0
 Write In,2147483647.0,Richmond City,0.00%,Write-In,910 - NINE HUNDRED TEN (04),0.0
-Glenn A. Youngkin,1.0,Richmond City,0.00%,Republican,911 - NINE HUNDRED ELEVEN (04),0.0
-Terry R. McAuliffe,2.0,Richmond City,0.00%,Democratic,911 - NINE HUNDRED ELEVEN (04),0.0
-Princess L. Blanding,3.0,Richmond City,0.00%,Liberation,911 - NINE HUNDRED ELEVEN (04),0.0
+Glenn A. Youngkin,1.0,Richmond City,6.12%,Republican,911 - NINE HUNDRED ELEVEN (04),35.0
+Terry R. McAuliffe,2.0,Richmond City,91.43%,Democratic,911 - NINE HUNDRED ELEVEN (04),523.0
+Princess L. Blanding,3.0,Richmond City,2.45%,Liberation,911 - NINE HUNDRED ELEVEN (04),14.0
 Write In,2147483647.0,Richmond City,0.00%,Write-In,911 - NINE HUNDRED ELEVEN (04),0.0
 Glenn A. Youngkin,1.0,Roanoke City,19.85%,Republican,# AB - Central Absentee Precinct (06),597.0
 Terry R. McAuliffe,2.0,Roanoke City,78.25%,Democratic,# AB - Central Absentee Precinct (06),2353.0
 Princess L. Blanding,3.0,Roanoke City,1.70%,Liberation,# AB - Central Absentee Precinct (06),51.0
 Write In,2147483647.0,Roanoke City,0.20%,Write-In,# AB - Central Absentee Precinct (06),6.0
-Glenn A. Youngkin,1.0,Roanoke City,0.00%,Republican,# EV - Central Absentee Precinct (06),0.0
-Terry R. McAuliffe,2.0,Roanoke City,0.00%,Democratic,# EV - Central Absentee Precinct (06),0.0
-Princess L. Blanding,3.0,Roanoke City,0.00%,Liberation,# EV - Central Absentee Precinct (06),0.0
-Write In,2147483647.0,Roanoke City,0.00%,Write-In,# EV - Central Absentee Precinct (06),0.0
+Glenn A. Youngkin,1.0,Roanoke City,32.90%,Republican,# EV - Central Absentee Precinct (06),2658.0
+Terry R. McAuliffe,2.0,Roanoke City,66.49%,Democratic,# EV - Central Absentee Precinct (06),5372.0
+Princess L. Blanding,3.0,Roanoke City,0.56%,Liberation,# EV - Central Absentee Precinct (06),45.0
+Write In,2147483647.0,Roanoke City,0.05%,Write-In,# EV - Central Absentee Precinct (06),4.0
 Glenn A. Youngkin,1.0,Roanoke City,0.00%,Republican,# PE - Central Absentee Precinct (06),0.0
 Terry R. McAuliffe,2.0,Roanoke City,0.00%,Democratic,# PE - Central Absentee Precinct (06),0.0
 Princess L. Blanding,3.0,Roanoke City,0.00%,Liberation,# PE - Central Absentee Precinct (06),0.0
@@ -11771,12 +11771,12 @@ Glenn A. Youngkin,1.0,Suffolk City,52.63%,Republican,601 - LAKESIDE (04),430.0
 Terry R. McAuliffe,2.0,Suffolk City,46.39%,Democratic,601 - LAKESIDE (04),379.0
 Princess L. Blanding,3.0,Suffolk City,0.73%,Liberation,601 - LAKESIDE (04),6.0
 Write In,2147483647.0,Suffolk City,0.24%,Write-In,601 - LAKESIDE (04),2.0
-Glenn A. Youngkin,1.0,Suffolk City,0.00%,Republican,602 - OLDE TOWNE (03),0.0
-Terry R. McAuliffe,2.0,Suffolk City,0.00%,Democratic,602 - OLDE TOWNE (03),0.0
-Princess L. Blanding,3.0,Suffolk City,0.00%,Liberation,602 - OLDE TOWNE (03),0.0
+Glenn A. Youngkin,1.0,Suffolk City,47.93%,Republican,602 - OLDE TOWNE (03),116.0
+Terry R. McAuliffe,2.0,Suffolk City,50.83%,Democratic,602 - OLDE TOWNE (03),123.0
+Princess L. Blanding,3.0,Suffolk City,1.24%,Liberation,602 - OLDE TOWNE (03),3.0
 Write In,2147483647.0,Suffolk City,0.00%,Write-In,602 - OLDE TOWNE (03),0.0
-Glenn A. Youngkin,1.0,Suffolk City,0.00%,Republican,602 - OLDE TOWNE (04),0.0
-Terry R. McAuliffe,2.0,Suffolk City,0.00%,Democratic,602 - OLDE TOWNE (04),0.0
+Glenn A. Youngkin,1.0,Suffolk City,50.00%,Republican,602 - OLDE TOWNE (04),1.0
+Terry R. McAuliffe,2.0,Suffolk City,50.00%,Democratic,602 - OLDE TOWNE (04),1.0
 Princess L. Blanding,3.0,Suffolk City,0.00%,Liberation,602 - OLDE TOWNE (04),0.0
 Write In,2147483647.0,Suffolk City,0.00%,Write-In,602 - OLDE TOWNE (04),0.0
 Glenn A. Youngkin,1.0,Suffolk City,53.54%,Republican,603 - ELEPHANTS FORK/WESTHAVEN (04),174.0
@@ -11787,9 +11787,9 @@ Glenn A. Youngkin,1.0,Suffolk City,52.54%,Republican,604 - WILROY (03),434.0
 Terry R. McAuliffe,2.0,Suffolk City,46.61%,Democratic,604 - WILROY (03),385.0
 Princess L. Blanding,3.0,Suffolk City,0.85%,Liberation,604 - WILROY (03),7.0
 Write In,2147483647.0,Suffolk City,0.00%,Write-In,604 - WILROY (03),0.0
-Glenn A. Youngkin,1.0,Suffolk City,0.00%,Republican,605 - HOLLYWOOD (03),0.0
-Terry R. McAuliffe,2.0,Suffolk City,0.00%,Democratic,605 - HOLLYWOOD (03),0.0
-Princess L. Blanding,3.0,Suffolk City,0.00%,Liberation,605 - HOLLYWOOD (03),0.0
+Glenn A. Youngkin,1.0,Suffolk City,8.81%,Republican,605 - HOLLYWOOD (03),31.0
+Terry R. McAuliffe,2.0,Suffolk City,90.34%,Democratic,605 - HOLLYWOOD (03),318.0
+Princess L. Blanding,3.0,Suffolk City,0.85%,Liberation,605 - HOLLYWOOD (03),3.0
 Write In,2147483647.0,Suffolk City,0.00%,Write-In,605 - HOLLYWOOD (03),0.0
 Glenn A. Youngkin,1.0,Suffolk City,51.08%,Republican,702 - HARBOURVIEW (03),777.0
 Terry R. McAuliffe,2.0,Suffolk City,48.39%,Democratic,702 - HARBOURVIEW (03),736.0
@@ -11863,13 +11863,13 @@ Glenn A. Youngkin,1.0,Virginia Beach City,55.59%,Republican,011 - CAPE HENRY (02
 Terry R. McAuliffe,2.0,Virginia Beach City,44.07%,Democratic,011 - CAPE HENRY (02),658.0
 Princess L. Blanding,3.0,Virginia Beach City,0.33%,Liberation,011 - CAPE HENRY (02),5.0
 Write In,2147483647.0,Virginia Beach City,0.00%,Write-In,011 - CAPE HENRY (02),0.0
-Glenn A. Youngkin,1.0,Virginia Beach City,0.00%,Republican,012 - PLAZA (02),0.0
-Terry R. McAuliffe,2.0,Virginia Beach City,0.00%,Democratic,012 - PLAZA (02),0.0
-Princess L. Blanding,3.0,Virginia Beach City,0.00%,Liberation,012 - PLAZA (02),0.0
+Glenn A. Youngkin,1.0,Virginia Beach City,52.08%,Republican,012 - PLAZA (02),575.0
+Terry R. McAuliffe,2.0,Virginia Beach City,46.92%,Democratic,012 - PLAZA (02),518.0
+Princess L. Blanding,3.0,Virginia Beach City,1.00%,Liberation,012 - PLAZA (02),11.0
 Write In,2147483647.0,Virginia Beach City,0.00%,Write-In,012 - PLAZA (02),0.0
-Glenn A. Youngkin,1.0,Virginia Beach City,0.00%,Republican,013 - MT TRASHMORE (02),0.0
-Terry R. McAuliffe,2.0,Virginia Beach City,0.00%,Democratic,013 - MT TRASHMORE (02),0.0
-Princess L. Blanding,3.0,Virginia Beach City,0.00%,Liberation,013 - MT TRASHMORE (02),0.0
+Glenn A. Youngkin,1.0,Virginia Beach City,59.84%,Republican,013 - MT TRASHMORE (02),821.0
+Terry R. McAuliffe,2.0,Virginia Beach City,39.29%,Democratic,013 - MT TRASHMORE (02),539.0
+Princess L. Blanding,3.0,Virginia Beach City,0.87%,Liberation,013 - MT TRASHMORE (02),12.0
 Write In,2147483647.0,Virginia Beach City,0.00%,Write-In,013 - MT TRASHMORE (02),0.0
 Glenn A. Youngkin,1.0,Virginia Beach City,60.60%,Republican,014 - MALIBU (02),789.0
 Terry R. McAuliffe,2.0,Virginia Beach City,38.40%,Democratic,014 - MALIBU (02),500.0
@@ -11971,10 +11971,10 @@ Glenn A. Youngkin,1.0,Virginia Beach City,67.90%,Republican,038 - WITCHDUCK (02)
 Terry R. McAuliffe,2.0,Virginia Beach City,31.95%,Democratic,038 - WITCHDUCK (02),440.0
 Princess L. Blanding,3.0,Virginia Beach City,0.15%,Liberation,038 - WITCHDUCK (02),2.0
 Write In,2147483647.0,Virginia Beach City,0.00%,Write-In,038 - WITCHDUCK (02),0.0
-Glenn A. Youngkin,1.0,Virginia Beach City,55.15%,Republican,039 - PEMBROKE (02),718.0
-Terry R. McAuliffe,2.0,Virginia Beach City,43.63%,Democratic,039 - PEMBROKE (02),568.0
+Glenn A. Youngkin,1.0,Virginia Beach City,55.06%,Republican,039 - PEMBROKE (02),718.0
+Terry R. McAuliffe,2.0,Virginia Beach City,43.56%,Democratic,039 - PEMBROKE (02),568.0
 Princess L. Blanding,3.0,Virginia Beach City,1.23%,Liberation,039 - PEMBROKE (02),16.0
-Write In,2147483647.0,Virginia Beach City,0.00%,Write-In,039 - PEMBROKE (02),0.0
+Write In,2147483647.0,Virginia Beach City,0.15%,Write-In,039 - PEMBROKE (02),2.0
 Glenn A. Youngkin,1.0,Virginia Beach City,56.02%,Republican,040 - BONNEY (02),456.0
 Terry R. McAuliffe,2.0,Virginia Beach City,42.63%,Democratic,040 - BONNEY (02),347.0
 Princess L. Blanding,3.0,Virginia Beach City,1.35%,Liberation,040 - BONNEY (02),11.0
@@ -12031,10 +12031,10 @@ Glenn A. Youngkin,1.0,Virginia Beach City,61.89%,Republican,053 - SHANNON (02),6
 Terry R. McAuliffe,2.0,Virginia Beach City,36.78%,Democratic,053 - SHANNON (02),359.0
 Princess L. Blanding,3.0,Virginia Beach City,1.23%,Liberation,053 - SHANNON (02),12.0
 Write In,2147483647.0,Virginia Beach City,0.10%,Write-In,053 - SHANNON (02),1.0
-Glenn A. Youngkin,1.0,Virginia Beach City,58.12%,Republican,054 - CROMWELL (02),433.0
-Terry R. McAuliffe,2.0,Virginia Beach City,40.81%,Democratic,054 - CROMWELL (02),304.0
+Glenn A. Youngkin,1.0,Virginia Beach City,57.97%,Republican,054 - CROMWELL (02),433.0
+Terry R. McAuliffe,2.0,Virginia Beach City,40.70%,Democratic,054 - CROMWELL (02),304.0
 Princess L. Blanding,3.0,Virginia Beach City,1.07%,Liberation,054 - CROMWELL (02),8.0
-Write In,2147483647.0,Virginia Beach City,0.00%,Write-In,054 - CROMWELL (02),0.0
+Write In,2147483647.0,Virginia Beach City,0.27%,Write-In,054 - CROMWELL (02),2.0
 Glenn A. Youngkin,1.0,Virginia Beach City,39.98%,Republican,055 - MAGIC HOLLOW (02),413.0
 Terry R. McAuliffe,2.0,Virginia Beach City,58.95%,Democratic,055 - MAGIC HOLLOW (02),609.0
 Princess L. Blanding,3.0,Virginia Beach City,1.06%,Liberation,055 - MAGIC HOLLOW (02),11.0
@@ -12115,10 +12115,10 @@ Glenn A. Youngkin,1.0,Virginia Beach City,43.56%,Republican,074 - BUCKNER (02),3
 Terry R. McAuliffe,2.0,Virginia Beach City,54.89%,Democratic,074 - BUCKNER (02),460.0
 Princess L. Blanding,3.0,Virginia Beach City,1.07%,Liberation,074 - BUCKNER (02),9.0
 Write In,2147483647.0,Virginia Beach City,0.48%,Write-In,074 - BUCKNER (02),4.0
-Glenn A. Youngkin,1.0,Virginia Beach City,69.34%,Republican,075 - COLONY (02),925.0
-Terry R. McAuliffe,2.0,Virginia Beach City,30.21%,Democratic,075 - COLONY (02),403.0
+Glenn A. Youngkin,1.0,Virginia Beach City,69.18%,Republican,075 - COLONY (02),925.0
+Terry R. McAuliffe,2.0,Virginia Beach City,30.14%,Democratic,075 - COLONY (02),403.0
 Princess L. Blanding,3.0,Virginia Beach City,0.45%,Liberation,075 - COLONY (02),6.0
-Write In,2147483647.0,Virginia Beach City,0.00%,Write-In,075 - COLONY (02),0.0
+Write In,2147483647.0,Virginia Beach City,0.22%,Write-In,075 - COLONY (02),3.0
 Glenn A. Youngkin,1.0,Virginia Beach City,0.00%,Republican,076 - VILLAGE (02),0.0
 Terry R. McAuliffe,2.0,Virginia Beach City,0.00%,Democratic,076 - VILLAGE (02),0.0
 Princess L. Blanding,3.0,Virginia Beach City,0.00%,Liberation,076 - VILLAGE (02),0.0
@@ -12135,10 +12135,10 @@ Glenn A. Youngkin,1.0,Virginia Beach City,40.72%,Republican,079 - PLEASANT HALL 
 Terry R. McAuliffe,2.0,Virginia Beach City,58.90%,Democratic,079 - PLEASANT HALL (02),473.0
 Princess L. Blanding,3.0,Virginia Beach City,0.37%,Liberation,079 - PLEASANT HALL (02),3.0
 Write In,2147483647.0,Virginia Beach City,0.00%,Write-In,079 - PLEASANT HALL (02),0.0
-Glenn A. Youngkin,1.0,Virginia Beach City,40.94%,Republican,080 - CHIMNEY HILL (02),348.0
-Terry R. McAuliffe,2.0,Virginia Beach City,58.12%,Democratic,080 - CHIMNEY HILL (02),494.0
+Glenn A. Youngkin,1.0,Virginia Beach City,40.89%,Republican,080 - CHIMNEY HILL (02),348.0
+Terry R. McAuliffe,2.0,Virginia Beach City,58.05%,Democratic,080 - CHIMNEY HILL (02),494.0
 Princess L. Blanding,3.0,Virginia Beach City,0.94%,Liberation,080 - CHIMNEY HILL (02),8.0
-Write In,2147483647.0,Virginia Beach City,0.00%,Write-In,080 - CHIMNEY HILL (02),0.0
+Write In,2147483647.0,Virginia Beach City,0.12%,Write-In,080 - CHIMNEY HILL (02),1.0
 Glenn A. Youngkin,1.0,Virginia Beach City,0.00%,Republican,081 - ROCK LAKE (02),0.0
 Terry R. McAuliffe,2.0,Virginia Beach City,0.00%,Democratic,081 - ROCK LAKE (02),0.0
 Princess L. Blanding,3.0,Virginia Beach City,0.00%,Liberation,081 - ROCK LAKE (02),0.0
@@ -12203,10 +12203,10 @@ Glenn A. Youngkin,1.0,Virginia Beach City,47.05%,Republican,096 - HILLTOP (02),3
 Terry R. McAuliffe,2.0,Virginia Beach City,51.26%,Democratic,096 - HILLTOP (02),365.0
 Princess L. Blanding,3.0,Virginia Beach City,1.69%,Liberation,096 - HILLTOP (02),12.0
 Write In,2147483647.0,Virginia Beach City,0.00%,Write-In,096 - HILLTOP (02),0.0
-Glenn A. Youngkin,1.0,Virginia Beach City,45.33%,Republican,097 - INDIAN RIVER (02),432.0
-Terry R. McAuliffe,2.0,Virginia Beach City,53.41%,Democratic,097 - INDIAN RIVER (02),509.0
+Glenn A. Youngkin,1.0,Virginia Beach City,45.28%,Republican,097 - INDIAN RIVER (02),432.0
+Terry R. McAuliffe,2.0,Virginia Beach City,53.35%,Democratic,097 - INDIAN RIVER (02),509.0
 Princess L. Blanding,3.0,Virginia Beach City,1.26%,Liberation,097 - INDIAN RIVER (02),12.0
-Write In,2147483647.0,Virginia Beach City,0.00%,Write-In,097 - INDIAN RIVER (02),0.0
+Write In,2147483647.0,Virginia Beach City,0.10%,Write-In,097 - INDIAN RIVER (02),1.0
 Glenn A. Youngkin,1.0,Virginia Beach City,40.45%,Republican,098 - INDEPENDENCE (02),233.0
 Terry R. McAuliffe,2.0,Virginia Beach City,58.51%,Democratic,098 - INDEPENDENCE (02),337.0
 Princess L. Blanding,3.0,Virginia Beach City,1.04%,Liberation,098 - INDEPENDENCE (02),6.0
