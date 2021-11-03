@@ -1,11 +1,11 @@
 BallotName,BallotOrder,LocalityName,Percentage,PoliticalParty,PrecinctName,Votes
-Glenn A. Youngkin,1.0,Accomack County,0.00%,Republican,# AB - Central Absentee Precinct (02),0.0
-Terry R. McAuliffe,2.0,Accomack County,0.00%,Democratic,# AB - Central Absentee Precinct (02),0.0
-Princess L. Blanding,3.0,Accomack County,0.00%,Liberation,# AB - Central Absentee Precinct (02),0.0
+Glenn A. Youngkin,1.0,Accomack County,30.52%,Republican,# AB - Central Absentee Precinct (02),195.0
+Terry R. McAuliffe,2.0,Accomack County,68.23%,Democratic,# AB - Central Absentee Precinct (02),436.0
+Princess L. Blanding,3.0,Accomack County,1.25%,Liberation,# AB - Central Absentee Precinct (02),8.0
 Write In,2147483647.0,Accomack County,0.00%,Write-In,# AB - Central Absentee Precinct (02),0.0
-Glenn A. Youngkin,1.0,Accomack County,0.00%,Republican,# EV - Central Absentee Precinct (02),0.0
-Terry R. McAuliffe,2.0,Accomack County,0.00%,Democratic,# EV - Central Absentee Precinct (02),0.0
-Princess L. Blanding,3.0,Accomack County,0.00%,Liberation,# EV - Central Absentee Precinct (02),0.0
+Glenn A. Youngkin,1.0,Accomack County,43.24%,Republican,# EV - Central Absentee Precinct (02),1708.0
+Terry R. McAuliffe,2.0,Accomack County,56.46%,Democratic,# EV - Central Absentee Precinct (02),2230.0
+Princess L. Blanding,3.0,Accomack County,0.30%,Liberation,# EV - Central Absentee Precinct (02),12.0
 Write In,2147483647.0,Accomack County,0.00%,Write-In,# EV - Central Absentee Precinct (02),0.0
 Glenn A. Youngkin,1.0,Accomack County,0.00%,Republican,# PE - Central Absentee Precinct (02),0.0
 Terry R. McAuliffe,2.0,Accomack County,0.00%,Democratic,# PE - Central Absentee Precinct (02),0.0
@@ -115,10 +115,10 @@ Glenn A. Youngkin,1.0,Albemarle County,48.31%,Republican,106 - NORTHSIDE (05),77
 Terry R. McAuliffe,2.0,Albemarle County,51.00%,Democratic,106 - NORTHSIDE (05),815.0
 Princess L. Blanding,3.0,Albemarle County,0.63%,Liberation,106 - NORTHSIDE (05),10.0
 Write In,2147483647.0,Albemarle County,0.06%,Write-In,106 - NORTHSIDE (05),1.0
-Glenn A. Youngkin,1.0,Albemarle County,0.00%,Republican,201 - JACK JOUETT (05),0.0
-Terry R. McAuliffe,2.0,Albemarle County,0.00%,Democratic,201 - JACK JOUETT (05),0.0
-Princess L. Blanding,3.0,Albemarle County,0.00%,Liberation,201 - JACK JOUETT (05),0.0
-Write In,2147483647.0,Albemarle County,0.00%,Write-In,201 - JACK JOUETT (05),0.0
+Glenn A. Youngkin,1.0,Albemarle County,45.92%,Republican,201 - JACK JOUETT (05),579.0
+Terry R. McAuliffe,2.0,Albemarle County,53.21%,Democratic,201 - JACK JOUETT (05),671.0
+Princess L. Blanding,3.0,Albemarle County,0.79%,Liberation,201 - JACK JOUETT (05),10.0
+Write In,2147483647.0,Albemarle County,0.08%,Write-In,201 - JACK JOUETT (05),1.0
 Glenn A. Youngkin,1.0,Albemarle County,22.85%,Republican,202 - UNIVERSITY (05),149.0
 Terry R. McAuliffe,2.0,Albemarle County,75.31%,Democratic,202 - UNIVERSITY (05),491.0
 Princess L. Blanding,3.0,Albemarle County,1.69%,Liberation,202 - UNIVERSITY (05),11.0
@@ -139,9 +139,9 @@ Glenn A. Youngkin,1.0,Albemarle County,41.53%,Republican,304 - EAST IVY (05),179
 Terry R. McAuliffe,2.0,Albemarle County,58.24%,Democratic,304 - EAST IVY (05),251.0
 Princess L. Blanding,3.0,Albemarle County,0.23%,Liberation,304 - EAST IVY (05),1.0
 Write In,2147483647.0,Albemarle County,0.00%,Write-In,304 - EAST IVY (05),0.0
-Glenn A. Youngkin,1.0,Albemarle County,0.00%,Republican,305 - COUNTRY GREEN (05),0.0
-Terry R. McAuliffe,2.0,Albemarle County,0.00%,Democratic,305 - COUNTRY GREEN (05),0.0
-Princess L. Blanding,3.0,Albemarle County,0.00%,Liberation,305 - COUNTRY GREEN (05),0.0
+Glenn A. Youngkin,1.0,Albemarle County,40.04%,Republican,305 - COUNTRY GREEN (05),380.0
+Terry R. McAuliffe,2.0,Albemarle County,58.90%,Democratic,305 - COUNTRY GREEN (05),559.0
+Princess L. Blanding,3.0,Albemarle County,1.05%,Liberation,305 - COUNTRY GREEN (05),10.0
 Write In,2147483647.0,Albemarle County,0.00%,Write-In,305 - COUNTRY GREEN (05),0.0
 Glenn A. Youngkin,1.0,Albemarle County,49.50%,Republican,306 - PORTERS (05),395.0
 Terry R. McAuliffe,2.0,Albemarle County,49.12%,Democratic,306 - PORTERS (05),392.0
@@ -215,13 +215,13 @@ Glenn A. Youngkin,1.0,Albemarle County,42.76%,Republican,606 - MECHUMS RIVER (05
 Terry R. McAuliffe,2.0,Albemarle County,56.80%,Democratic,606 - MECHUMS RIVER (05),906.0
 Princess L. Blanding,3.0,Albemarle County,0.31%,Liberation,606 - MECHUMS RIVER (05),5.0
 Write In,2147483647.0,Albemarle County,0.13%,Write-In,606 - MECHUMS RIVER (05),2.0
-Glenn A. Youngkin,1.0,Alleghany County,0.00%,Republican,# AB - Central Absentee Precinct (09),0.0
-Terry R. McAuliffe,2.0,Alleghany County,0.00%,Democratic,# AB - Central Absentee Precinct (09),0.0
-Princess L. Blanding,3.0,Alleghany County,0.00%,Liberation,# AB - Central Absentee Precinct (09),0.0
+Glenn A. Youngkin,1.0,Alleghany County,33.87%,Republican,# AB - Central Absentee Precinct (09),106.0
+Terry R. McAuliffe,2.0,Alleghany County,64.54%,Democratic,# AB - Central Absentee Precinct (09),202.0
+Princess L. Blanding,3.0,Alleghany County,1.60%,Liberation,# AB - Central Absentee Precinct (09),5.0
 Write In,2147483647.0,Alleghany County,0.00%,Write-In,# AB - Central Absentee Precinct (09),0.0
-Glenn A. Youngkin,1.0,Alleghany County,0.00%,Republican,# EV - Central Absentee Precinct (09),0.0
-Terry R. McAuliffe,2.0,Alleghany County,0.00%,Democratic,# EV - Central Absentee Precinct (09),0.0
-Princess L. Blanding,3.0,Alleghany County,0.00%,Liberation,# EV - Central Absentee Precinct (09),0.0
+Glenn A. Youngkin,1.0,Alleghany County,60.74%,Republican,# EV - Central Absentee Precinct (09),396.0
+Terry R. McAuliffe,2.0,Alleghany County,38.80%,Democratic,# EV - Central Absentee Precinct (09),253.0
+Princess L. Blanding,3.0,Alleghany County,0.46%,Liberation,# EV - Central Absentee Precinct (09),3.0
 Write In,2147483647.0,Alleghany County,0.00%,Write-In,# EV - Central Absentee Precinct (09),0.0
 Glenn A. Youngkin,1.0,Alleghany County,0.00%,Republican,# PE - Central Absentee Precinct (09),0.0
 Terry R. McAuliffe,2.0,Alleghany County,0.00%,Democratic,# PE - Central Absentee Precinct (09),0.0
@@ -515,14 +515,14 @@ Glenn A. Youngkin,1.0,Arlington County,29.65%,Republican,018 - PARK LANE (08),37
 Terry R. McAuliffe,2.0,Arlington County,69.32%,Democratic,018 - PARK LANE (08),879.0
 Princess L. Blanding,3.0,Arlington County,0.87%,Liberation,018 - PARK LANE (08),11.0
 Write In,2147483647.0,Arlington County,0.16%,Write-In,018 - PARK LANE (08),2.0
-Glenn A. Youngkin,1.0,Arlington County,0.00%,Republican,019 - ROSSLYN (08),0.0
-Terry R. McAuliffe,2.0,Arlington County,0.00%,Democratic,019 - ROSSLYN (08),0.0
-Princess L. Blanding,3.0,Arlington County,0.00%,Liberation,019 - ROSSLYN (08),0.0
-Write In,2147483647.0,Arlington County,0.00%,Write-In,019 - ROSSLYN (08),0.0
-Glenn A. Youngkin,1.0,Arlington County,0.00%,Republican,020 - THRIFTON (08),0.0
-Terry R. McAuliffe,2.0,Arlington County,0.00%,Democratic,020 - THRIFTON (08),0.0
-Princess L. Blanding,3.0,Arlington County,0.00%,Liberation,020 - THRIFTON (08),0.0
-Write In,2147483647.0,Arlington County,0.00%,Write-In,020 - THRIFTON (08),0.0
+Glenn A. Youngkin,1.0,Arlington County,28.72%,Republican,019 - ROSSLYN (08),284.0
+Terry R. McAuliffe,2.0,Arlington County,70.37%,Democratic,019 - ROSSLYN (08),696.0
+Princess L. Blanding,3.0,Arlington County,0.81%,Liberation,019 - ROSSLYN (08),8.0
+Write In,2147483647.0,Arlington County,0.10%,Write-In,019 - ROSSLYN (08),1.0
+Glenn A. Youngkin,1.0,Arlington County,37.11%,Republican,020 - THRIFTON (08),334.0
+Terry R. McAuliffe,2.0,Arlington County,62.44%,Democratic,020 - THRIFTON (08),562.0
+Princess L. Blanding,3.0,Arlington County,0.33%,Liberation,020 - THRIFTON (08),3.0
+Write In,2147483647.0,Arlington County,0.11%,Write-In,020 - THRIFTON (08),1.0
 Glenn A. Youngkin,1.0,Arlington County,28.25%,Republican,021 - VIRGINIA HIGHLANDS (08),178.0
 Terry R. McAuliffe,2.0,Arlington County,71.43%,Democratic,021 - VIRGINIA HIGHLANDS (08),450.0
 Princess L. Blanding,3.0,Arlington County,0.32%,Liberation,021 - VIRGINIA HIGHLANDS (08),2.0
@@ -647,14 +647,14 @@ Glenn A. Youngkin,1.0,Arlington County,22.62%,Republican,051 - TAYLOR (08),83.0
 Terry R. McAuliffe,2.0,Arlington County,77.11%,Democratic,051 - TAYLOR (08),283.0
 Princess L. Blanding,3.0,Arlington County,0.27%,Liberation,051 - TAYLOR (08),1.0
 Write In,2147483647.0,Arlington County,0.00%,Write-In,051 - TAYLOR (08),0.0
-Glenn A. Youngkin,1.0,Arlington County,0.00%,Republican,052 - GUNSTON (08),0.0
-Terry R. McAuliffe,2.0,Arlington County,0.00%,Democratic,052 - GUNSTON (08),0.0
-Princess L. Blanding,3.0,Arlington County,0.00%,Liberation,052 - GUNSTON (08),0.0
+Glenn A. Youngkin,1.0,Arlington County,23.59%,Republican,052 - GUNSTON (08),184.0
+Terry R. McAuliffe,2.0,Arlington County,75.90%,Democratic,052 - GUNSTON (08),592.0
+Princess L. Blanding,3.0,Arlington County,0.51%,Liberation,052 - GUNSTON (08),4.0
 Write In,2147483647.0,Arlington County,0.00%,Write-In,052 - GUNSTON (08),0.0
-Glenn A. Youngkin,1.0,Arlington County,0.00%,Republican,053 - MET PARK (08),0.0
-Terry R. McAuliffe,2.0,Arlington County,0.00%,Democratic,053 - MET PARK (08),0.0
-Princess L. Blanding,3.0,Arlington County,0.00%,Liberation,053 - MET PARK (08),0.0
-Write In,2147483647.0,Arlington County,0.00%,Write-In,053 - MET PARK (08),0.0
+Glenn A. Youngkin,1.0,Arlington County,26.13%,Republican,053 - MET PARK (08),311.0
+Terry R. McAuliffe,2.0,Arlington County,73.11%,Democratic,053 - MET PARK (08),870.0
+Princess L. Blanding,3.0,Arlington County,0.67%,Liberation,053 - MET PARK (08),8.0
+Write In,2147483647.0,Arlington County,0.08%,Write-In,053 - MET PARK (08),1.0
 Glenn A. Youngkin,1.0,Arlington County,0.00%,Republican,054 - GARFIELD PARK (08),0.0
 Terry R. McAuliffe,2.0,Arlington County,0.00%,Democratic,054 - GARFIELD PARK (08),0.0
 Princess L. Blanding,3.0,Arlington County,0.00%,Liberation,054 - GARFIELD PARK (08),0.0
@@ -1231,9 +1231,9 @@ Glenn A. Youngkin,1.0,Buchanan County,89.72%,Republican,702 - CONTRARY (09),288.
 Terry R. McAuliffe,2.0,Buchanan County,9.97%,Democratic,702 - CONTRARY (09),32.0
 Princess L. Blanding,3.0,Buchanan County,0.00%,Liberation,702 - CONTRARY (09),0.0
 Write In,2147483647.0,Buchanan County,0.31%,Write-In,702 - CONTRARY (09),1.0
-Glenn A. Youngkin,1.0,Buckingham County,0.00%,Republican,# AB - Central Absentee Precinct (05),0.0
-Terry R. McAuliffe,2.0,Buckingham County,0.00%,Democratic,# AB - Central Absentee Precinct (05),0.0
-Princess L. Blanding,3.0,Buckingham County,0.00%,Liberation,# AB - Central Absentee Precinct (05),0.0
+Glenn A. Youngkin,1.0,Buckingham County,29.56%,Republican,# AB - Central Absentee Precinct (05),115.0
+Terry R. McAuliffe,2.0,Buckingham County,68.64%,Democratic,# AB - Central Absentee Precinct (05),267.0
+Princess L. Blanding,3.0,Buckingham County,1.80%,Liberation,# AB - Central Absentee Precinct (05),7.0
 Write In,2147483647.0,Buckingham County,0.00%,Write-In,# AB - Central Absentee Precinct (05),0.0
 Glenn A. Youngkin,1.0,Buckingham County,55.26%,Republican,# EV - Central Absentee Precinct (05),903.0
 Terry R. McAuliffe,2.0,Buckingham County,44.19%,Democratic,# EV - Central Absentee Precinct (05),722.0
@@ -1339,33 +1339,33 @@ Glenn A. Youngkin,1.0,Campbell County,85.71%,Republican,402 - COURT HOUSE (05),1
 Terry R. McAuliffe,2.0,Campbell County,13.94%,Democratic,402 - COURT HOUSE (05),204.0
 Princess L. Blanding,3.0,Campbell County,0.27%,Liberation,402 - COURT HOUSE (05),4.0
 Write In,2147483647.0,Campbell County,0.07%,Write-In,402 - COURT HOUSE (05),1.0
-Glenn A. Youngkin,1.0,Campbell County,0.00%,Republican,501 - SPRING HILL (05),0.0
-Terry R. McAuliffe,2.0,Campbell County,0.00%,Democratic,501 - SPRING HILL (05),0.0
-Princess L. Blanding,3.0,Campbell County,0.00%,Liberation,501 - SPRING HILL (05),0.0
-Write In,2147483647.0,Campbell County,0.00%,Write-In,501 - SPRING HILL (05),0.0
-Glenn A. Youngkin,1.0,Campbell County,0.00%,Republican,502 - YELLOW BRANCH (05),0.0
-Terry R. McAuliffe,2.0,Campbell County,0.00%,Democratic,502 - YELLOW BRANCH (05),0.0
-Princess L. Blanding,3.0,Campbell County,0.00%,Liberation,502 - YELLOW BRANCH (05),0.0
+Glenn A. Youngkin,1.0,Campbell County,83.64%,Republican,501 - SPRING HILL (05),1140.0
+Terry R. McAuliffe,2.0,Campbell County,16.07%,Democratic,501 - SPRING HILL (05),219.0
+Princess L. Blanding,3.0,Campbell County,0.22%,Liberation,501 - SPRING HILL (05),3.0
+Write In,2147483647.0,Campbell County,0.07%,Write-In,501 - SPRING HILL (05),1.0
+Glenn A. Youngkin,1.0,Campbell County,79.50%,Republican,502 - YELLOW BRANCH (05),702.0
+Terry R. McAuliffe,2.0,Campbell County,20.27%,Democratic,502 - YELLOW BRANCH (05),179.0
+Princess L. Blanding,3.0,Campbell County,0.23%,Liberation,502 - YELLOW BRANCH (05),2.0
 Write In,2147483647.0,Campbell County,0.00%,Write-In,502 - YELLOW BRANCH (05),0.0
-Glenn A. Youngkin,1.0,Campbell County,0.00%,Republican,601 - KINGS (05),0.0
-Terry R. McAuliffe,2.0,Campbell County,0.00%,Democratic,601 - KINGS (05),0.0
+Glenn A. Youngkin,1.0,Campbell County,80.33%,Republican,601 - KINGS (05),723.0
+Terry R. McAuliffe,2.0,Campbell County,19.67%,Democratic,601 - KINGS (05),177.0
 Princess L. Blanding,3.0,Campbell County,0.00%,Liberation,601 - KINGS (05),0.0
 Write In,2147483647.0,Campbell County,0.00%,Write-In,601 - KINGS (05),0.0
-Glenn A. Youngkin,1.0,Campbell County,0.00%,Republican,602 - CONCORD (05),0.0
-Terry R. McAuliffe,2.0,Campbell County,0.00%,Democratic,602 - CONCORD (05),0.0
-Princess L. Blanding,3.0,Campbell County,0.00%,Liberation,602 - CONCORD (05),0.0
-Write In,2147483647.0,Campbell County,0.00%,Write-In,602 - CONCORD (05),0.0
-Glenn A. Youngkin,1.0,Campbell County,0.00%,Republican,701 - BROOKNEAL (05),0.0
-Terry R. McAuliffe,2.0,Campbell County,0.00%,Democratic,701 - BROOKNEAL (05),0.0
-Princess L. Blanding,3.0,Campbell County,0.00%,Liberation,701 - BROOKNEAL (05),0.0
+Glenn A. Youngkin,1.0,Campbell County,83.54%,Republican,602 - CONCORD (05),1096.0
+Terry R. McAuliffe,2.0,Campbell County,16.16%,Democratic,602 - CONCORD (05),212.0
+Princess L. Blanding,3.0,Campbell County,0.15%,Liberation,602 - CONCORD (05),2.0
+Write In,2147483647.0,Campbell County,0.15%,Write-In,602 - CONCORD (05),2.0
+Glenn A. Youngkin,1.0,Campbell County,80.36%,Republican,701 - BROOKNEAL (05),581.0
+Terry R. McAuliffe,2.0,Campbell County,19.36%,Democratic,701 - BROOKNEAL (05),140.0
+Princess L. Blanding,3.0,Campbell County,0.28%,Liberation,701 - BROOKNEAL (05),2.0
 Write In,2147483647.0,Campbell County,0.00%,Write-In,701 - BROOKNEAL (05),0.0
-Glenn A. Youngkin,1.0,Campbell County,0.00%,Republican,702 - GLADYS (05),0.0
-Terry R. McAuliffe,2.0,Campbell County,0.00%,Democratic,702 - GLADYS (05),0.0
-Princess L. Blanding,3.0,Campbell County,0.00%,Liberation,702 - GLADYS (05),0.0
+Glenn A. Youngkin,1.0,Campbell County,79.47%,Republican,702 - GLADYS (05),743.0
+Terry R. McAuliffe,2.0,Campbell County,20.43%,Democratic,702 - GLADYS (05),191.0
+Princess L. Blanding,3.0,Campbell County,0.11%,Liberation,702 - GLADYS (05),1.0
 Write In,2147483647.0,Campbell County,0.00%,Write-In,702 - GLADYS (05),0.0
-Glenn A. Youngkin,1.0,Campbell County,0.00%,Republican,703 - MORRIS CHURCH (05),0.0
-Terry R. McAuliffe,2.0,Campbell County,0.00%,Democratic,703 - MORRIS CHURCH (05),0.0
-Princess L. Blanding,3.0,Campbell County,0.00%,Liberation,703 - MORRIS CHURCH (05),0.0
+Glenn A. Youngkin,1.0,Campbell County,83.71%,Republican,703 - MORRIS CHURCH (05),442.0
+Terry R. McAuliffe,2.0,Campbell County,15.91%,Democratic,703 - MORRIS CHURCH (05),84.0
+Princess L. Blanding,3.0,Campbell County,0.38%,Liberation,703 - MORRIS CHURCH (05),2.0
 Write In,2147483647.0,Campbell County,0.00%,Write-In,703 - MORRIS CHURCH (05),0.0
 Glenn A. Youngkin,1.0,Caroline County,25.72%,Republican,# AB - Central Absentee Precinct (01),205.0
 Terry R. McAuliffe,2.0,Caroline County,72.77%,Democratic,# AB - Central Absentee Precinct (01),580.0
@@ -1543,9 +1543,9 @@ Glenn A. Youngkin,1.0,Charles City County,52.70%,Republican,301 - PRECINCT 3-1 (
 Terry R. McAuliffe,2.0,Charles City County,46.96%,Democratic,301 - PRECINCT 3-1 (04),278.0
 Princess L. Blanding,3.0,Charles City County,0.34%,Liberation,301 - PRECINCT 3-1 (04),2.0
 Write In,2147483647.0,Charles City County,0.00%,Write-In,301 - PRECINCT 3-1 (04),0.0
-Glenn A. Youngkin,1.0,Charlotte County,0.00%,Republican,# AB - Central Absentee Precinct (05),0.0
-Terry R. McAuliffe,2.0,Charlotte County,0.00%,Democratic,# AB - Central Absentee Precinct (05),0.0
-Princess L. Blanding,3.0,Charlotte County,0.00%,Liberation,# AB - Central Absentee Precinct (05),0.0
+Glenn A. Youngkin,1.0,Charlotte County,27.00%,Republican,# AB - Central Absentee Precinct (05),64.0
+Terry R. McAuliffe,2.0,Charlotte County,72.15%,Democratic,# AB - Central Absentee Precinct (05),171.0
+Princess L. Blanding,3.0,Charlotte County,0.84%,Liberation,# AB - Central Absentee Precinct (05),2.0
 Write In,2147483647.0,Charlotte County,0.00%,Write-In,# AB - Central Absentee Precinct (05),0.0
 Glenn A. Youngkin,1.0,Charlotte County,0.00%,Republican,# EV - Central Absentee Precinct (05),0.0
 Terry R. McAuliffe,2.0,Charlotte County,0.00%,Democratic,# EV - Central Absentee Precinct (05),0.0
@@ -1647,9 +1647,9 @@ Glenn A. Youngkin,1.0,Chesterfield County,53.12%,Republican,107 - WELLS (04),621
 Terry R. McAuliffe,2.0,Chesterfield County,45.94%,Democratic,107 - WELLS (04),537.0
 Princess L. Blanding,3.0,Chesterfield County,0.94%,Liberation,107 - WELLS (04),11.0
 Write In,2147483647.0,Chesterfield County,0.00%,Write-In,107 - WELLS (04),0.0
-Glenn A. Youngkin,1.0,Chesterfield County,0.00%,Republican,108 - ECOFF (04),0.0
-Terry R. McAuliffe,2.0,Chesterfield County,0.00%,Democratic,108 - ECOFF (04),0.0
-Princess L. Blanding,3.0,Chesterfield County,0.00%,Liberation,108 - ECOFF (04),0.0
+Glenn A. Youngkin,1.0,Chesterfield County,64.08%,Republican,108 - ECOFF (04),883.0
+Terry R. McAuliffe,2.0,Chesterfield County,35.12%,Democratic,108 - ECOFF (04),484.0
+Princess L. Blanding,3.0,Chesterfield County,0.80%,Liberation,108 - ECOFF (04),11.0
 Write In,2147483647.0,Chesterfield County,0.00%,Write-In,108 - ECOFF (04),0.0
 Glenn A. Youngkin,1.0,Chesterfield County,58.61%,Republican,109 - ELIZABETH SCOTT (04),1076.0
 Terry R. McAuliffe,2.0,Chesterfield County,40.96%,Democratic,109 - ELIZABETH SCOTT (04),752.0
@@ -1779,9 +1779,9 @@ Glenn A. Youngkin,1.0,Chesterfield County,0.00%,Republican,313 - WOOLRIDGE (07),
 Terry R. McAuliffe,2.0,Chesterfield County,0.00%,Democratic,313 - WOOLRIDGE (07),0.0
 Princess L. Blanding,3.0,Chesterfield County,0.00%,Liberation,313 - WOOLRIDGE (07),0.0
 Write In,2147483647.0,Chesterfield County,0.00%,Write-In,313 - WOOLRIDGE (07),0.0
-Glenn A. Youngkin,1.0,Chesterfield County,0.00%,Republican,314 - LONGHOUSE (04),0.0
-Terry R. McAuliffe,2.0,Chesterfield County,0.00%,Democratic,314 - LONGHOUSE (04),0.0
-Princess L. Blanding,3.0,Chesterfield County,0.00%,Liberation,314 - LONGHOUSE (04),0.0
+Glenn A. Youngkin,1.0,Chesterfield County,82.84%,Republican,314 - LONGHOUSE (04),531.0
+Terry R. McAuliffe,2.0,Chesterfield County,16.54%,Democratic,314 - LONGHOUSE (04),106.0
+Princess L. Blanding,3.0,Chesterfield County,0.62%,Liberation,314 - LONGHOUSE (04),4.0
 Write In,2147483647.0,Chesterfield County,0.00%,Write-In,314 - LONGHOUSE (04),0.0
 Glenn A. Youngkin,1.0,Chesterfield County,74.31%,Republican,315 - BAILEY BRIDGE (07),972.0
 Terry R. McAuliffe,2.0,Chesterfield County,24.77%,Democratic,315 - BAILEY BRIDGE (07),324.0
@@ -1851,9 +1851,9 @@ Glenn A. Youngkin,1.0,Chesterfield County,56.13%,Republican,412 - CLOVER HILL (0
 Terry R. McAuliffe,2.0,Chesterfield County,43.05%,Democratic,412 - CLOVER HILL (07),523.0
 Princess L. Blanding,3.0,Chesterfield County,0.82%,Liberation,412 - CLOVER HILL (07),10.0
 Write In,2147483647.0,Chesterfield County,0.00%,Write-In,412 - CLOVER HILL (07),0.0
-Glenn A. Youngkin,1.0,Chesterfield County,0.00%,Republican,413 - SHENANDOAH (07),0.0
-Terry R. McAuliffe,2.0,Chesterfield County,0.00%,Democratic,413 - SHENANDOAH (07),0.0
-Princess L. Blanding,3.0,Chesterfield County,0.00%,Liberation,413 - SHENANDOAH (07),0.0
+Glenn A. Youngkin,1.0,Chesterfield County,50.62%,Republican,413 - SHENANDOAH (07),571.0
+Terry R. McAuliffe,2.0,Chesterfield County,48.14%,Democratic,413 - SHENANDOAH (07),543.0
+Princess L. Blanding,3.0,Chesterfield County,1.24%,Liberation,413 - SHENANDOAH (07),14.0
 Write In,2147483647.0,Chesterfield County,0.00%,Write-In,413 - SHENANDOAH (07),0.0
 Glenn A. Youngkin,1.0,Chesterfield County,58.67%,Republican,414 - CRENSHAW (07),1049.0
 Terry R. McAuliffe,2.0,Chesterfield County,40.32%,Democratic,414 - CRENSHAW (07),721.0
@@ -1987,10 +1987,10 @@ Glenn A. Youngkin,1.0,Craig County,0.00%,Republican,# AB - Central Absentee Prec
 Terry R. McAuliffe,2.0,Craig County,0.00%,Democratic,# AB - Central Absentee Precinct (09),0.0
 Princess L. Blanding,3.0,Craig County,0.00%,Liberation,# AB - Central Absentee Precinct (09),0.0
 Write In,2147483647.0,Craig County,0.00%,Write-In,# AB - Central Absentee Precinct (09),0.0
-Glenn A. Youngkin,1.0,Craig County,0.00%,Republican,# EV - Central Absentee Precinct (09),0.0
-Terry R. McAuliffe,2.0,Craig County,0.00%,Democratic,# EV - Central Absentee Precinct (09),0.0
-Princess L. Blanding,3.0,Craig County,0.00%,Liberation,# EV - Central Absentee Precinct (09),0.0
-Write In,2147483647.0,Craig County,0.00%,Write-In,# EV - Central Absentee Precinct (09),0.0
+Glenn A. Youngkin,1.0,Craig County,80.73%,Republican,# EV - Central Absentee Precinct (09),377.0
+Terry R. McAuliffe,2.0,Craig County,18.20%,Democratic,# EV - Central Absentee Precinct (09),85.0
+Princess L. Blanding,3.0,Craig County,0.86%,Liberation,# EV - Central Absentee Precinct (09),4.0
+Write In,2147483647.0,Craig County,0.21%,Write-In,# EV - Central Absentee Precinct (09),1.0
 Glenn A. Youngkin,1.0,Craig County,0.00%,Republican,# PE - Central Absentee Precinct (09),0.0
 Terry R. McAuliffe,2.0,Craig County,0.00%,Democratic,# PE - Central Absentee Precinct (09),0.0
 Princess L. Blanding,3.0,Craig County,0.00%,Liberation,# PE - Central Absentee Precinct (09),0.0
@@ -2003,32 +2003,32 @@ Glenn A. Youngkin,1.0,Craig County,0.00%,Republican,101 - COURT HOUSE (09),0.0
 Terry R. McAuliffe,2.0,Craig County,0.00%,Democratic,101 - COURT HOUSE (09),0.0
 Princess L. Blanding,3.0,Craig County,0.00%,Liberation,101 - COURT HOUSE (09),0.0
 Write In,2147483647.0,Craig County,0.00%,Write-In,101 - COURT HOUSE (09),0.0
-Glenn A. Youngkin,1.0,Craig County,0.00%,Republican,201 - AMMENDALE PRECINCT (09),0.0
-Terry R. McAuliffe,2.0,Craig County,0.00%,Democratic,201 - AMMENDALE PRECINCT (09),0.0
-Princess L. Blanding,3.0,Craig County,0.00%,Liberation,201 - AMMENDALE PRECINCT (09),0.0
-Write In,2147483647.0,Craig County,0.00%,Write-In,201 - AMMENDALE PRECINCT (09),0.0
-Glenn A. Youngkin,1.0,Craig County,0.00%,Republican,301 - GIVENS & REYNOLDS STORE (09),0.0
-Terry R. McAuliffe,2.0,Craig County,0.00%,Democratic,301 - GIVENS & REYNOLDS STORE (09),0.0
-Princess L. Blanding,3.0,Craig County,0.00%,Liberation,301 - GIVENS & REYNOLDS STORE (09),0.0
+Glenn A. Youngkin,1.0,Craig County,89.23%,Republican,201 - AMMENDALE PRECINCT (09),381.0
+Terry R. McAuliffe,2.0,Craig County,9.84%,Democratic,201 - AMMENDALE PRECINCT (09),42.0
+Princess L. Blanding,3.0,Craig County,0.47%,Liberation,201 - AMMENDALE PRECINCT (09),2.0
+Write In,2147483647.0,Craig County,0.47%,Write-In,201 - AMMENDALE PRECINCT (09),2.0
+Glenn A. Youngkin,1.0,Craig County,80.00%,Republican,301 - GIVENS & REYNOLDS STORE (09),224.0
+Terry R. McAuliffe,2.0,Craig County,18.93%,Democratic,301 - GIVENS & REYNOLDS STORE (09),53.0
+Princess L. Blanding,3.0,Craig County,1.07%,Liberation,301 - GIVENS & REYNOLDS STORE (09),3.0
 Write In,2147483647.0,Craig County,0.00%,Write-In,301 - GIVENS & REYNOLDS STORE (09),0.0
-Glenn A. Youngkin,1.0,Craig County,0.00%,Republican,303 - MARSHALLS STORE (09),0.0
-Terry R. McAuliffe,2.0,Craig County,0.00%,Democratic,303 - MARSHALLS STORE (09),0.0
-Princess L. Blanding,3.0,Craig County,0.00%,Liberation,303 - MARSHALLS STORE (09),0.0
+Glenn A. Youngkin,1.0,Craig County,81.59%,Republican,303 - MARSHALLS STORE (09),164.0
+Terry R. McAuliffe,2.0,Craig County,16.92%,Democratic,303 - MARSHALLS STORE (09),34.0
+Princess L. Blanding,3.0,Craig County,1.49%,Liberation,303 - MARSHALLS STORE (09),3.0
 Write In,2147483647.0,Craig County,0.00%,Write-In,303 - MARSHALLS STORE (09),0.0
-Glenn A. Youngkin,1.0,Craig County,0.00%,Republican,401 - BARBOURS CREEK (09),0.0
-Terry R. McAuliffe,2.0,Craig County,0.00%,Democratic,401 - BARBOURS CREEK (09),0.0
-Princess L. Blanding,3.0,Craig County,0.00%,Liberation,401 - BARBOURS CREEK (09),0.0
-Write In,2147483647.0,Craig County,0.00%,Write-In,401 - BARBOURS CREEK (09),0.0
-Glenn A. Youngkin,1.0,Craig County,0.00%,Republican,402 - PAINT BANK (09),0.0
-Terry R. McAuliffe,2.0,Craig County,0.00%,Democratic,402 - PAINT BANK (09),0.0
+Glenn A. Youngkin,1.0,Craig County,82.68%,Republican,401 - BARBOURS CREEK (09),148.0
+Terry R. McAuliffe,2.0,Craig County,15.64%,Democratic,401 - BARBOURS CREEK (09),28.0
+Princess L. Blanding,3.0,Craig County,1.12%,Liberation,401 - BARBOURS CREEK (09),2.0
+Write In,2147483647.0,Craig County,0.56%,Write-In,401 - BARBOURS CREEK (09),1.0
+Glenn A. Youngkin,1.0,Craig County,75.76%,Republican,402 - PAINT BANK (09),25.0
+Terry R. McAuliffe,2.0,Craig County,24.24%,Democratic,402 - PAINT BANK (09),8.0
 Princess L. Blanding,3.0,Craig County,0.00%,Liberation,402 - PAINT BANK (09),0.0
 Write In,2147483647.0,Craig County,0.00%,Write-In,402 - PAINT BANK (09),0.0
-Glenn A. Youngkin,1.0,Craig County,0.00%,Republican,403 - CRAIG SPRINGS (09),0.0
-Terry R. McAuliffe,2.0,Craig County,0.00%,Democratic,403 - CRAIG SPRINGS (09),0.0
+Glenn A. Youngkin,1.0,Craig County,84.75%,Republican,403 - CRAIG SPRINGS (09),150.0
+Terry R. McAuliffe,2.0,Craig County,15.25%,Democratic,403 - CRAIG SPRINGS (09),27.0
 Princess L. Blanding,3.0,Craig County,0.00%,Liberation,403 - CRAIG SPRINGS (09),0.0
 Write In,2147483647.0,Craig County,0.00%,Write-In,403 - CRAIG SPRINGS (09),0.0
-Glenn A. Youngkin,1.0,Craig County,0.00%,Republican,501 - CRAIG CITY (09),0.0
-Terry R. McAuliffe,2.0,Craig County,0.00%,Democratic,501 - CRAIG CITY (09),0.0
+Glenn A. Youngkin,1.0,Craig County,88.54%,Republican,501 - CRAIG CITY (09),278.0
+Terry R. McAuliffe,2.0,Craig County,11.46%,Democratic,501 - CRAIG CITY (09),36.0
 Princess L. Blanding,3.0,Craig County,0.00%,Liberation,501 - CRAIG CITY (09),0.0
 Write In,2147483647.0,Craig County,0.00%,Write-In,501 - CRAIG CITY (09),0.0
 Glenn A. Youngkin,1.0,Culpeper County,32.65%,Republican,# AB - Central Absentee Precinct (07),509.0
@@ -2383,26 +2383,26 @@ Glenn A. Youngkin,1.0,Fairfax County,40.92%,Republican,114 - OLDE CREEK (11),383
 Terry R. McAuliffe,2.0,Fairfax County,58.44%,Democratic,114 - OLDE CREEK (11),547.0
 Princess L. Blanding,3.0,Fairfax County,0.43%,Liberation,114 - OLDE CREEK (11),4.0
 Write In,2147483647.0,Fairfax County,0.21%,Write-In,114 - OLDE CREEK (11),2.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,115 - RAVENSWORTH (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,115 - RAVENSWORTH (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,115 - RAVENSWORTH (11),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,115 - RAVENSWORTH (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,43.47%,Republican,115 - RAVENSWORTH (11),396.0
+Terry R. McAuliffe,2.0,Fairfax County,55.54%,Democratic,115 - RAVENSWORTH (11),506.0
+Princess L. Blanding,3.0,Fairfax County,0.77%,Liberation,115 - RAVENSWORTH (11),7.0
+Write In,2147483647.0,Fairfax County,0.22%,Write-In,115 - RAVENSWORTH (11),2.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,116 - WAKEFIELD (11),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,116 - WAKEFIELD (11),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,116 - WAKEFIELD (11),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,116 - WAKEFIELD (11),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,117 - WOODSON (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,117 - WOODSON (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,117 - WOODSON (11),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,117 - WOODSON (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,43.48%,Republican,117 - WOODSON (11),487.0
+Terry R. McAuliffe,2.0,Fairfax County,55.63%,Democratic,117 - WOODSON (11),623.0
+Princess L. Blanding,3.0,Fairfax County,0.63%,Liberation,117 - WOODSON (11),7.0
+Write In,2147483647.0,Fairfax County,0.27%,Write-In,117 - WOODSON (11),3.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,118 - LAKE BRADDOCK (11),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,118 - LAKE BRADDOCK (11),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,118 - LAKE BRADDOCK (11),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,118 - LAKE BRADDOCK (11),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,119 - LAUREL (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,119 - LAUREL (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,119 - LAUREL (11),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,119 - LAUREL (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,42.25%,Republican,119 - LAUREL (11),731.0
+Terry R. McAuliffe,2.0,Fairfax County,57.28%,Democratic,119 - LAUREL (11),991.0
+Princess L. Blanding,3.0,Fairfax County,0.40%,Liberation,119 - LAUREL (11),7.0
+Write In,2147483647.0,Fairfax County,0.06%,Write-In,119 - LAUREL (11),1.0
 Glenn A. Youngkin,1.0,Fairfax County,47.13%,Republican,120 - SIDEBURN (11),632.0
 Terry R. McAuliffe,2.0,Fairfax County,52.57%,Democratic,120 - SIDEBURN (11),705.0
 Princess L. Blanding,3.0,Fairfax County,0.15%,Liberation,120 - SIDEBURN (11),2.0
@@ -2419,10 +2419,10 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,125 - SIGNAL HILL (11),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,125 - SIGNAL HILL (11),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,125 - SIGNAL HILL (11),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,125 - SIGNAL HILL (11),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,126 - BONNIE BRAE (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,126 - BONNIE BRAE (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,126 - BONNIE BRAE (11),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,126 - BONNIE BRAE (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,37.31%,Republican,126 - BONNIE BRAE (11),385.0
+Terry R. McAuliffe,2.0,Fairfax County,61.72%,Democratic,126 - BONNIE BRAE (11),637.0
+Princess L. Blanding,3.0,Fairfax County,0.78%,Liberation,126 - BONNIE BRAE (11),8.0
+Write In,2147483647.0,Fairfax County,0.19%,Write-In,126 - BONNIE BRAE (11),2.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,127 - BURKE CENTRE (11),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,127 - BURKE CENTRE (11),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,127 - BURKE CENTRE (11),0.0
@@ -2487,10 +2487,10 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,214 - VIENNA #2 (11),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,214 - VIENNA #2 (11),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,214 - VIENNA #2 (11),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,214 - VIENNA #2 (11),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,216 - VIENNA #4 (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,216 - VIENNA #4 (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,216 - VIENNA #4 (11),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,216 - VIENNA #4 (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,41.79%,Republican,216 - VIENNA #4 (11),285.0
+Terry R. McAuliffe,2.0,Fairfax County,57.18%,Democratic,216 - VIENNA #4 (11),390.0
+Princess L. Blanding,3.0,Fairfax County,0.88%,Liberation,216 - VIENNA #4 (11),6.0
+Write In,2147483647.0,Fairfax County,0.15%,Write-In,216 - VIENNA #4 (11),1.0
 Glenn A. Youngkin,1.0,Fairfax County,40.98%,Republican,218 - VIENNA #6 (11),386.0
 Terry R. McAuliffe,2.0,Fairfax County,58.39%,Democratic,218 - VIENNA #6 (11),550.0
 Princess L. Blanding,3.0,Fairfax County,0.42%,Liberation,218 - VIENNA #6 (11),4.0
@@ -2507,9 +2507,9 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,221 - HUNTERS WOODS (11),0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,221 - HUNTERS WOODS (11),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,221 - HUNTERS WOODS (11),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,221 - HUNTERS WOODS (11),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,222 - RESTON #3 (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,222 - RESTON #3 (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,222 - RESTON #3 (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,22.11%,Republican,222 - RESTON #3 (11),182.0
+Terry R. McAuliffe,2.0,Fairfax County,76.91%,Democratic,222 - RESTON #3 (11),633.0
+Princess L. Blanding,3.0,Fairfax County,0.97%,Liberation,222 - RESTON #3 (11),8.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,222 - RESTON #3 (11),0.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,223 - GLADE (11),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,223 - GLADE (11),0.0
@@ -2559,9 +2559,9 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,238 - CAMERON GLEN (11),0.
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,238 - CAMERON GLEN (11),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,238 - CAMERON GLEN (11),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,238 - CAMERON GLEN (11),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,240 - COLVIN (10),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,240 - COLVIN (10),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,240 - COLVIN (10),0.0
+Glenn A. Youngkin,1.0,Fairfax County,49.00%,Republican,240 - COLVIN (10),490.0
+Terry R. McAuliffe,2.0,Fairfax County,50.70%,Democratic,240 - COLVIN (10),507.0
+Princess L. Blanding,3.0,Fairfax County,0.30%,Liberation,240 - COLVIN (10),3.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,240 - COLVIN (10),0.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,301 - CHAIN BRIDGE (10),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,301 - CHAIN BRIDGE (10),0.0
@@ -2583,10 +2583,10 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,305 - EL NIDO (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,305 - EL NIDO (08),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,305 - EL NIDO (08),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,305 - EL NIDO (08),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,306 - GREAT FALLS (10),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,306 - GREAT FALLS (10),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,306 - GREAT FALLS (10),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,306 - GREAT FALLS (10),0.0
+Glenn A. Youngkin,1.0,Fairfax County,56.49%,Republican,306 - GREAT FALLS (10),435.0
+Terry R. McAuliffe,2.0,Fairfax County,42.73%,Democratic,306 - GREAT FALLS (10),329.0
+Princess L. Blanding,3.0,Fairfax County,0.39%,Liberation,306 - GREAT FALLS (10),3.0
+Write In,2147483647.0,Fairfax County,0.39%,Write-In,306 - GREAT FALLS (10),3.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,307 - HAYCOCK (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,307 - HAYCOCK (08),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,307 - HAYCOCK (08),0.0
@@ -2651,14 +2651,14 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,324 - HERNDON #3 (11),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,324 - HERNDON #3 (11),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,324 - HERNDON #3 (11),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,324 - HERNDON #3 (11),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,325 - HUTCHISON (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,325 - HUTCHISON (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,325 - HUTCHISON (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,25.57%,Republican,325 - HUTCHISON (11),190.0
+Terry R. McAuliffe,2.0,Fairfax County,73.49%,Democratic,325 - HUTCHISON (11),546.0
+Princess L. Blanding,3.0,Fairfax County,0.94%,Liberation,325 - HUTCHISON (11),7.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,325 - HUTCHISON (11),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,327 - SUGARLAND (10),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,327 - SUGARLAND (10),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,327 - SUGARLAND (10),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,327 - SUGARLAND (10),0.0
+Glenn A. Youngkin,1.0,Fairfax County,43.31%,Republican,327 - SUGARLAND (10),641.0
+Terry R. McAuliffe,2.0,Fairfax County,56.35%,Democratic,327 - SUGARLAND (10),834.0
+Princess L. Blanding,3.0,Fairfax County,0.27%,Liberation,327 - SUGARLAND (10),4.0
+Write In,2147483647.0,Fairfax County,0.07%,Write-In,327 - SUGARLAND (10),1.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,328 - HICKORY (10),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,328 - HICKORY (10),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,328 - HICKORY (10),0.0
@@ -2699,10 +2699,10 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,405 - GROVETON (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,405 - GROVETON (08),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,405 - GROVETON (08),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,405 - GROVETON (08),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,406 - HAYFIELD (08),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,406 - HAYFIELD (08),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,406 - HAYFIELD (08),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,406 - HAYFIELD (08),0.0
+Glenn A. Youngkin,1.0,Fairfax County,42.81%,Republican,406 - HAYFIELD (08),497.0
+Terry R. McAuliffe,2.0,Fairfax County,56.59%,Democratic,406 - HAYFIELD (08),657.0
+Princess L. Blanding,3.0,Fairfax County,0.52%,Liberation,406 - HAYFIELD (08),6.0
+Write In,2147483647.0,Fairfax County,0.09%,Write-In,406 - HAYFIELD (08),1.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,408 - MOUNT EAGLE (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,408 - MOUNT EAGLE (08),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,408 - MOUNT EAGLE (08),0.0
@@ -2791,10 +2791,10 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,503 - BELVEDERE (11),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,503 - BELVEDERE (11),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,503 - BELVEDERE (11),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,503 - BELVEDERE (11),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,504 - BRISTOW (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,504 - BRISTOW (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,504 - BRISTOW (11),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,504 - BRISTOW (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,37.79%,Republican,504 - BRISTOW (11),348.0
+Terry R. McAuliffe,2.0,Fairfax County,61.24%,Democratic,504 - BRISTOW (11),564.0
+Princess L. Blanding,3.0,Fairfax County,0.76%,Liberation,504 - BRISTOW (11),7.0
+Write In,2147483647.0,Fairfax County,0.22%,Write-In,504 - BRISTOW (11),2.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,505 - GLEN FOREST (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,505 - GLEN FOREST (08),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,505 - GLEN FOREST (08),0.0
@@ -2823,9 +2823,9 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,511 - RAVENWOOD (11),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,511 - RAVENWOOD (11),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,511 - RAVENWOOD (11),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,511 - RAVENWOOD (11),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,512 - SLEEPY HOLLOW (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,512 - SLEEPY HOLLOW (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,512 - SLEEPY HOLLOW (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,38.60%,Republican,512 - SLEEPY HOLLOW (11),249.0
+Terry R. McAuliffe,2.0,Fairfax County,61.24%,Democratic,512 - SLEEPY HOLLOW (11),395.0
+Princess L. Blanding,3.0,Fairfax County,0.16%,Liberation,512 - SLEEPY HOLLOW (11),1.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,512 - SLEEPY HOLLOW (11),0.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,513 - SAINT ALBANS (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,513 - SAINT ALBANS (08),0.0
@@ -2847,14 +2847,14 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,516 - WEYANOKE #1 (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,516 - WEYANOKE #1 (08),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,516 - WEYANOKE #1 (08),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,516 - WEYANOKE #1 (08),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,517 - WILLSTON (08),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,517 - WILLSTON (08),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,517 - WILLSTON (08),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,517 - WILLSTON (08),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,518 - COLUMBIA (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,518 - COLUMBIA (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,518 - COLUMBIA (11),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,518 - COLUMBIA (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,37.25%,Republican,517 - WILLSTON (08),222.0
+Terry R. McAuliffe,2.0,Fairfax County,62.08%,Democratic,517 - WILLSTON (08),370.0
+Princess L. Blanding,3.0,Fairfax County,0.34%,Liberation,517 - WILLSTON (08),2.0
+Write In,2147483647.0,Fairfax County,0.34%,Write-In,517 - WILLSTON (08),2.0
+Glenn A. Youngkin,1.0,Fairfax County,40.95%,Republican,518 - COLUMBIA (11),398.0
+Terry R. McAuliffe,2.0,Fairfax County,58.23%,Democratic,518 - COLUMBIA (11),566.0
+Princess L. Blanding,3.0,Fairfax County,0.72%,Liberation,518 - COLUMBIA (11),7.0
+Write In,2147483647.0,Fairfax County,0.10%,Write-In,518 - COLUMBIA (11),1.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,519 - HUMMER (11),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,519 - HUMMER (11),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,519 - HUMMER (11),0.0
@@ -2867,9 +2867,9 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,521 - BROOK HILL (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,521 - BROOK HILL (08),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,521 - BROOK HILL (08),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,521 - BROOK HILL (08),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,522 - CAMELOT #1 (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,522 - CAMELOT #1 (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,522 - CAMELOT #1 (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,40.96%,Republican,522 - CAMELOT #1 (11),77.0
+Terry R. McAuliffe,2.0,Fairfax County,58.51%,Democratic,522 - CAMELOT #1 (11),110.0
+Princess L. Blanding,3.0,Fairfax County,0.53%,Liberation,522 - CAMELOT #1 (11),1.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,522 - CAMELOT #1 (11),0.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,523 - POE (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,523 - POE (08),0.0
@@ -2891,9 +2891,9 @@ Glenn A. Youngkin,1.0,Fairfax County,40.91%,Republican,528 - RIDGELEA (11),261.0
 Terry R. McAuliffe,2.0,Fairfax County,57.84%,Democratic,528 - RIDGELEA (11),369.0
 Princess L. Blanding,3.0,Fairfax County,1.25%,Liberation,528 - RIDGELEA (11),8.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,528 - RIDGELEA (11),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,530 - HOLMES #2 (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,530 - HOLMES #2 (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,530 - HOLMES #2 (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,26.45%,Republican,530 - HOLMES #2 (11),160.0
+Terry R. McAuliffe,2.0,Fairfax County,72.89%,Democratic,530 - HOLMES #2 (11),441.0
+Princess L. Blanding,3.0,Fairfax County,0.66%,Liberation,530 - HOLMES #2 (11),4.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,530 - HOLMES #2 (11),0.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,531 - BAILEYS #2 (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,531 - BAILEYS #2 (08),0.0
@@ -2903,9 +2903,9 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,532 - WEYANOKE #2 (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,532 - WEYANOKE #2 (08),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,532 - WEYANOKE #2 (08),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,532 - WEYANOKE #2 (08),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,534 - CAMELOT #2 (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,534 - CAMELOT #2 (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,534 - CAMELOT #2 (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,41.15%,Republican,534 - CAMELOT #2 (11),237.0
+Terry R. McAuliffe,2.0,Fairfax County,58.33%,Democratic,534 - CAMELOT #2 (11),336.0
+Princess L. Blanding,3.0,Fairfax County,0.52%,Liberation,534 - CAMELOT #2 (11),3.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,534 - CAMELOT #2 (11),0.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,601 - BELLE HAVEN (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,601 - BELLE HAVEN (08),0.0
@@ -2971,10 +2971,10 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,617 - LORTON (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,617 - LORTON (08),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,617 - LORTON (08),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,617 - LORTON (08),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,618 - NEWINGTON (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,618 - NEWINGTON (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,618 - NEWINGTON (11),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,618 - NEWINGTON (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,39.46%,Republican,618 - NEWINGTON (11),876.0
+Terry R. McAuliffe,2.0,Fairfax County,59.68%,Democratic,618 - NEWINGTON (11),1325.0
+Princess L. Blanding,3.0,Fairfax County,0.63%,Liberation,618 - NEWINGTON (11),14.0
+Write In,2147483647.0,Fairfax County,0.23%,Write-In,618 - NEWINGTON (11),5.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,619 - BELVOIR (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,619 - BELVOIR (08),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,619 - BELVOIR (08),0.0
@@ -3059,10 +3059,10 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,714 - WALKER (11),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,714 - WALKER (11),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,714 - WALKER (11),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,714 - WALKER (11),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,717 - WOODBURN (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,717 - WOODBURN (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,717 - WOODBURN (11),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,717 - WOODBURN (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,30.61%,Republican,717 - WOODBURN (11),232.0
+Terry R. McAuliffe,2.0,Fairfax County,68.60%,Democratic,717 - WOODBURN (11),520.0
+Princess L. Blanding,3.0,Fairfax County,0.66%,Liberation,717 - WOODBURN (11),5.0
+Write In,2147483647.0,Fairfax County,0.13%,Write-In,717 - WOODBURN (11),1.0
 Glenn A. Youngkin,1.0,Fairfax County,40.33%,Republican,718 - PINE RIDGE (11),344.0
 Terry R. McAuliffe,2.0,Fairfax County,58.26%,Democratic,718 - PINE RIDGE (11),497.0
 Princess L. Blanding,3.0,Fairfax County,1.29%,Liberation,718 - PINE RIDGE (11),11.0
@@ -3071,14 +3071,14 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,720 - THOREAU (11),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,720 - THOREAU (11),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,720 - THOREAU (11),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,720 - THOREAU (11),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,721 - MERRIFIELD (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,721 - MERRIFIELD (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,721 - MERRIFIELD (11),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,721 - MERRIFIELD (11),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,723 - GALLOWS EAST (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,723 - GALLOWS EAST (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,723 - GALLOWS EAST (11),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,723 - GALLOWS EAST (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,28.20%,Republican,721 - MERRIFIELD (11),379.0
+Terry R. McAuliffe,2.0,Fairfax County,70.91%,Democratic,721 - MERRIFIELD (11),953.0
+Princess L. Blanding,3.0,Fairfax County,0.82%,Liberation,721 - MERRIFIELD (11),11.0
+Write In,2147483647.0,Fairfax County,0.07%,Write-In,721 - MERRIFIELD (11),1.0
+Glenn A. Youngkin,1.0,Fairfax County,28.67%,Republican,723 - GALLOWS EAST (11),170.0
+Terry R. McAuliffe,2.0,Fairfax County,69.98%,Democratic,723 - GALLOWS EAST (11),415.0
+Princess L. Blanding,3.0,Fairfax County,1.18%,Liberation,723 - GALLOWS EAST (11),7.0
+Write In,2147483647.0,Fairfax County,0.17%,Write-In,723 - GALLOWS EAST (11),1.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,726 - MAGARITY (08),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,726 - MAGARITY (08),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,726 - MAGARITY (08),0.0
@@ -3135,10 +3135,10 @@ Glenn A. Youngkin,1.0,Fairfax County,50.19%,Republican,805 - FAIRFAX STATION (10
 Terry R. McAuliffe,2.0,Fairfax County,49.56%,Democratic,805 - FAIRFAX STATION (10),394.0
 Princess L. Blanding,3.0,Fairfax County,0.13%,Liberation,805 - FAIRFAX STATION (10),1.0
 Write In,2147483647.0,Fairfax County,0.13%,Write-In,805 - FAIRFAX STATION (10),1.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,806 - SYDENSTRICKER (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,806 - SYDENSTRICKER (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,806 - SYDENSTRICKER (11),0.0
-Write In,2147483647.0,Fairfax County,0.00%,Write-In,806 - SYDENSTRICKER (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,40.89%,Republican,806 - SYDENSTRICKER (11),604.0
+Terry R. McAuliffe,2.0,Fairfax County,58.77%,Democratic,806 - SYDENSTRICKER (11),868.0
+Princess L. Blanding,3.0,Fairfax County,0.27%,Liberation,806 - SYDENSTRICKER (11),4.0
+Write In,2147483647.0,Fairfax County,0.07%,Write-In,806 - SYDENSTRICKER (11),1.0
 Glenn A. Youngkin,1.0,Fairfax County,43.13%,Republican,807 - HUNT VALLEY (11),427.0
 Terry R. McAuliffe,2.0,Fairfax County,56.06%,Democratic,807 - HUNT VALLEY (11),555.0
 Princess L. Blanding,3.0,Fairfax County,0.71%,Liberation,807 - HUNT VALLEY (11),7.0
@@ -3243,9 +3243,9 @@ Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,904 - STONECROFT (10),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,904 - STONECROFT (10),0.0
 Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,904 - STONECROFT (10),0.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,904 - STONECROFT (10),0.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,905 - FRANKLIN (10),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,905 - FRANKLIN (10),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,905 - FRANKLIN (10),0.0
+Glenn A. Youngkin,1.0,Fairfax County,38.43%,Republican,905 - FRANKLIN (10),171.0
+Terry R. McAuliffe,2.0,Fairfax County,60.90%,Democratic,905 - FRANKLIN (10),271.0
+Princess L. Blanding,3.0,Fairfax County,0.67%,Liberation,905 - FRANKLIN (10),3.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,905 - FRANKLIN (10),0.0
 Glenn A. Youngkin,1.0,Fairfax County,44.91%,Republican,908 - HIDDEN MEADOW (10),481.0
 Terry R. McAuliffe,2.0,Fairfax County,54.81%,Democratic,908 - HIDDEN MEADOW (10),587.0
@@ -3271,9 +3271,9 @@ Glenn A. Youngkin,1.0,Fairfax County,48.08%,Republican,914 - VALE (10),475.0
 Terry R. McAuliffe,2.0,Fairfax County,51.32%,Democratic,914 - VALE (10),507.0
 Princess L. Blanding,3.0,Fairfax County,0.51%,Liberation,914 - VALE (10),5.0
 Write In,2147483647.0,Fairfax County,0.10%,Write-In,914 - VALE (10),1.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,915 - VIRGINIA RUN (10),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,915 - VIRGINIA RUN (10),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,915 - VIRGINIA RUN (10),0.0
+Glenn A. Youngkin,1.0,Fairfax County,57.65%,Republican,915 - VIRGINIA RUN (10),701.0
+Terry R. McAuliffe,2.0,Fairfax County,42.11%,Democratic,915 - VIRGINIA RUN (10),512.0
+Princess L. Blanding,3.0,Fairfax County,0.25%,Liberation,915 - VIRGINIA RUN (10),3.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,915 - VIRGINIA RUN (10),0.0
 Glenn A. Youngkin,1.0,Fairfax County,48.73%,Republican,916 - WAPLES MILL (10),885.0
 Terry R. McAuliffe,2.0,Fairfax County,51.05%,Democratic,916 - WAPLES MILL (10),927.0
@@ -3303,9 +3303,9 @@ Glenn A. Youngkin,1.0,Fairfax County,55.21%,Republican,923 - BULL RUN (10),593.0
 Terry R. McAuliffe,2.0,Fairfax County,44.32%,Democratic,923 - BULL RUN (10),476.0
 Princess L. Blanding,3.0,Fairfax County,0.37%,Liberation,923 - BULL RUN (10),4.0
 Write In,2147483647.0,Fairfax County,0.09%,Write-In,923 - BULL RUN (10),1.0
-Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,924 - SPINDLE (11),0.0
-Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,924 - SPINDLE (11),0.0
-Princess L. Blanding,3.0,Fairfax County,0.00%,Liberation,924 - SPINDLE (11),0.0
+Glenn A. Youngkin,1.0,Fairfax County,36.87%,Republican,924 - SPINDLE (11),212.0
+Terry R. McAuliffe,2.0,Fairfax County,61.57%,Democratic,924 - SPINDLE (11),354.0
+Princess L. Blanding,3.0,Fairfax County,1.57%,Liberation,924 - SPINDLE (11),9.0
 Write In,2147483647.0,Fairfax County,0.00%,Write-In,924 - SPINDLE (11),0.0
 Glenn A. Youngkin,1.0,Fairfax County,0.00%,Republican,925 - OLD MILL (10),0.0
 Terry R. McAuliffe,2.0,Fairfax County,0.00%,Democratic,925 - OLD MILL (10),0.0
@@ -3455,13 +3455,13 @@ Glenn A. Youngkin,1.0,Fauquier County,72.91%,Republican,504 - VINT HILL (05),110
 Terry R. McAuliffe,2.0,Fauquier County,26.82%,Democratic,504 - VINT HILL (05),405.0
 Princess L. Blanding,3.0,Fauquier County,0.20%,Liberation,504 - VINT HILL (05),3.0
 Write In,2147483647.0,Fauquier County,0.07%,Write-In,504 - VINT HILL (05),1.0
-Glenn A. Youngkin,1.0,Floyd County,0.00%,Republican,# AB - Central Absentee Precinct (09),0.0
-Terry R. McAuliffe,2.0,Floyd County,0.00%,Democratic,# AB - Central Absentee Precinct (09),0.0
-Princess L. Blanding,3.0,Floyd County,0.00%,Liberation,# AB - Central Absentee Precinct (09),0.0
+Glenn A. Youngkin,1.0,Floyd County,34.23%,Republican,# AB - Central Absentee Precinct (09),165.0
+Terry R. McAuliffe,2.0,Floyd County,64.32%,Democratic,# AB - Central Absentee Precinct (09),310.0
+Princess L. Blanding,3.0,Floyd County,1.45%,Liberation,# AB - Central Absentee Precinct (09),7.0
 Write In,2147483647.0,Floyd County,0.00%,Write-In,# AB - Central Absentee Precinct (09),0.0
-Glenn A. Youngkin,1.0,Floyd County,0.00%,Republican,# EV - Central Absentee Precinct (09),0.0
-Terry R. McAuliffe,2.0,Floyd County,0.00%,Democratic,# EV - Central Absentee Precinct (09),0.0
-Princess L. Blanding,3.0,Floyd County,0.00%,Liberation,# EV - Central Absentee Precinct (09),0.0
+Glenn A. Youngkin,1.0,Floyd County,57.04%,Republican,# EV - Central Absentee Precinct (09),1074.0
+Terry R. McAuliffe,2.0,Floyd County,42.38%,Democratic,# EV - Central Absentee Precinct (09),798.0
+Princess L. Blanding,3.0,Floyd County,0.58%,Liberation,# EV - Central Absentee Precinct (09),11.0
 Write In,2147483647.0,Floyd County,0.00%,Write-In,# EV - Central Absentee Precinct (09),0.0
 Glenn A. Youngkin,1.0,Floyd County,0.00%,Republican,# PE - Central Absentee Precinct (09),0.0
 Terry R. McAuliffe,2.0,Floyd County,0.00%,Democratic,# PE - Central Absentee Precinct (09),0.0
@@ -3491,10 +3491,10 @@ Glenn A. Youngkin,1.0,Floyd County,85.60%,Republican,501 - INDIAN VALLEY (09),96
 Terry R. McAuliffe,2.0,Floyd County,13.78%,Democratic,501 - INDIAN VALLEY (09),155.0
 Princess L. Blanding,3.0,Floyd County,0.53%,Liberation,501 - INDIAN VALLEY (09),6.0
 Write In,2147483647.0,Floyd County,0.09%,Write-In,501 - INDIAN VALLEY (09),1.0
-Glenn A. Youngkin,1.0,Fluvanna County,0.00%,Republican,# AB - Central Absentee Precinct (05),0.0
-Terry R. McAuliffe,2.0,Fluvanna County,0.00%,Democratic,# AB - Central Absentee Precinct (05),0.0
-Princess L. Blanding,3.0,Fluvanna County,0.00%,Liberation,# AB - Central Absentee Precinct (05),0.0
-Write In,2147483647.0,Fluvanna County,0.00%,Write-In,# AB - Central Absentee Precinct (05),0.0
+Glenn A. Youngkin,1.0,Fluvanna County,20.39%,Republican,# AB - Central Absentee Precinct (05),240.0
+Terry R. McAuliffe,2.0,Fluvanna County,78.59%,Democratic,# AB - Central Absentee Precinct (05),925.0
+Princess L. Blanding,3.0,Fluvanna County,0.93%,Liberation,# AB - Central Absentee Precinct (05),11.0
+Write In,2147483647.0,Fluvanna County,0.08%,Write-In,# AB - Central Absentee Precinct (05),1.0
 Glenn A. Youngkin,1.0,Fluvanna County,51.93%,Republican,# EV - Central Absentee Precinct (05),2419.0
 Terry R. McAuliffe,2.0,Fluvanna County,47.79%,Democratic,# EV - Central Absentee Precinct (05),2226.0
 Princess L. Blanding,3.0,Fluvanna County,0.24%,Liberation,# EV - Central Absentee Precinct (05),11.0
@@ -3623,10 +3623,10 @@ Glenn A. Youngkin,1.0,Franklin County,84.46%,Republican,603 - COOPERS COVE (05),
 Terry R. McAuliffe,2.0,Franklin County,14.90%,Democratic,603 - COOPERS COVE (05),117.0
 Princess L. Blanding,3.0,Franklin County,0.64%,Liberation,603 - COOPERS COVE (05),5.0
 Write In,2147483647.0,Franklin County,0.00%,Write-In,603 - COOPERS COVE (05),0.0
-Glenn A. Youngkin,1.0,Franklin County,0.00%,Republican,701 - ROCKY MOUNT EAST (05),0.0
-Terry R. McAuliffe,2.0,Franklin County,0.00%,Democratic,701 - ROCKY MOUNT EAST (05),0.0
-Princess L. Blanding,3.0,Franklin County,0.00%,Liberation,701 - ROCKY MOUNT EAST (05),0.0
-Write In,2147483647.0,Franklin County,0.00%,Write-In,701 - ROCKY MOUNT EAST (05),0.0
+Glenn A. Youngkin,1.0,Franklin County,57.06%,Republican,701 - ROCKY MOUNT EAST (05),651.0
+Terry R. McAuliffe,2.0,Franklin County,20.51%,Democratic,701 - ROCKY MOUNT EAST (05),234.0
+Princess L. Blanding,3.0,Franklin County,0.18%,Liberation,701 - ROCKY MOUNT EAST (05),2.0
+Write In,2147483647.0,Franklin County,22.26%,Write-In,701 - ROCKY MOUNT EAST (05),254.0
 Glenn A. Youngkin,1.0,Franklin County,68.74%,Republican,702 - ROCKY MOUNT WEST (05),431.0
 Terry R. McAuliffe,2.0,Franklin County,30.78%,Democratic,702 - ROCKY MOUNT WEST (05),193.0
 Princess L. Blanding,3.0,Franklin County,0.48%,Liberation,702 - ROCKY MOUNT WEST (05),3.0
@@ -3639,10 +3639,10 @@ Glenn A. Youngkin,1.0,Frederick County,31.91%,Republican,# AB - Central Absentee
 Terry R. McAuliffe,2.0,Frederick County,67.19%,Democratic,# AB - Central Absentee Precinct (10),1577.0
 Princess L. Blanding,3.0,Frederick County,0.77%,Liberation,# AB - Central Absentee Precinct (10),18.0
 Write In,2147483647.0,Frederick County,0.13%,Write-In,# AB - Central Absentee Precinct (10),3.0
-Glenn A. Youngkin,1.0,Frederick County,61.40%,Republican,# EV - Central Absentee Precinct (10),4604.0
-Terry R. McAuliffe,2.0,Frederick County,38.46%,Democratic,# EV - Central Absentee Precinct (10),2884.0
+Glenn A. Youngkin,1.0,Frederick County,61.39%,Republican,# EV - Central Absentee Precinct (10),4604.0
+Terry R. McAuliffe,2.0,Frederick County,38.45%,Democratic,# EV - Central Absentee Precinct (10),2884.0
 Princess L. Blanding,3.0,Frederick County,0.13%,Liberation,# EV - Central Absentee Precinct (10),10.0
-Write In,2147483647.0,Frederick County,0.00%,Write-In,# EV - Central Absentee Precinct (10),0.0
+Write In,2147483647.0,Frederick County,0.03%,Write-In,# EV - Central Absentee Precinct (10),2.0
 Glenn A. Youngkin,1.0,Frederick County,0.00%,Republican,# PE - Central Absentee Precinct (10),0.0
 Terry R. McAuliffe,2.0,Frederick County,0.00%,Democratic,# PE - Central Absentee Precinct (10),0.0
 Princess L. Blanding,3.0,Frederick County,0.00%,Liberation,# PE - Central Absentee Precinct (10),0.0
@@ -3723,17 +3723,17 @@ Glenn A. Youngkin,1.0,Frederick County,70.11%,Republican,503 - CANTERBURG (10),1
 Terry R. McAuliffe,2.0,Frederick County,29.46%,Democratic,503 - CANTERBURG (10),490.0
 Princess L. Blanding,3.0,Frederick County,0.42%,Liberation,503 - CANTERBURG (10),7.0
 Write In,2147483647.0,Frederick County,0.00%,Write-In,503 - CANTERBURG (10),0.0
-Glenn A. Youngkin,1.0,Frederick County,0.00%,Republican,601 - MILLBROOK (10),0.0
-Terry R. McAuliffe,2.0,Frederick County,0.00%,Democratic,601 - MILLBROOK (10),0.0
-Princess L. Blanding,3.0,Frederick County,0.00%,Liberation,601 - MILLBROOK (10),0.0
+Glenn A. Youngkin,1.0,Frederick County,71.93%,Republican,601 - MILLBROOK (10),597.0
+Terry R. McAuliffe,2.0,Frederick County,27.71%,Democratic,601 - MILLBROOK (10),230.0
+Princess L. Blanding,3.0,Frederick County,0.36%,Liberation,601 - MILLBROOK (10),3.0
 Write In,2147483647.0,Frederick County,0.00%,Write-In,601 - MILLBROOK (10),0.0
-Glenn A. Youngkin,1.0,Frederick County,0.00%,Republican,602 - ASH HOLLOW (10),0.0
-Terry R. McAuliffe,2.0,Frederick County,0.00%,Democratic,602 - ASH HOLLOW (10),0.0
-Princess L. Blanding,3.0,Frederick County,0.00%,Liberation,602 - ASH HOLLOW (10),0.0
+Glenn A. Youngkin,1.0,Frederick County,66.40%,Republican,602 - ASH HOLLOW (10),658.0
+Terry R. McAuliffe,2.0,Frederick County,33.00%,Democratic,602 - ASH HOLLOW (10),327.0
+Princess L. Blanding,3.0,Frederick County,0.61%,Liberation,602 - ASH HOLLOW (10),6.0
 Write In,2147483647.0,Frederick County,0.00%,Write-In,602 - ASH HOLLOW (10),0.0
-Glenn A. Youngkin,1.0,Frederick County,0.00%,Republican,603 - GREENWOOD (10),0.0
-Terry R. McAuliffe,2.0,Frederick County,0.00%,Democratic,603 - GREENWOOD (10),0.0
-Princess L. Blanding,3.0,Frederick County,0.00%,Liberation,603 - GREENWOOD (10),0.0
+Glenn A. Youngkin,1.0,Frederick County,69.75%,Republican,603 - GREENWOOD (10),1326.0
+Terry R. McAuliffe,2.0,Frederick County,29.77%,Democratic,603 - GREENWOOD (10),566.0
+Princess L. Blanding,3.0,Frederick County,0.47%,Liberation,603 - GREENWOOD (10),9.0
 Write In,2147483647.0,Frederick County,0.00%,Write-In,603 - GREENWOOD (10),0.0
 Glenn A. Youngkin,1.0,Giles County,0.00%,Republican,# AB - Central Absentee Precinct (09),0.0
 Terry R. McAuliffe,2.0,Giles County,0.00%,Democratic,# AB - Central Absentee Precinct (09),0.0
@@ -4107,9 +4107,9 @@ Glenn A. Youngkin,1.0,Halifax County,61.11%,Republican,203 - CLOVER (05),297.0
 Terry R. McAuliffe,2.0,Halifax County,38.48%,Democratic,203 - CLOVER (05),187.0
 Princess L. Blanding,3.0,Halifax County,0.41%,Liberation,203 - CLOVER (05),2.0
 Write In,2147483647.0,Halifax County,0.00%,Write-In,203 - CLOVER (05),0.0
-Glenn A. Youngkin,1.0,Halifax County,0.00%,Republican,302 - MEADVILLE (05),0.0
-Terry R. McAuliffe,2.0,Halifax County,0.00%,Democratic,302 - MEADVILLE (05),0.0
-Princess L. Blanding,3.0,Halifax County,0.00%,Liberation,302 - MEADVILLE (05),0.0
+Glenn A. Youngkin,1.0,Halifax County,40.59%,Republican,302 - MEADVILLE (05),82.0
+Terry R. McAuliffe,2.0,Halifax County,58.42%,Democratic,302 - MEADVILLE (05),118.0
+Princess L. Blanding,3.0,Halifax County,0.99%,Liberation,302 - MEADVILLE (05),2.0
 Write In,2147483647.0,Halifax County,0.00%,Write-In,302 - MEADVILLE (05),0.0
 Glenn A. Youngkin,1.0,Halifax County,75.49%,Republican,304 - VERNON HILL (05),308.0
 Terry R. McAuliffe,2.0,Halifax County,24.26%,Democratic,304 - VERNON HILL (05),99.0
@@ -4299,26 +4299,26 @@ Glenn A. Youngkin,1.0,Hanover County,67.00%,Republican,603 - MECHANICSVILLE (01)
 Terry R. McAuliffe,2.0,Hanover County,32.33%,Democratic,603 - MECHANICSVILLE (01),290.0
 Princess L. Blanding,3.0,Hanover County,0.56%,Liberation,603 - MECHANICSVILLE (01),5.0
 Write In,2147483647.0,Hanover County,0.11%,Write-In,603 - MECHANICSVILLE (01),1.0
-Glenn A. Youngkin,1.0,Hanover County,0.00%,Republican,604 - HANOVER GROVE (01),0.0
-Terry R. McAuliffe,2.0,Hanover County,0.00%,Democratic,604 - HANOVER GROVE (01),0.0
-Princess L. Blanding,3.0,Hanover County,0.00%,Liberation,604 - HANOVER GROVE (01),0.0
+Glenn A. Youngkin,1.0,Hanover County,72.37%,Republican,604 - HANOVER GROVE (01),592.0
+Terry R. McAuliffe,2.0,Hanover County,27.26%,Democratic,604 - HANOVER GROVE (01),223.0
+Princess L. Blanding,3.0,Hanover County,0.37%,Liberation,604 - HANOVER GROVE (01),3.0
 Write In,2147483647.0,Hanover County,0.00%,Write-In,604 - HANOVER GROVE (01),0.0
-Glenn A. Youngkin,1.0,Hanover County,0.00%,Republican,701 - FARRINGTON (01),0.0
-Terry R. McAuliffe,2.0,Hanover County,0.00%,Democratic,701 - FARRINGTON (01),0.0
-Princess L. Blanding,3.0,Hanover County,0.00%,Liberation,701 - FARRINGTON (01),0.0
+Glenn A. Youngkin,1.0,Hanover County,78.23%,Republican,701 - FARRINGTON (01),866.0
+Terry R. McAuliffe,2.0,Hanover County,21.23%,Democratic,701 - FARRINGTON (01),235.0
+Princess L. Blanding,3.0,Hanover County,0.54%,Liberation,701 - FARRINGTON (01),6.0
 Write In,2147483647.0,Hanover County,0.00%,Write-In,701 - FARRINGTON (01),0.0
-Glenn A. Youngkin,1.0,Hanover County,0.00%,Republican,702 - MONTPELIER (01),0.0
-Terry R. McAuliffe,2.0,Hanover County,0.00%,Democratic,702 - MONTPELIER (01),0.0
-Princess L. Blanding,3.0,Hanover County,0.00%,Liberation,702 - MONTPELIER (01),0.0
+Glenn A. Youngkin,1.0,Hanover County,70.60%,Republican,702 - MONTPELIER (01),807.0
+Terry R. McAuliffe,2.0,Hanover County,29.05%,Democratic,702 - MONTPELIER (01),332.0
+Princess L. Blanding,3.0,Hanover County,0.35%,Liberation,702 - MONTPELIER (01),4.0
 Write In,2147483647.0,Hanover County,0.00%,Write-In,702 - MONTPELIER (01),0.0
-Glenn A. Youngkin,1.0,Hanover County,0.00%,Republican,703 - ROCKVILLE (01),0.0
-Terry R. McAuliffe,2.0,Hanover County,0.00%,Democratic,703 - ROCKVILLE (01),0.0
-Princess L. Blanding,3.0,Hanover County,0.00%,Liberation,703 - ROCKVILLE (01),0.0
-Write In,2147483647.0,Hanover County,0.00%,Write-In,703 - ROCKVILLE (01),0.0
-Glenn A. Youngkin,1.0,Hanover County,0.00%,Republican,704 - ELMONT (01),0.0
-Terry R. McAuliffe,2.0,Hanover County,0.00%,Democratic,704 - ELMONT (01),0.0
-Princess L. Blanding,3.0,Hanover County,0.00%,Liberation,704 - ELMONT (01),0.0
-Write In,2147483647.0,Hanover County,0.00%,Write-In,704 - ELMONT (01),0.0
+Glenn A. Youngkin,1.0,Hanover County,75.89%,Republican,703 - ROCKVILLE (01),1001.0
+Terry R. McAuliffe,2.0,Hanover County,23.58%,Democratic,703 - ROCKVILLE (01),311.0
+Princess L. Blanding,3.0,Hanover County,0.30%,Liberation,703 - ROCKVILLE (01),4.0
+Write In,2147483647.0,Hanover County,0.23%,Write-In,703 - ROCKVILLE (01),3.0
+Glenn A. Youngkin,1.0,Hanover County,68.35%,Republican,704 - ELMONT (01),909.0
+Terry R. McAuliffe,2.0,Hanover County,30.83%,Democratic,704 - ELMONT (01),410.0
+Princess L. Blanding,3.0,Hanover County,0.75%,Liberation,704 - ELMONT (01),10.0
+Write In,2147483647.0,Hanover County,0.08%,Write-In,704 - ELMONT (01),1.0
 Glenn A. Youngkin,1.0,Hanover County,0.00%,Republican,705 - SOUTH ANNA (01),0.0
 Terry R. McAuliffe,2.0,Hanover County,0.00%,Democratic,705 - SOUTH ANNA (01),0.0
 Princess L. Blanding,3.0,Hanover County,0.00%,Liberation,705 - SOUTH ANNA (01),0.0
@@ -5063,9 +5063,9 @@ Glenn A. Youngkin,1.0,James City County,69.97%,Republican,403 - STONEHOUSE C (01
 Terry R. McAuliffe,2.0,James City County,29.48%,Democratic,403 - STONEHOUSE C (01),434.0
 Princess L. Blanding,3.0,James City County,0.54%,Liberation,403 - STONEHOUSE C (01),8.0
 Write In,2147483647.0,James City County,0.00%,Write-In,403 - STONEHOUSE C (01),0.0
-Glenn A. Youngkin,1.0,James City County,100.00%,Republican,501 - ROBERTS A (02),233.0
-Terry R. McAuliffe,2.0,James City County,0.00%,Democratic,501 - ROBERTS A (02),0.0
-Princess L. Blanding,3.0,James City County,0.00%,Liberation,501 - ROBERTS A (02),0.0
+Glenn A. Youngkin,1.0,James City County,36.41%,Republican,501 - ROBERTS A (02),233.0
+Terry R. McAuliffe,2.0,James City County,62.97%,Democratic,501 - ROBERTS A (02),403.0
+Princess L. Blanding,3.0,James City County,0.63%,Liberation,501 - ROBERTS A (02),4.0
 Write In,2147483647.0,James City County,0.00%,Write-In,501 - ROBERTS A (02),0.0
 Glenn A. Youngkin,1.0,James City County,72.27%,Republican,502 - ROBERTS B (02),920.0
 Terry R. McAuliffe,2.0,James City County,27.49%,Democratic,502 - ROBERTS B (02),350.0
@@ -5235,13 +5235,13 @@ Glenn A. Youngkin,1.0,Lancaster County,69.70%,Republican,501 - PRECINCT 5-1 (01)
 Terry R. McAuliffe,2.0,Lancaster County,30.08%,Democratic,501 - PRECINCT 5-1 (01),271.0
 Princess L. Blanding,3.0,Lancaster County,0.22%,Liberation,501 - PRECINCT 5-1 (01),2.0
 Write In,2147483647.0,Lancaster County,0.00%,Write-In,501 - PRECINCT 5-1 (01),0.0
-Glenn A. Youngkin,1.0,Lee County,0.00%,Republican,# AB - Central Absentee Precinct (09),0.0
-Terry R. McAuliffe,2.0,Lee County,0.00%,Democratic,# AB - Central Absentee Precinct (09),0.0
-Princess L. Blanding,3.0,Lee County,0.00%,Liberation,# AB - Central Absentee Precinct (09),0.0
-Write In,2147483647.0,Lee County,0.00%,Write-In,# AB - Central Absentee Precinct (09),0.0
-Glenn A. Youngkin,1.0,Lee County,0.00%,Republican,# EV - Central Absentee Precinct (09),0.0
-Terry R. McAuliffe,2.0,Lee County,0.00%,Democratic,# EV - Central Absentee Precinct (09),0.0
-Princess L. Blanding,3.0,Lee County,0.00%,Liberation,# EV - Central Absentee Precinct (09),0.0
+Glenn A. Youngkin,1.0,Lee County,57.47%,Republican,# AB - Central Absentee Precinct (09),150.0
+Terry R. McAuliffe,2.0,Lee County,41.76%,Democratic,# AB - Central Absentee Precinct (09),109.0
+Princess L. Blanding,3.0,Lee County,0.38%,Liberation,# AB - Central Absentee Precinct (09),1.0
+Write In,2147483647.0,Lee County,0.38%,Write-In,# AB - Central Absentee Precinct (09),1.0
+Glenn A. Youngkin,1.0,Lee County,81.53%,Republican,# EV - Central Absentee Precinct (09),777.0
+Terry R. McAuliffe,2.0,Lee County,18.05%,Democratic,# EV - Central Absentee Precinct (09),172.0
+Princess L. Blanding,3.0,Lee County,0.42%,Liberation,# EV - Central Absentee Precinct (09),4.0
 Write In,2147483647.0,Lee County,0.00%,Write-In,# EV - Central Absentee Precinct (09),0.0
 Glenn A. Youngkin,1.0,Lee County,0.00%,Republican,# PE - Central Absentee Precinct (09),0.0
 Terry R. McAuliffe,2.0,Lee County,0.00%,Democratic,# PE - Central Absentee Precinct (09),0.0
@@ -5355,26 +5355,26 @@ Glenn A. Youngkin,1.0,Loudoun County,40.80%,Republican,118 - MOOREFIELD (10),477
 Terry R. McAuliffe,2.0,Loudoun County,58.60%,Democratic,118 - MOOREFIELD (10),685.0
 Princess L. Blanding,3.0,Loudoun County,0.60%,Liberation,118 - MOOREFIELD (10),7.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,118 - MOOREFIELD (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,37.42%,Republican,119 - ARCOLA (10),351.0
-Terry R. McAuliffe,2.0,Loudoun County,62.58%,Democratic,119 - ARCOLA (10),587.0
+Glenn A. Youngkin,1.0,Loudoun County,37.30%,Republican,119 - ARCOLA (10),351.0
+Terry R. McAuliffe,2.0,Loudoun County,62.38%,Democratic,119 - ARCOLA (10),587.0
 Princess L. Blanding,3.0,Loudoun County,0.00%,Liberation,119 - ARCOLA (10),0.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,119 - ARCOLA (10),0.0
+Write In,2147483647.0,Loudoun County,0.32%,Write-In,119 - ARCOLA (10),3.0
 Glenn A. Youngkin,1.0,Loudoun County,45.79%,Republican,120 - LUNSFORD (10),527.0
 Terry R. McAuliffe,2.0,Loudoun County,53.52%,Democratic,120 - LUNSFORD (10),616.0
 Princess L. Blanding,3.0,Loudoun County,0.70%,Liberation,120 - LUNSFORD (10),8.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,120 - LUNSFORD (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,45.94%,Republican,121 - TOWN HALL (10),345.0
-Terry R. McAuliffe,2.0,Loudoun County,53.13%,Democratic,121 - TOWN HALL (10),399.0
+Glenn A. Youngkin,1.0,Loudoun County,45.88%,Republican,121 - TOWN HALL (10),345.0
+Terry R. McAuliffe,2.0,Loudoun County,53.06%,Democratic,121 - TOWN HALL (10),399.0
 Princess L. Blanding,3.0,Loudoun County,0.93%,Liberation,121 - TOWN HALL (10),7.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,121 - TOWN HALL (10),0.0
+Write In,2147483647.0,Loudoun County,0.13%,Write-In,121 - TOWN HALL (10),1.0
 Glenn A. Youngkin,1.0,Loudoun County,48.23%,Republican,122 - HUTCHISON FARM (10),532.0
 Terry R. McAuliffe,2.0,Loudoun County,51.13%,Democratic,122 - HUTCHISON FARM (10),564.0
 Princess L. Blanding,3.0,Loudoun County,0.63%,Liberation,122 - HUTCHISON FARM (10),7.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,122 - HUTCHISON FARM (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,46.29%,Republican,123 - CARDINAL RIDGE (10),331.0
-Terry R. McAuliffe,2.0,Loudoun County,53.57%,Democratic,123 - CARDINAL RIDGE (10),383.0
+Glenn A. Youngkin,1.0,Loudoun County,46.23%,Republican,123 - CARDINAL RIDGE (10),331.0
+Terry R. McAuliffe,2.0,Loudoun County,53.49%,Democratic,123 - CARDINAL RIDGE (10),383.0
 Princess L. Blanding,3.0,Loudoun County,0.14%,Liberation,123 - CARDINAL RIDGE (10),1.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,123 - CARDINAL RIDGE (10),0.0
+Write In,2147483647.0,Loudoun County,0.14%,Write-In,123 - CARDINAL RIDGE (10),1.0
 Glenn A. Youngkin,1.0,Loudoun County,41.86%,Republican,124 - LIBERTY (10),329.0
 Terry R. McAuliffe,2.0,Loudoun County,57.51%,Democratic,124 - LIBERTY (10),452.0
 Princess L. Blanding,3.0,Loudoun County,0.64%,Liberation,124 - LIBERTY (10),5.0
@@ -5383,30 +5383,30 @@ Glenn A. Youngkin,1.0,Loudoun County,42.17%,Republican,125 - ROCK RIDGE (10),396
 Terry R. McAuliffe,2.0,Loudoun County,56.98%,Democratic,125 - ROCK RIDGE (10),535.0
 Princess L. Blanding,3.0,Loudoun County,0.85%,Liberation,125 - ROCK RIDGE (10),8.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,125 - ROCK RIDGE (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,45.45%,Republican,126-GOSHEN POST (10),484.0
-Terry R. McAuliffe,2.0,Loudoun County,54.08%,Democratic,126-GOSHEN POST (10),576.0
+Glenn A. Youngkin,1.0,Loudoun County,45.36%,Republican,126-GOSHEN POST (10),484.0
+Terry R. McAuliffe,2.0,Loudoun County,53.98%,Democratic,126-GOSHEN POST (10),576.0
 Princess L. Blanding,3.0,Loudoun County,0.47%,Liberation,126-GOSHEN POST (10),5.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,126-GOSHEN POST (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,48.81%,Republican,207 - RIVER BEND (10),388.0
-Terry R. McAuliffe,2.0,Loudoun County,50.44%,Democratic,207 - RIVER BEND (10),401.0
+Write In,2147483647.0,Loudoun County,0.19%,Write-In,126-GOSHEN POST (10),2.0
+Glenn A. Youngkin,1.0,Loudoun County,48.74%,Republican,207 - RIVER BEND (10),388.0
+Terry R. McAuliffe,2.0,Loudoun County,50.38%,Democratic,207 - RIVER BEND (10),401.0
 Princess L. Blanding,3.0,Loudoun County,0.75%,Liberation,207 - RIVER BEND (10),6.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,207 - RIVER BEND (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,45.57%,Republican,208 - ALGONKIAN (10),406.0
-Terry R. McAuliffe,2.0,Loudoun County,54.10%,Democratic,208 - ALGONKIAN (10),482.0
+Write In,2147483647.0,Loudoun County,0.13%,Write-In,207 - RIVER BEND (10),1.0
+Glenn A. Youngkin,1.0,Loudoun County,45.52%,Republican,208 - ALGONKIAN (10),406.0
+Terry R. McAuliffe,2.0,Loudoun County,54.04%,Democratic,208 - ALGONKIAN (10),482.0
 Princess L. Blanding,3.0,Loudoun County,0.34%,Liberation,208 - ALGONKIAN (10),3.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,208 - ALGONKIAN (10),0.0
+Write In,2147483647.0,Loudoun County,0.11%,Write-In,208 - ALGONKIAN (10),1.0
 Glenn A. Youngkin,1.0,Loudoun County,43.36%,Republican,209 - POTOMAC FALLS (10),477.0
 Terry R. McAuliffe,2.0,Loudoun County,55.91%,Democratic,209 - POTOMAC FALLS (10),615.0
 Princess L. Blanding,3.0,Loudoun County,0.73%,Liberation,209 - POTOMAC FALLS (10),8.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,209 - POTOMAC FALLS (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,43.49%,Republican,210 - CASCADES (10),544.0
-Terry R. McAuliffe,2.0,Loudoun County,55.80%,Democratic,210 - CASCADES (10),698.0
+Glenn A. Youngkin,1.0,Loudoun County,43.45%,Republican,210 - CASCADES (10),544.0
+Terry R. McAuliffe,2.0,Loudoun County,55.75%,Democratic,210 - CASCADES (10),698.0
 Princess L. Blanding,3.0,Loudoun County,0.72%,Liberation,210 - CASCADES (10),9.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,210 - CASCADES (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,41.71%,Republican,213 - COUNTRYSIDE (10),181.0
-Terry R. McAuliffe,2.0,Loudoun County,58.06%,Democratic,213 - COUNTRYSIDE (10),252.0
+Write In,2147483647.0,Loudoun County,0.08%,Write-In,210 - CASCADES (10),1.0
+Glenn A. Youngkin,1.0,Loudoun County,41.61%,Republican,213 - COUNTRYSIDE (10),181.0
+Terry R. McAuliffe,2.0,Loudoun County,57.93%,Democratic,213 - COUNTRYSIDE (10),252.0
 Princess L. Blanding,3.0,Loudoun County,0.23%,Liberation,213 - COUNTRYSIDE (10),1.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,213 - COUNTRYSIDE (10),0.0
+Write In,2147483647.0,Loudoun County,0.23%,Write-In,213 - COUNTRYSIDE (10),1.0
 Glenn A. Youngkin,1.0,Loudoun County,45.50%,Republican,214 - SUGARLAND NORTH (10),577.0
 Terry R. McAuliffe,2.0,Loudoun County,54.10%,Democratic,214 - SUGARLAND NORTH (10),686.0
 Princess L. Blanding,3.0,Loudoun County,0.39%,Liberation,214 - SUGARLAND NORTH (10),5.0
@@ -5415,10 +5415,10 @@ Glenn A. Youngkin,1.0,Loudoun County,44.16%,Republican,215 - SUGARLAND SOUTH (10
 Terry R. McAuliffe,2.0,Loudoun County,55.33%,Democratic,215 - SUGARLAND SOUTH (10),659.0
 Princess L. Blanding,3.0,Loudoun County,0.50%,Liberation,215 - SUGARLAND SOUTH (10),6.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,215 - SUGARLAND SOUTH (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,49.31%,Republican,216 - LOWES ISLAND (10),574.0
-Terry R. McAuliffe,2.0,Loudoun County,50.43%,Democratic,216 - LOWES ISLAND (10),587.0
+Glenn A. Youngkin,1.0,Loudoun County,49.19%,Republican,216 - LOWES ISLAND (10),574.0
+Terry R. McAuliffe,2.0,Loudoun County,50.30%,Democratic,216 - LOWES ISLAND (10),587.0
 Princess L. Blanding,3.0,Loudoun County,0.26%,Liberation,216 - LOWES ISLAND (10),3.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,216 - LOWES ISLAND (10),0.0
+Write In,2147483647.0,Loudoun County,0.26%,Write-In,216 - LOWES ISLAND (10),3.0
 Glenn A. Youngkin,1.0,Loudoun County,47.69%,Republican,217 - SOUTH BANK (10),567.0
 Terry R. McAuliffe,2.0,Loudoun County,51.89%,Democratic,217 - SOUTH BANK (10),617.0
 Princess L. Blanding,3.0,Loudoun County,0.42%,Liberation,217 - SOUTH BANK (10),5.0
@@ -5431,26 +5431,26 @@ Glenn A. Youngkin,1.0,Loudoun County,44.72%,Republican,219 - GALILEE CHURCH (10)
 Terry R. McAuliffe,2.0,Loudoun County,54.46%,Democratic,219 - GALILEE CHURCH (10),531.0
 Princess L. Blanding,3.0,Loudoun County,0.82%,Liberation,219 - GALILEE CHURCH (10),8.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,219 - GALILEE CHURCH (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,59.37%,Republican,301 - PURCELLVILLE (10),1546.0
-Terry R. McAuliffe,2.0,Loudoun County,40.55%,Democratic,301 - PURCELLVILLE (10),1056.0
-Princess L. Blanding,3.0,Loudoun County,0.08%,Liberation,301 - PURCELLVILLE (10),2.0
+Glenn A. Youngkin,1.0,Loudoun County,59.37%,Republican,301 - PURCELLVILLE (10),773.0
+Terry R. McAuliffe,2.0,Loudoun County,40.55%,Democratic,301 - PURCELLVILLE (10),528.0
+Princess L. Blanding,3.0,Loudoun County,0.08%,Liberation,301 - PURCELLVILLE (10),1.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,301 - PURCELLVILLE (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,66.53%,Republican,302 - ROUND HILL (10),1896.0
-Terry R. McAuliffe,2.0,Loudoun County,33.05%,Democratic,302 - ROUND HILL (10),942.0
-Princess L. Blanding,3.0,Loudoun County,0.42%,Liberation,302 - ROUND HILL (10),12.0
+Glenn A. Youngkin,1.0,Loudoun County,66.53%,Republican,302 - ROUND HILL (10),948.0
+Terry R. McAuliffe,2.0,Loudoun County,33.05%,Democratic,302 - ROUND HILL (10),471.0
+Princess L. Blanding,3.0,Loudoun County,0.42%,Liberation,302 - ROUND HILL (10),6.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,302 - ROUND HILL (10),0.0
 Glenn A. Youngkin,1.0,Loudoun County,66.86%,Republican,303 - HILLSBORO (10),801.0
 Terry R. McAuliffe,2.0,Loudoun County,32.97%,Democratic,303 - HILLSBORO (10),395.0
 Princess L. Blanding,3.0,Loudoun County,0.17%,Liberation,303 - HILLSBORO (10),2.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,303 - HILLSBORO (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,60.27%,Republican,305 - PHILOMONT (10),408.0
-Terry R. McAuliffe,2.0,Loudoun County,39.73%,Democratic,305 - PHILOMONT (10),269.0
+Glenn A. Youngkin,1.0,Loudoun County,60.18%,Republican,305 - PHILOMONT (10),408.0
+Terry R. McAuliffe,2.0,Loudoun County,39.68%,Democratic,305 - PHILOMONT (10),269.0
 Princess L. Blanding,3.0,Loudoun County,0.00%,Liberation,305 - PHILOMONT (10),0.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,305 - PHILOMONT (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,48.53%,Republican,307 - MIDDLEBURG (10),662.0
-Terry R. McAuliffe,2.0,Loudoun County,51.47%,Democratic,307 - MIDDLEBURG (10),702.0
+Write In,2147483647.0,Loudoun County,0.15%,Write-In,305 - PHILOMONT (10),1.0
+Glenn A. Youngkin,1.0,Loudoun County,48.46%,Republican,307 - MIDDLEBURG (10),331.0
+Terry R. McAuliffe,2.0,Loudoun County,51.39%,Democratic,307 - MIDDLEBURG (10),351.0
 Princess L. Blanding,3.0,Loudoun County,0.00%,Liberation,307 - MIDDLEBURG (10),0.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,307 - MIDDLEBURG (10),0.0
+Write In,2147483647.0,Loudoun County,0.15%,Write-In,307 - MIDDLEBURG (10),1.0
 Glenn A. Youngkin,1.0,Loudoun County,51.12%,Republican,308 - ST LOUIS (10),342.0
 Terry R. McAuliffe,2.0,Loudoun County,48.43%,Democratic,308 - ST LOUIS (10),324.0
 Princess L. Blanding,3.0,Loudoun County,0.45%,Liberation,308 - ST LOUIS (10),3.0
@@ -5459,26 +5459,26 @@ Glenn A. Youngkin,1.0,Loudoun County,54.76%,Republican,309 - ALDIE (10),276.0
 Terry R. McAuliffe,2.0,Loudoun County,44.25%,Democratic,309 - ALDIE (10),223.0
 Princess L. Blanding,3.0,Loudoun County,0.99%,Liberation,309 - ALDIE (10),5.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,309 - ALDIE (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,62.15%,Republican,310 - MOUNTAIN VIEW (10),944.0
-Terry R. McAuliffe,2.0,Loudoun County,37.46%,Democratic,310 - MOUNTAIN VIEW (10),569.0
+Glenn A. Youngkin,1.0,Loudoun County,62.02%,Republican,310 - MOUNTAIN VIEW (10),944.0
+Terry R. McAuliffe,2.0,Loudoun County,37.39%,Democratic,310 - MOUNTAIN VIEW (10),569.0
 Princess L. Blanding,3.0,Loudoun County,0.39%,Liberation,310 - MOUNTAIN VIEW (10),6.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,310 - MOUNTAIN VIEW (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,64.08%,Republican,311 - ROUND HILL ELEMENTARY (10),981.0
-Terry R. McAuliffe,2.0,Loudoun County,35.14%,Democratic,311 - ROUND HILL ELEMENTARY (10),538.0
+Write In,2147483647.0,Loudoun County,0.20%,Write-In,310 - MOUNTAIN VIEW (10),3.0
+Glenn A. Youngkin,1.0,Loudoun County,63.99%,Republican,311 - ROUND HILL ELEMENTARY (10),981.0
+Terry R. McAuliffe,2.0,Loudoun County,35.09%,Democratic,311 - ROUND HILL ELEMENTARY (10),538.0
 Princess L. Blanding,3.0,Loudoun County,0.78%,Liberation,311 - ROUND HILL ELEMENTARY (10),12.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,311 - ROUND HILL ELEMENTARY (10),0.0
+Write In,2147483647.0,Loudoun County,0.13%,Write-In,311 - ROUND HILL ELEMENTARY (10),2.0
 Glenn A. Youngkin,1.0,Loudoun County,40.03%,Republican,312 - BRIAR WOODS (10),498.0
 Terry R. McAuliffe,2.0,Loudoun County,59.08%,Democratic,312 - BRIAR WOODS (10),735.0
 Princess L. Blanding,3.0,Loudoun County,0.88%,Liberation,312 - BRIAR WOODS (10),11.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,312 - BRIAR WOODS (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,49.53%,Republican,313 - PINEBROOK (10),688.0
-Terry R. McAuliffe,2.0,Loudoun County,50.04%,Democratic,313 - PINEBROOK (10),695.0
+Glenn A. Youngkin,1.0,Loudoun County,49.50%,Republican,313 - PINEBROOK (10),688.0
+Terry R. McAuliffe,2.0,Loudoun County,50.00%,Democratic,313 - PINEBROOK (10),695.0
 Princess L. Blanding,3.0,Loudoun County,0.43%,Liberation,313 - PINEBROOK (10),6.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,313 - PINEBROOK (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,42.81%,Republican,314 - LEGACY (10),518.0
-Terry R. McAuliffe,2.0,Loudoun County,56.94%,Democratic,314 - LEGACY (10),689.0
+Write In,2147483647.0,Loudoun County,0.07%,Write-In,313 - PINEBROOK (10),1.0
+Glenn A. Youngkin,1.0,Loudoun County,42.77%,Republican,314 - LEGACY (10),518.0
+Terry R. McAuliffe,2.0,Loudoun County,56.90%,Democratic,314 - LEGACY (10),689.0
 Princess L. Blanding,3.0,Loudoun County,0.25%,Liberation,314 - LEGACY (10),3.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,314 - LEGACY (10),0.0
+Write In,2147483647.0,Loudoun County,0.08%,Write-In,314 - LEGACY (10),1.0
 Glenn A. Youngkin,1.0,Loudoun County,65.64%,Republican,315 - FIREHOUSE (10),321.0
 Terry R. McAuliffe,2.0,Loudoun County,33.74%,Democratic,315 - FIREHOUSE (10),165.0
 Princess L. Blanding,3.0,Loudoun County,0.61%,Liberation,315 - FIREHOUSE (10),3.0
@@ -5487,70 +5487,70 @@ Glenn A. Youngkin,1.0,Loudoun County,42.31%,Republican,316 - CREIGHTON'S CORNER 
 Terry R. McAuliffe,2.0,Loudoun County,57.27%,Democratic,316 - CREIGHTON'S CORNER (10),823.0
 Princess L. Blanding,3.0,Loudoun County,0.42%,Liberation,316 - CREIGHTON'S CORNER (10),6.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,316 - CREIGHTON'S CORNER (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,60.04%,Republican,318 - MADISON'S TRUST (10),861.0
-Terry R. McAuliffe,2.0,Loudoun County,39.40%,Democratic,318 - MADISON'S TRUST (10),565.0
+Glenn A. Youngkin,1.0,Loudoun County,59.96%,Republican,318 - MADISON'S TRUST (10),861.0
+Terry R. McAuliffe,2.0,Loudoun County,39.35%,Democratic,318 - MADISON'S TRUST (10),565.0
 Princess L. Blanding,3.0,Loudoun County,0.56%,Liberation,318 - MADISON'S TRUST (10),8.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,318 - MADISON'S TRUST (10),0.0
+Write In,2147483647.0,Loudoun County,0.14%,Write-In,318 - MADISON'S TRUST (10),2.0
 Glenn A. Youngkin,1.0,Loudoun County,48.34%,Republican,319 - JOHN CHAMPE (10),915.0
 Terry R. McAuliffe,2.0,Loudoun County,51.45%,Democratic,319 - JOHN CHAMPE (10),974.0
 Princess L. Blanding,3.0,Loudoun County,0.21%,Liberation,319 - JOHN CHAMPE (10),4.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,319 - JOHN CHAMPE (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,35.62%,Republican,320 - STONE HILL (10),618.0
-Terry R. McAuliffe,2.0,Loudoun County,63.92%,Democratic,320 - STONE HILL (10),1109.0
+Glenn A. Youngkin,1.0,Loudoun County,35.60%,Republican,320 - STONE HILL (10),618.0
+Terry R. McAuliffe,2.0,Loudoun County,63.88%,Democratic,320 - STONE HILL (10),1109.0
 Princess L. Blanding,3.0,Loudoun County,0.46%,Liberation,320 - STONE HILL (10),8.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,320 - STONE HILL (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,42.78%,Republican,321 - BRAMBLETON MIDDLE (10),335.0
-Terry R. McAuliffe,2.0,Loudoun County,57.09%,Democratic,321 - BRAMBLETON MIDDLE (10),447.0
+Write In,2147483647.0,Loudoun County,0.06%,Write-In,320 - STONE HILL (10),1.0
+Glenn A. Youngkin,1.0,Loudoun County,42.62%,Republican,321 - BRAMBLETON MIDDLE (10),335.0
+Terry R. McAuliffe,2.0,Loudoun County,56.87%,Democratic,321 - BRAMBLETON MIDDLE (10),447.0
 Princess L. Blanding,3.0,Loudoun County,0.13%,Liberation,321 - BRAMBLETON MIDDLE (10),1.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,321 - BRAMBLETON MIDDLE (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,42.84%,Republican,322-BUFFALO TRAIL (10),383.0
-Terry R. McAuliffe,2.0,Loudoun County,57.05%,Democratic,322-BUFFALO TRAIL (10),510.0
+Write In,2147483647.0,Loudoun County,0.38%,Write-In,321 - BRAMBLETON MIDDLE (10),3.0
+Glenn A. Youngkin,1.0,Loudoun County,42.75%,Republican,322-BUFFALO TRAIL (10),383.0
+Terry R. McAuliffe,2.0,Loudoun County,56.92%,Democratic,322-BUFFALO TRAIL (10),510.0
 Princess L. Blanding,3.0,Loudoun County,0.11%,Liberation,322-BUFFALO TRAIL (10),1.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,322-BUFFALO TRAIL (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,65.36%,Republican,401 - WEST LOVETTSVILLE (10),1200.0
-Terry R. McAuliffe,2.0,Loudoun County,34.37%,Democratic,401 - WEST LOVETTSVILLE (10),631.0
+Write In,2147483647.0,Loudoun County,0.22%,Write-In,322-BUFFALO TRAIL (10),2.0
+Glenn A. Youngkin,1.0,Loudoun County,65.25%,Republican,401 - WEST LOVETTSVILLE (10),1200.0
+Terry R. McAuliffe,2.0,Loudoun County,34.31%,Democratic,401 - WEST LOVETTSVILLE (10),631.0
 Princess L. Blanding,3.0,Loudoun County,0.27%,Liberation,401 - WEST LOVETTSVILLE (10),5.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,401 - WEST LOVETTSVILLE (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,62.32%,Republican,402 - WATERFORD (10),903.0
-Terry R. McAuliffe,2.0,Loudoun County,37.34%,Democratic,402 - WATERFORD (10),541.0
-Princess L. Blanding,3.0,Loudoun County,0.35%,Liberation,402 - WATERFORD (10),5.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,402 - WATERFORD (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,60.21%,Republican,403 - LUCKETTS (10),899.0
-Terry R. McAuliffe,2.0,Loudoun County,39.65%,Democratic,403 - LUCKETTS (10),592.0
+Write In,2147483647.0,Loudoun County,0.16%,Write-In,401 - WEST LOVETTSVILLE (10),3.0
+Glenn A. Youngkin,1.0,Loudoun County,62.28%,Republican,402 - WATERFORD (10),903.0
+Terry R. McAuliffe,2.0,Loudoun County,37.31%,Democratic,402 - WATERFORD (10),541.0
+Princess L. Blanding,3.0,Loudoun County,0.34%,Liberation,402 - WATERFORD (10),5.0
+Write In,2147483647.0,Loudoun County,0.07%,Write-In,402 - WATERFORD (10),1.0
+Glenn A. Youngkin,1.0,Loudoun County,60.17%,Republican,403 - LUCKETTS (10),899.0
+Terry R. McAuliffe,2.0,Loudoun County,39.63%,Democratic,403 - LUCKETTS (10),592.0
 Princess L. Blanding,3.0,Loudoun County,0.13%,Liberation,403 - LUCKETTS (10),2.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,403 - LUCKETTS (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,46.87%,Republican,407 - HARPER PARK (10),359.0
-Terry R. McAuliffe,2.0,Loudoun County,52.87%,Democratic,407 - HARPER PARK (10),405.0
+Write In,2147483647.0,Loudoun County,0.07%,Write-In,403 - LUCKETTS (10),1.0
+Glenn A. Youngkin,1.0,Loudoun County,46.74%,Republican,407 - HARPER PARK (10),359.0
+Terry R. McAuliffe,2.0,Loudoun County,52.73%,Democratic,407 - HARPER PARK (10),405.0
 Princess L. Blanding,3.0,Loudoun County,0.26%,Liberation,407 - HARPER PARK (10),2.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,407 - HARPER PARK (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,55.03%,Republican,408 - EVERGREEN (10),733.0
-Terry R. McAuliffe,2.0,Loudoun County,44.52%,Democratic,408 - EVERGREEN (10),593.0
+Write In,2147483647.0,Loudoun County,0.26%,Write-In,407 - HARPER PARK (10),2.0
+Glenn A. Youngkin,1.0,Loudoun County,54.99%,Republican,408 - EVERGREEN (10),733.0
+Terry R. McAuliffe,2.0,Loudoun County,44.49%,Democratic,408 - EVERGREEN (10),593.0
 Princess L. Blanding,3.0,Loudoun County,0.45%,Liberation,408 - EVERGREEN (10),6.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,408 - EVERGREEN (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,64.97%,Republican,409 - CLARKES GAP (10),818.0
-Terry R. McAuliffe,2.0,Loudoun County,34.63%,Democratic,409 - CLARKES GAP (10),436.0
+Write In,2147483647.0,Loudoun County,0.08%,Write-In,408 - EVERGREEN (10),1.0
+Glenn A. Youngkin,1.0,Loudoun County,64.87%,Republican,409 - CLARKES GAP (10),818.0
+Terry R. McAuliffe,2.0,Loudoun County,34.58%,Democratic,409 - CLARKES GAP (10),436.0
 Princess L. Blanding,3.0,Loudoun County,0.40%,Liberation,409 - CLARKES GAP (10),5.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,409 - CLARKES GAP (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,67.39%,Republican,411 - EAST LOVETTSVILLE (10),773.0
-Terry R. McAuliffe,2.0,Loudoun County,32.26%,Democratic,411 - EAST LOVETTSVILLE (10),370.0
+Write In,2147483647.0,Loudoun County,0.16%,Write-In,409 - CLARKES GAP (10),2.0
+Glenn A. Youngkin,1.0,Loudoun County,67.28%,Republican,411 - EAST LOVETTSVILLE (10),773.0
+Terry R. McAuliffe,2.0,Loudoun County,32.20%,Democratic,411 - EAST LOVETTSVILLE (10),370.0
 Princess L. Blanding,3.0,Loudoun County,0.35%,Liberation,411 - EAST LOVETTSVILLE (10),4.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,411 - EAST LOVETTSVILLE (10),0.0
+Write In,2147483647.0,Loudoun County,0.17%,Write-In,411 - EAST LOVETTSVILLE (10),2.0
 Glenn A. Youngkin,1.0,Loudoun County,42.65%,Republican,413 - TUSCARORA (10),29.0
 Terry R. McAuliffe,2.0,Loudoun County,57.35%,Democratic,413 - TUSCARORA (10),39.0
 Princess L. Blanding,3.0,Loudoun County,0.00%,Liberation,413 - TUSCARORA (10),0.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,413 - TUSCARORA (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,43.03%,Republican,414 - RED ROCK (10),327.0
-Terry R. McAuliffe,2.0,Loudoun County,56.32%,Democratic,414 - RED ROCK (10),428.0
+Glenn A. Youngkin,1.0,Loudoun County,42.97%,Republican,414 - RED ROCK (10),327.0
+Terry R. McAuliffe,2.0,Loudoun County,56.24%,Democratic,414 - RED ROCK (10),428.0
 Princess L. Blanding,3.0,Loudoun County,0.66%,Liberation,414 - RED ROCK (10),5.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,414 - RED ROCK (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,61.94%,Republican,416 - HAMILTON (10),1035.0
-Terry R. McAuliffe,2.0,Loudoun County,37.28%,Democratic,416 - HAMILTON (10),623.0
+Write In,2147483647.0,Loudoun County,0.13%,Write-In,414 - RED ROCK (10),1.0
+Glenn A. Youngkin,1.0,Loudoun County,61.83%,Republican,416 - HAMILTON (10),1035.0
+Terry R. McAuliffe,2.0,Loudoun County,37.22%,Democratic,416 - HAMILTON (10),623.0
 Princess L. Blanding,3.0,Loudoun County,0.78%,Liberation,416 - HAMILTON (10),13.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,416 - HAMILTON (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,62.76%,Republican,420 - RIVER CREEK (10),563.0
-Terry R. McAuliffe,2.0,Loudoun County,37.01%,Democratic,420 - RIVER CREEK (10),332.0
+Write In,2147483647.0,Loudoun County,0.18%,Write-In,416 - HAMILTON (10),3.0
+Glenn A. Youngkin,1.0,Loudoun County,62.69%,Republican,420 - RIVER CREEK (10),563.0
+Terry R. McAuliffe,2.0,Loudoun County,36.97%,Democratic,420 - RIVER CREEK (10),332.0
 Princess L. Blanding,3.0,Loudoun County,0.22%,Liberation,420 - RIVER CREEK (10),2.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,420 - RIVER CREEK (10),0.0
+Write In,2147483647.0,Loudoun County,0.11%,Write-In,420 - RIVER CREEK (10),1.0
 Glenn A. Youngkin,1.0,Loudoun County,66.19%,Republican,421 - BETWEEN THE HILLS (10),139.0
 Terry R. McAuliffe,2.0,Loudoun County,33.33%,Democratic,421 - BETWEEN THE HILLS (10),70.0
 Princess L. Blanding,3.0,Loudoun County,0.48%,Liberation,421 - BETWEEN THE HILLS (10),1.0
@@ -5559,42 +5559,42 @@ Glenn A. Youngkin,1.0,Loudoun County,62.95%,Republican,422 - SYCOLIN CREEK (10),
 Terry R. McAuliffe,2.0,Loudoun County,36.94%,Democratic,422 - SYCOLIN CREEK (10),331.0
 Princess L. Blanding,3.0,Loudoun County,0.11%,Liberation,422 - SYCOLIN CREEK (10),1.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,422 - SYCOLIN CREEK (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,50.40%,Republican,501 - WEST LEESBURG (10),502.0
-Terry R. McAuliffe,2.0,Loudoun County,49.20%,Democratic,501 - WEST LEESBURG (10),490.0
+Glenn A. Youngkin,1.0,Loudoun County,50.25%,Republican,501 - WEST LEESBURG (10),502.0
+Terry R. McAuliffe,2.0,Loudoun County,49.05%,Democratic,501 - WEST LEESBURG (10),490.0
 Princess L. Blanding,3.0,Loudoun County,0.40%,Liberation,501 - WEST LEESBURG (10),4.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,501 - WEST LEESBURG (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,40.33%,Republican,502 - EAST LEESBURG (10),415.0
-Terry R. McAuliffe,2.0,Loudoun County,58.89%,Democratic,502 - EAST LEESBURG (10),606.0
+Write In,2147483647.0,Loudoun County,0.30%,Write-In,501 - WEST LEESBURG (10),3.0
+Glenn A. Youngkin,1.0,Loudoun County,40.21%,Republican,502 - EAST LEESBURG (10),415.0
+Terry R. McAuliffe,2.0,Loudoun County,58.72%,Democratic,502 - EAST LEESBURG (10),606.0
 Princess L. Blanding,3.0,Loudoun County,0.78%,Liberation,502 - EAST LEESBURG (10),8.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,502 - EAST LEESBURG (10),0.0
+Write In,2147483647.0,Loudoun County,0.29%,Write-In,502 - EAST LEESBURG (10),3.0
 Glenn A. Youngkin,1.0,Loudoun County,51.85%,Republican,503 - DRY MILL (10),323.0
 Terry R. McAuliffe,2.0,Loudoun County,47.83%,Democratic,503 - DRY MILL (10),298.0
 Princess L. Blanding,3.0,Loudoun County,0.32%,Liberation,503 - DRY MILL (10),2.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,503 - DRY MILL (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,46.07%,Republican,504 - SMARTS MILL (10),533.0
-Terry R. McAuliffe,2.0,Loudoun County,52.81%,Democratic,504 - SMARTS MILL (10),611.0
+Glenn A. Youngkin,1.0,Loudoun County,45.99%,Republican,504 - SMARTS MILL (10),533.0
+Terry R. McAuliffe,2.0,Loudoun County,52.72%,Democratic,504 - SMARTS MILL (10),611.0
 Princess L. Blanding,3.0,Loudoun County,1.12%,Liberation,504 - SMARTS MILL (10),13.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,504 - SMARTS MILL (10),0.0
+Write In,2147483647.0,Loudoun County,0.17%,Write-In,504 - SMARTS MILL (10),2.0
 Glenn A. Youngkin,1.0,Loudoun County,52.83%,Republican,505 - COOL SPRING (10),643.0
 Terry R. McAuliffe,2.0,Loudoun County,46.67%,Democratic,505 - COOL SPRING (10),568.0
 Princess L. Blanding,3.0,Loudoun County,0.49%,Liberation,505 - COOL SPRING (10),6.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,505 - COOL SPRING (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,43.69%,Republican,506 - BRANDON PARK (10),270.0
-Terry R. McAuliffe,2.0,Loudoun County,54.21%,Democratic,506 - BRANDON PARK (10),335.0
-Princess L. Blanding,3.0,Loudoun County,2.10%,Liberation,506 - BRANDON PARK (10),13.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,506 - BRANDON PARK (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,55.17%,Republican,507 - GREENWAY (10),283.0
-Terry R. McAuliffe,2.0,Loudoun County,43.47%,Democratic,507 - GREENWAY (10),223.0
+Glenn A. Youngkin,1.0,Loudoun County,43.48%,Republican,506 - BRANDON PARK (10),270.0
+Terry R. McAuliffe,2.0,Loudoun County,53.95%,Democratic,506 - BRANDON PARK (10),335.0
+Princess L. Blanding,3.0,Loudoun County,2.09%,Liberation,506 - BRANDON PARK (10),13.0
+Write In,2147483647.0,Loudoun County,0.48%,Write-In,506 - BRANDON PARK (10),3.0
+Glenn A. Youngkin,1.0,Loudoun County,54.95%,Republican,507 - GREENWAY (10),283.0
+Terry R. McAuliffe,2.0,Loudoun County,43.30%,Democratic,507 - GREENWAY (10),223.0
 Princess L. Blanding,3.0,Loudoun County,1.36%,Liberation,507 - GREENWAY (10),7.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,507 - GREENWAY (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,47.25%,Republican,508 - BALLS BLUFF (10),610.0
-Terry R. McAuliffe,2.0,Loudoun County,52.44%,Democratic,508 - BALLS BLUFF (10),677.0
+Write In,2147483647.0,Loudoun County,0.39%,Write-In,507 - GREENWAY (10),2.0
+Glenn A. Youngkin,1.0,Loudoun County,47.21%,Republican,508 - BALLS BLUFF (10),610.0
+Terry R. McAuliffe,2.0,Loudoun County,52.40%,Democratic,508 - BALLS BLUFF (10),677.0
 Princess L. Blanding,3.0,Loudoun County,0.31%,Liberation,508 - BALLS BLUFF (10),4.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,508 - BALLS BLUFF (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,41.00%,Republican,509 - TOLBERT (10),588.0
-Terry R. McAuliffe,2.0,Loudoun County,58.58%,Democratic,509 - TOLBERT (10),840.0
+Write In,2147483647.0,Loudoun County,0.08%,Write-In,508 - BALLS BLUFF (10),1.0
+Glenn A. Youngkin,1.0,Loudoun County,40.98%,Republican,509 - TOLBERT (10),588.0
+Terry R. McAuliffe,2.0,Loudoun County,58.54%,Democratic,509 - TOLBERT (10),840.0
 Princess L. Blanding,3.0,Loudoun County,0.42%,Liberation,509 - TOLBERT (10),6.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,509 - TOLBERT (10),0.0
+Write In,2147483647.0,Loudoun County,0.07%,Write-In,509 - TOLBERT (10),1.0
 Glenn A. Youngkin,1.0,Loudoun County,54.72%,Republican,510 - HERITAGE (10),365.0
 Terry R. McAuliffe,2.0,Loudoun County,43.93%,Democratic,510 - HERITAGE (10),293.0
 Princess L. Blanding,3.0,Loudoun County,1.35%,Liberation,510 - HERITAGE (10),9.0
@@ -5603,34 +5603,34 @@ Glenn A. Youngkin,1.0,Loudoun County,44.16%,Republican,615 - HILLSIDE (10),518.0
 Terry R. McAuliffe,2.0,Loudoun County,55.07%,Democratic,615 - HILLSIDE (10),646.0
 Princess L. Blanding,3.0,Loudoun County,0.77%,Liberation,615 - HILLSIDE (10),9.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,615 - HILLSIDE (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,44.53%,Republican,616 - EAGLE RIDGE (10),541.0
-Terry R. McAuliffe,2.0,Loudoun County,55.06%,Democratic,616 - EAGLE RIDGE (10),669.0
+Glenn A. Youngkin,1.0,Loudoun County,44.45%,Republican,616 - EAGLE RIDGE (10),541.0
+Terry R. McAuliffe,2.0,Loudoun County,54.97%,Democratic,616 - EAGLE RIDGE (10),669.0
 Princess L. Blanding,3.0,Loudoun County,0.41%,Liberation,616 - EAGLE RIDGE (10),5.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,616 - EAGLE RIDGE (10),0.0
+Write In,2147483647.0,Loudoun County,0.16%,Write-In,616 - EAGLE RIDGE (10),2.0
 Glenn A. Youngkin,1.0,Loudoun County,31.58%,Republican,617 - OAK GROVE (10),150.0
 Terry R. McAuliffe,2.0,Loudoun County,67.79%,Democratic,617 - OAK GROVE (10),322.0
 Princess L. Blanding,3.0,Loudoun County,0.63%,Liberation,617 - OAK GROVE (10),3.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,617 - OAK GROVE (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,33.00%,Republican,619 - RIDGETOP (10),164.0
-Terry R. McAuliffe,2.0,Loudoun County,66.00%,Democratic,619 - RIDGETOP (10),328.0
-Princess L. Blanding,3.0,Loudoun County,1.01%,Liberation,619 - RIDGETOP (10),5.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,619 - RIDGETOP (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,45.07%,Republican,620 - RUSSELL BRANCH (10),608.0
-Terry R. McAuliffe,2.0,Loudoun County,54.48%,Democratic,620 - RUSSELL BRANCH (10),735.0
+Glenn A. Youngkin,1.0,Loudoun County,32.80%,Republican,619 - RIDGETOP (10),164.0
+Terry R. McAuliffe,2.0,Loudoun County,65.60%,Democratic,619 - RIDGETOP (10),328.0
+Princess L. Blanding,3.0,Loudoun County,1.00%,Liberation,619 - RIDGETOP (10),5.0
+Write In,2147483647.0,Loudoun County,0.60%,Write-In,619 - RIDGETOP (10),3.0
+Glenn A. Youngkin,1.0,Loudoun County,44.97%,Republican,620 - RUSSELL BRANCH (10),608.0
+Terry R. McAuliffe,2.0,Loudoun County,54.36%,Democratic,620 - RUSSELL BRANCH (10),735.0
 Princess L. Blanding,3.0,Loudoun County,0.44%,Liberation,620 - RUSSELL BRANCH (10),6.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,620 - RUSSELL BRANCH (10),0.0
+Write In,2147483647.0,Loudoun County,0.22%,Write-In,620 - RUSSELL BRANCH (10),3.0
 Glenn A. Youngkin,1.0,Loudoun County,45.47%,Republican,621 - DOMINION TRAIL (10),658.0
 Terry R. McAuliffe,2.0,Loudoun County,54.04%,Democratic,621 - DOMINION TRAIL (10),782.0
 Princess L. Blanding,3.0,Loudoun County,0.48%,Liberation,621 - DOMINION TRAIL (10),7.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,621 - DOMINION TRAIL (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,41.56%,Republican,622 - FARMWELL STATION (10),596.0
-Terry R. McAuliffe,2.0,Loudoun County,57.88%,Democratic,622 - FARMWELL STATION (10),830.0
+Glenn A. Youngkin,1.0,Loudoun County,41.50%,Republican,622 - FARMWELL STATION (10),596.0
+Terry R. McAuliffe,2.0,Loudoun County,57.80%,Democratic,622 - FARMWELL STATION (10),830.0
 Princess L. Blanding,3.0,Loudoun County,0.56%,Liberation,622 - FARMWELL STATION (10),8.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,622 - FARMWELL STATION (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,44.42%,Republican,623 - WELLER (10),704.0
-Terry R. McAuliffe,2.0,Loudoun County,55.39%,Democratic,623 - WELLER (10),878.0
+Write In,2147483647.0,Loudoun County,0.14%,Write-In,622 - FARMWELL STATION (10),2.0
+Glenn A. Youngkin,1.0,Loudoun County,44.39%,Republican,623 - WELLER (10),704.0
+Terry R. McAuliffe,2.0,Loudoun County,55.36%,Democratic,623 - WELLER (10),878.0
 Princess L. Blanding,3.0,Loudoun County,0.19%,Liberation,623 - WELLER (10),3.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,623 - WELLER (10),0.0
+Write In,2147483647.0,Loudoun County,0.06%,Write-In,623 - WELLER (10),1.0
 Glenn A. Youngkin,1.0,Loudoun County,49.09%,Republican,625 - MILL RUN (10),269.0
 Terry R. McAuliffe,2.0,Loudoun County,50.73%,Democratic,625 - MILL RUN (10),278.0
 Princess L. Blanding,3.0,Loudoun County,0.18%,Liberation,625 - MILL RUN (10),1.0
@@ -5651,26 +5651,26 @@ Glenn A. Youngkin,1.0,Loudoun County,43.53%,Republican,629 - DISCOVERY (10),138.
 Terry R. McAuliffe,2.0,Loudoun County,56.47%,Democratic,629 - DISCOVERY (10),179.0
 Princess L. Blanding,3.0,Loudoun County,0.00%,Liberation,629 - DISCOVERY (10),0.0
 Write In,2147483647.0,Loudoun County,0.00%,Write-In,629 - DISCOVERY (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,45.95%,Republican,701 - SULLY (10),414.0
-Terry R. McAuliffe,2.0,Loudoun County,53.05%,Democratic,701 - SULLY (10),478.0
-Princess L. Blanding,3.0,Loudoun County,1.00%,Liberation,701 - SULLY (10),9.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,701 - SULLY (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,45.93%,Republican,702 - PARK VIEW (10),384.0
-Terry R. McAuliffe,2.0,Loudoun County,53.11%,Democratic,702 - PARK VIEW (10),444.0
-Princess L. Blanding,3.0,Loudoun County,0.96%,Liberation,702 - PARK VIEW (10),8.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,702 - PARK VIEW (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,33.24%,Republican,703 - ROLLING RIDGE (10),339.0
-Terry R. McAuliffe,2.0,Loudoun County,66.47%,Democratic,703 - ROLLING RIDGE (10),678.0
+Glenn A. Youngkin,1.0,Loudoun County,45.75%,Republican,701 - SULLY (10),414.0
+Terry R. McAuliffe,2.0,Loudoun County,52.82%,Democratic,701 - SULLY (10),478.0
+Princess L. Blanding,3.0,Loudoun County,0.99%,Liberation,701 - SULLY (10),9.0
+Write In,2147483647.0,Loudoun County,0.44%,Write-In,701 - SULLY (10),4.0
+Glenn A. Youngkin,1.0,Loudoun County,45.82%,Republican,702 - PARK VIEW (10),384.0
+Terry R. McAuliffe,2.0,Loudoun County,52.98%,Democratic,702 - PARK VIEW (10),444.0
+Princess L. Blanding,3.0,Loudoun County,0.95%,Liberation,702 - PARK VIEW (10),8.0
+Write In,2147483647.0,Loudoun County,0.24%,Write-In,702 - PARK VIEW (10),2.0
+Glenn A. Youngkin,1.0,Loudoun County,33.11%,Republican,703 - ROLLING RIDGE (10),339.0
+Terry R. McAuliffe,2.0,Loudoun County,66.21%,Democratic,703 - ROLLING RIDGE (10),678.0
 Princess L. Blanding,3.0,Loudoun County,0.29%,Liberation,703 - ROLLING RIDGE (10),3.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,703 - ROLLING RIDGE (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,43.59%,Republican,705 - FOREST GROVE (10),513.0
-Terry R. McAuliffe,2.0,Loudoun County,55.73%,Democratic,705 - FOREST GROVE (10),656.0
+Write In,2147483647.0,Loudoun County,0.39%,Write-In,703 - ROLLING RIDGE (10),4.0
+Glenn A. Youngkin,1.0,Loudoun County,43.55%,Republican,705 - FOREST GROVE (10),513.0
+Terry R. McAuliffe,2.0,Loudoun County,55.69%,Democratic,705 - FOREST GROVE (10),656.0
 Princess L. Blanding,3.0,Loudoun County,0.68%,Liberation,705 - FOREST GROVE (10),8.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,705 - FOREST GROVE (10),0.0
-Glenn A. Youngkin,1.0,Loudoun County,37.78%,Republican,707 - CLAUDE MOORE PARK (10),303.0
-Terry R. McAuliffe,2.0,Loudoun County,61.22%,Democratic,707 - CLAUDE MOORE PARK (10),491.0
+Write In,2147483647.0,Loudoun County,0.08%,Write-In,705 - FOREST GROVE (10),1.0
+Glenn A. Youngkin,1.0,Loudoun County,37.73%,Republican,707 - CLAUDE MOORE PARK (10),303.0
+Terry R. McAuliffe,2.0,Loudoun County,61.15%,Democratic,707 - CLAUDE MOORE PARK (10),491.0
 Princess L. Blanding,3.0,Loudoun County,1.00%,Liberation,707 - CLAUDE MOORE PARK (10),8.0
-Write In,2147483647.0,Loudoun County,0.00%,Write-In,707 - CLAUDE MOORE PARK (10),0.0
+Write In,2147483647.0,Loudoun County,0.12%,Write-In,707 - CLAUDE MOORE PARK (10),1.0
 Glenn A. Youngkin,1.0,Loudoun County,48.48%,Republican,708 - SENECA (10),464.0
 Terry R. McAuliffe,2.0,Loudoun County,51.20%,Democratic,708 - SENECA (10),490.0
 Princess L. Blanding,3.0,Loudoun County,0.31%,Liberation,708 - SENECA (10),3.0
@@ -5883,9 +5883,9 @@ Glenn A. Youngkin,1.0,Madison County,72.04%,Republican,002 - RADIANT (05),590.0
 Terry R. McAuliffe,2.0,Madison County,27.96%,Democratic,002 - RADIANT (05),229.0
 Princess L. Blanding,3.0,Madison County,0.00%,Liberation,002 - RADIANT (05),0.0
 Write In,2147483647.0,Madison County,0.00%,Write-In,002 - RADIANT (05),0.0
-Glenn A. Youngkin,1.0,Madison County,0.00%,Republican,003 - ROCHELLE (05),0.0
-Terry R. McAuliffe,2.0,Madison County,0.00%,Democratic,003 - ROCHELLE (05),0.0
-Princess L. Blanding,3.0,Madison County,0.00%,Liberation,003 - ROCHELLE (05),0.0
+Glenn A. Youngkin,1.0,Madison County,77.27%,Republican,003 - ROCHELLE (05),340.0
+Terry R. McAuliffe,2.0,Madison County,21.82%,Democratic,003 - ROCHELLE (05),96.0
+Princess L. Blanding,3.0,Madison County,0.91%,Liberation,003 - ROCHELLE (05),4.0
 Write In,2147483647.0,Madison County,0.00%,Write-In,003 - ROCHELLE (05),0.0
 Glenn A. Youngkin,1.0,Madison County,73.68%,Republican,004 - GRAVES MILL (05),42.0
 Terry R. McAuliffe,2.0,Madison County,26.32%,Democratic,004 - GRAVES MILL (05),15.0
@@ -6091,10 +6091,10 @@ Glenn A. Youngkin,1.0,Montgomery County,0.00%,Republican,# AB - Central Absentee
 Terry R. McAuliffe,2.0,Montgomery County,0.00%,Democratic,# AB - Central Absentee Precinct (09),0.0
 Princess L. Blanding,3.0,Montgomery County,0.00%,Liberation,# AB - Central Absentee Precinct (09),0.0
 Write In,2147483647.0,Montgomery County,0.00%,Write-In,# AB - Central Absentee Precinct (09),0.0
-Glenn A. Youngkin,1.0,Montgomery County,0.00%,Republican,# EV - Central Absentee Precinct (09),0.0
-Terry R. McAuliffe,2.0,Montgomery County,0.00%,Democratic,# EV - Central Absentee Precinct (09),0.0
-Princess L. Blanding,3.0,Montgomery County,0.00%,Liberation,# EV - Central Absentee Precinct (09),0.0
-Write In,2147483647.0,Montgomery County,0.00%,Write-In,# EV - Central Absentee Precinct (09),0.0
+Glenn A. Youngkin,1.0,Montgomery County,43.58%,Republican,# EV - Central Absentee Precinct (09),3775.0
+Terry R. McAuliffe,2.0,Montgomery County,55.54%,Democratic,# EV - Central Absentee Precinct (09),4811.0
+Princess L. Blanding,3.0,Montgomery County,0.84%,Liberation,# EV - Central Absentee Precinct (09),73.0
+Write In,2147483647.0,Montgomery County,0.03%,Write-In,# EV - Central Absentee Precinct (09),3.0
 Glenn A. Youngkin,1.0,Montgomery County,0.00%,Republican,# PE - Central Absentee Precinct (09),0.0
 Terry R. McAuliffe,2.0,Montgomery County,0.00%,Democratic,# PE - Central Absentee Precinct (09),0.0
 Princess L. Blanding,3.0,Montgomery County,0.00%,Liberation,# PE - Central Absentee Precinct (09),0.0
@@ -6271,9 +6271,9 @@ Glenn A. Youngkin,1.0,New Kent County,86.85%,Republican,102 - TUNSTALL (01),403.
 Terry R. McAuliffe,2.0,New Kent County,12.50%,Democratic,102 - TUNSTALL (01),58.0
 Princess L. Blanding,3.0,New Kent County,0.65%,Liberation,102 - TUNSTALL (01),3.0
 Write In,2147483647.0,New Kent County,0.00%,Write-In,102 - TUNSTALL (01),0.0
-Glenn A. Youngkin,1.0,New Kent County,0.00%,Republican,103 - SOUTHERN BRANCH (01),0.0
-Terry R. McAuliffe,2.0,New Kent County,0.00%,Democratic,103 - SOUTHERN BRANCH (01),0.0
-Princess L. Blanding,3.0,New Kent County,0.00%,Liberation,103 - SOUTHERN BRANCH (01),0.0
+Glenn A. Youngkin,1.0,New Kent County,82.86%,Republican,103 - SOUTHERN BRANCH (01),1117.0
+Terry R. McAuliffe,2.0,New Kent County,16.69%,Democratic,103 - SOUTHERN BRANCH (01),225.0
+Princess L. Blanding,3.0,New Kent County,0.45%,Liberation,103 - SOUTHERN BRANCH (01),6.0
 Write In,2147483647.0,New Kent County,0.00%,Write-In,103 - SOUTHERN BRANCH (01),0.0
 Glenn A. Youngkin,1.0,New Kent County,70.08%,Republican,201 - QUINTON (01),862.0
 Terry R. McAuliffe,2.0,New Kent County,29.59%,Democratic,201 - QUINTON (01),364.0
@@ -6331,9 +6331,9 @@ Glenn A. Youngkin,1.0,Northampton County,45.56%,Republican,201 - PRECINCT 2-1 (0
 Terry R. McAuliffe,2.0,Northampton County,53.23%,Democratic,201 - PRECINCT 2-1 (02),264.0
 Princess L. Blanding,3.0,Northampton County,1.01%,Liberation,201 - PRECINCT 2-1 (02),5.0
 Write In,2147483647.0,Northampton County,0.20%,Write-In,201 - PRECINCT 2-1 (02),1.0
-Glenn A. Youngkin,1.0,Northampton County,41.77%,Republican,301 - PRECINCT 3-1 (02),193.0
-Terry R. McAuliffe,2.0,Northampton County,57.14%,Democratic,301 - PRECINCT 3-1 (02),264.0
-Princess L. Blanding,3.0,Northampton County,1.08%,Liberation,301 - PRECINCT 3-1 (02),5.0
+Glenn A. Youngkin,1.0,Northampton County,39.88%,Republican,301 - PRECINCT 3-1 (02),193.0
+Terry R. McAuliffe,2.0,Northampton County,59.09%,Democratic,301 - PRECINCT 3-1 (02),286.0
+Princess L. Blanding,3.0,Northampton County,1.03%,Liberation,301 - PRECINCT 3-1 (02),5.0
 Write In,2147483647.0,Northampton County,0.00%,Write-In,301 - PRECINCT 3-1 (02),0.0
 Glenn A. Youngkin,1.0,Northampton County,64.99%,Republican,401 - PRECINCT 4-1 (02),362.0
 Terry R. McAuliffe,2.0,Northampton County,34.11%,Democratic,401 - PRECINCT 4-1 (02),190.0
@@ -6379,13 +6379,13 @@ Glenn A. Youngkin,1.0,Northumberland County,78.37%,Republican,501 - 5A (01),768.
 Terry R. McAuliffe,2.0,Northumberland County,21.12%,Democratic,501 - 5A (01),207.0
 Princess L. Blanding,3.0,Northumberland County,0.51%,Liberation,501 - 5A (01),5.0
 Write In,2147483647.0,Northumberland County,0.00%,Write-In,501 - 5A (01),0.0
-Glenn A. Youngkin,1.0,Nottoway County,0.00%,Republican,# AB - Central Absentee Precinct (07),0.0
-Terry R. McAuliffe,2.0,Nottoway County,0.00%,Democratic,# AB - Central Absentee Precinct (07),0.0
-Princess L. Blanding,3.0,Nottoway County,0.00%,Liberation,# AB - Central Absentee Precinct (07),0.0
-Write In,2147483647.0,Nottoway County,0.00%,Write-In,# AB - Central Absentee Precinct (07),0.0
-Glenn A. Youngkin,1.0,Nottoway County,0.00%,Republican,# EV - Central Absentee Precinct (07),0.0
-Terry R. McAuliffe,2.0,Nottoway County,0.00%,Democratic,# EV - Central Absentee Precinct (07),0.0
-Princess L. Blanding,3.0,Nottoway County,0.00%,Liberation,# EV - Central Absentee Precinct (07),0.0
+Glenn A. Youngkin,1.0,Nottoway County,37.50%,Republican,# AB - Central Absentee Precinct (07),99.0
+Terry R. McAuliffe,2.0,Nottoway County,60.98%,Democratic,# AB - Central Absentee Precinct (07),161.0
+Princess L. Blanding,3.0,Nottoway County,1.14%,Liberation,# AB - Central Absentee Precinct (07),3.0
+Write In,2147483647.0,Nottoway County,0.38%,Write-In,# AB - Central Absentee Precinct (07),1.0
+Glenn A. Youngkin,1.0,Nottoway County,59.69%,Republican,# EV - Central Absentee Precinct (07),998.0
+Terry R. McAuliffe,2.0,Nottoway County,39.89%,Democratic,# EV - Central Absentee Precinct (07),667.0
+Princess L. Blanding,3.0,Nottoway County,0.42%,Liberation,# EV - Central Absentee Precinct (07),7.0
 Write In,2147483647.0,Nottoway County,0.00%,Write-In,# EV - Central Absentee Precinct (07),0.0
 Glenn A. Youngkin,1.0,Nottoway County,0.00%,Republican,# PE - Central Absentee Precinct (07),0.0
 Terry R. McAuliffe,2.0,Nottoway County,0.00%,Democratic,# PE - Central Absentee Precinct (07),0.0
@@ -6395,42 +6395,42 @@ Glenn A. Youngkin,1.0,Nottoway County,0.00%,Republican,## Provisional (07),0.0
 Terry R. McAuliffe,2.0,Nottoway County,0.00%,Democratic,## Provisional (07),0.0
 Princess L. Blanding,3.0,Nottoway County,0.00%,Liberation,## Provisional (07),0.0
 Write In,2147483647.0,Nottoway County,0.00%,Write-In,## Provisional (07),0.0
-Glenn A. Youngkin,1.0,Nottoway County,0.00%,Republican,101 - PRECINCT 1-1 (07),0.0
-Terry R. McAuliffe,2.0,Nottoway County,0.00%,Democratic,101 - PRECINCT 1-1 (07),0.0
-Princess L. Blanding,3.0,Nottoway County,0.00%,Liberation,101 - PRECINCT 1-1 (07),0.0
+Glenn A. Youngkin,1.0,Nottoway County,75.93%,Republican,101 - PRECINCT 1-1 (07),325.0
+Terry R. McAuliffe,2.0,Nottoway County,23.60%,Democratic,101 - PRECINCT 1-1 (07),101.0
+Princess L. Blanding,3.0,Nottoway County,0.47%,Liberation,101 - PRECINCT 1-1 (07),2.0
 Write In,2147483647.0,Nottoway County,0.00%,Write-In,101 - PRECINCT 1-1 (07),0.0
-Glenn A. Youngkin,1.0,Nottoway County,0.00%,Republican,102 - PRECINCT 1-2 (07),0.0
-Terry R. McAuliffe,2.0,Nottoway County,0.00%,Democratic,102 - PRECINCT 1-2 (07),0.0
+Glenn A. Youngkin,1.0,Nottoway County,74.92%,Republican,102 - PRECINCT 1-2 (07),245.0
+Terry R. McAuliffe,2.0,Nottoway County,25.08%,Democratic,102 - PRECINCT 1-2 (07),82.0
 Princess L. Blanding,3.0,Nottoway County,0.00%,Liberation,102 - PRECINCT 1-2 (07),0.0
 Write In,2147483647.0,Nottoway County,0.00%,Write-In,102 - PRECINCT 1-2 (07),0.0
-Glenn A. Youngkin,1.0,Nottoway County,0.00%,Republican,201 - PRECINCT 2-1 (07),0.0
-Terry R. McAuliffe,2.0,Nottoway County,0.00%,Democratic,201 - PRECINCT 2-1 (07),0.0
-Princess L. Blanding,3.0,Nottoway County,0.00%,Liberation,201 - PRECINCT 2-1 (07),0.0
-Write In,2147483647.0,Nottoway County,0.00%,Write-In,201 - PRECINCT 2-1 (07),0.0
-Glenn A. Youngkin,1.0,Nottoway County,0.00%,Republican,202 - PRECINCT 2-2 (07),0.0
-Terry R. McAuliffe,2.0,Nottoway County,0.00%,Democratic,202 - PRECINCT 2-2 (07),0.0
+Glenn A. Youngkin,1.0,Nottoway County,71.73%,Republican,201 - PRECINCT 2-1 (07),373.0
+Terry R. McAuliffe,2.0,Nottoway County,27.31%,Democratic,201 - PRECINCT 2-1 (07),142.0
+Princess L. Blanding,3.0,Nottoway County,0.77%,Liberation,201 - PRECINCT 2-1 (07),4.0
+Write In,2147483647.0,Nottoway County,0.19%,Write-In,201 - PRECINCT 2-1 (07),1.0
+Glenn A. Youngkin,1.0,Nottoway County,82.00%,Republican,202 - PRECINCT 2-2 (07),205.0
+Terry R. McAuliffe,2.0,Nottoway County,18.00%,Democratic,202 - PRECINCT 2-2 (07),45.0
 Princess L. Blanding,3.0,Nottoway County,0.00%,Liberation,202 - PRECINCT 2-2 (07),0.0
 Write In,2147483647.0,Nottoway County,0.00%,Write-In,202 - PRECINCT 2-2 (07),0.0
-Glenn A. Youngkin,1.0,Nottoway County,0.00%,Republican,301 - PRECINCT 3-1 (07),0.0
-Terry R. McAuliffe,2.0,Nottoway County,0.00%,Democratic,301 - PRECINCT 3-1 (07),0.0
-Princess L. Blanding,3.0,Nottoway County,0.00%,Liberation,301 - PRECINCT 3-1 (07),0.0
+Glenn A. Youngkin,1.0,Nottoway County,51.70%,Republican,301 - PRECINCT 3-1 (07),167.0
+Terry R. McAuliffe,2.0,Nottoway County,47.68%,Democratic,301 - PRECINCT 3-1 (07),154.0
+Princess L. Blanding,3.0,Nottoway County,0.62%,Liberation,301 - PRECINCT 3-1 (07),2.0
 Write In,2147483647.0,Nottoway County,0.00%,Write-In,301 - PRECINCT 3-1 (07),0.0
-Glenn A. Youngkin,1.0,Nottoway County,0.00%,Republican,302 - PRECINCT 3-2 (07),0.0
-Terry R. McAuliffe,2.0,Nottoway County,0.00%,Democratic,302 - PRECINCT 3-2 (07),0.0
+Glenn A. Youngkin,1.0,Nottoway County,76.10%,Republican,302 - PRECINCT 3-2 (07),191.0
+Terry R. McAuliffe,2.0,Nottoway County,23.90%,Democratic,302 - PRECINCT 3-2 (07),60.0
 Princess L. Blanding,3.0,Nottoway County,0.00%,Liberation,302 - PRECINCT 3-2 (07),0.0
 Write In,2147483647.0,Nottoway County,0.00%,Write-In,302 - PRECINCT 3-2 (07),0.0
-Glenn A. Youngkin,1.0,Nottoway County,0.00%,Republican,401 - PRECINCT 4-1 (07),0.0
-Terry R. McAuliffe,2.0,Nottoway County,0.00%,Democratic,401 - PRECINCT 4-1 (07),0.0
-Princess L. Blanding,3.0,Nottoway County,0.00%,Liberation,401 - PRECINCT 4-1 (07),0.0
+Glenn A. Youngkin,1.0,Nottoway County,32.85%,Republican,401 - PRECINCT 4-1 (07),90.0
+Terry R. McAuliffe,2.0,Nottoway County,66.79%,Democratic,401 - PRECINCT 4-1 (07),183.0
+Princess L. Blanding,3.0,Nottoway County,0.36%,Liberation,401 - PRECINCT 4-1 (07),1.0
 Write In,2147483647.0,Nottoway County,0.00%,Write-In,401 - PRECINCT 4-1 (07),0.0
-Glenn A. Youngkin,1.0,Nottoway County,0.00%,Republican,402 - PRECINCT 4-2 (07),0.0
-Terry R. McAuliffe,2.0,Nottoway County,0.00%,Democratic,402 - PRECINCT 4-2 (07),0.0
-Princess L. Blanding,3.0,Nottoway County,0.00%,Liberation,402 - PRECINCT 4-2 (07),0.0
+Glenn A. Youngkin,1.0,Nottoway County,81.56%,Republican,402 - PRECINCT 4-2 (07),376.0
+Terry R. McAuliffe,2.0,Nottoway County,18.22%,Democratic,402 - PRECINCT 4-2 (07),84.0
+Princess L. Blanding,3.0,Nottoway County,0.22%,Liberation,402 - PRECINCT 4-2 (07),1.0
 Write In,2147483647.0,Nottoway County,0.00%,Write-In,402 - PRECINCT 4-2 (07),0.0
-Glenn A. Youngkin,1.0,Nottoway County,0.00%,Republican,501 - PRECINCT 5-1 (07),0.0
-Terry R. McAuliffe,2.0,Nottoway County,0.00%,Democratic,501 - PRECINCT 5-1 (07),0.0
-Princess L. Blanding,3.0,Nottoway County,0.00%,Liberation,501 - PRECINCT 5-1 (07),0.0
-Write In,2147483647.0,Nottoway County,0.00%,Write-In,501 - PRECINCT 5-1 (07),0.0
+Glenn A. Youngkin,1.0,Nottoway County,66.82%,Republican,501 - PRECINCT 5-1 (07),427.0
+Terry R. McAuliffe,2.0,Nottoway County,32.39%,Democratic,501 - PRECINCT 5-1 (07),207.0
+Princess L. Blanding,3.0,Nottoway County,0.63%,Liberation,501 - PRECINCT 5-1 (07),4.0
+Write In,2147483647.0,Nottoway County,0.16%,Write-In,501 - PRECINCT 5-1 (07),1.0
 Glenn A. Youngkin,1.0,Orange County,31.73%,Republican,# AB - Central Absentee Precinct (07),349.0
 Terry R. McAuliffe,2.0,Orange County,67.45%,Democratic,# AB - Central Absentee Precinct (07),742.0
 Princess L. Blanding,3.0,Orange County,0.82%,Liberation,# AB - Central Absentee Precinct (07),9.0
@@ -6487,14 +6487,14 @@ Glenn A. Youngkin,1.0,Orange County,65.49%,Republican,502 - FIVE NORTH (07),1053
 Terry R. McAuliffe,2.0,Orange County,33.83%,Democratic,502 - FIVE NORTH (07),544.0
 Princess L. Blanding,3.0,Orange County,0.56%,Liberation,502 - FIVE NORTH (07),9.0
 Write In,2147483647.0,Orange County,0.12%,Write-In,502 - FIVE NORTH (07),2.0
-Glenn A. Youngkin,1.0,Page County,0.00%,Republican,# AB - Central Absentee Precinct (06),0.0
-Terry R. McAuliffe,2.0,Page County,0.00%,Democratic,# AB - Central Absentee Precinct (06),0.0
-Princess L. Blanding,3.0,Page County,0.00%,Liberation,# AB - Central Absentee Precinct (06),0.0
+Glenn A. Youngkin,1.0,Page County,40.47%,Republican,# AB - Central Absentee Precinct (06),225.0
+Terry R. McAuliffe,2.0,Page County,58.27%,Democratic,# AB - Central Absentee Precinct (06),324.0
+Princess L. Blanding,3.0,Page County,1.26%,Liberation,# AB - Central Absentee Precinct (06),7.0
 Write In,2147483647.0,Page County,0.00%,Write-In,# AB - Central Absentee Precinct (06),0.0
-Glenn A. Youngkin,1.0,Page County,0.00%,Republican,# EV - Central Absentee Precinct (06),0.0
-Terry R. McAuliffe,2.0,Page County,0.00%,Democratic,# EV - Central Absentee Precinct (06),0.0
-Princess L. Blanding,3.0,Page County,0.00%,Liberation,# EV - Central Absentee Precinct (06),0.0
-Write In,2147483647.0,Page County,0.00%,Write-In,# EV - Central Absentee Precinct (06),0.0
+Glenn A. Youngkin,1.0,Page County,60.98%,Republican,# EV - Central Absentee Precinct (06),1250.0
+Terry R. McAuliffe,2.0,Page County,38.73%,Democratic,# EV - Central Absentee Precinct (06),794.0
+Princess L. Blanding,3.0,Page County,0.24%,Liberation,# EV - Central Absentee Precinct (06),5.0
+Write In,2147483647.0,Page County,0.05%,Write-In,# EV - Central Absentee Precinct (06),1.0
 Glenn A. Youngkin,1.0,Page County,0.00%,Republican,# PE - Central Absentee Precinct (06),0.0
 Terry R. McAuliffe,2.0,Page County,0.00%,Democratic,# PE - Central Absentee Precinct (06),0.0
 Princess L. Blanding,3.0,Page County,0.00%,Liberation,# PE - Central Absentee Precinct (06),0.0
@@ -6771,21 +6771,21 @@ Glenn A. Youngkin,1.0,Powhatan County,0.00%,Republican,401 - POWHATAN COURTHOUSE
 Terry R. McAuliffe,2.0,Powhatan County,0.00%,Democratic,401 - POWHATAN COURTHOUSE (07),0.0
 Princess L. Blanding,3.0,Powhatan County,0.00%,Liberation,401 - POWHATAN COURTHOUSE (07),0.0
 Write In,2147483647.0,Powhatan County,0.00%,Write-In,401 - POWHATAN COURTHOUSE (07),0.0
-Glenn A. Youngkin,1.0,Powhatan County,0.00%,Republican,402 - MT ZION  (07),0.0
-Terry R. McAuliffe,2.0,Powhatan County,0.00%,Democratic,402 - MT ZION  (07),0.0
-Princess L. Blanding,3.0,Powhatan County,0.00%,Liberation,402 - MT ZION  (07),0.0
+Glenn A. Youngkin,1.0,Powhatan County,83.83%,Republican,402 - MT ZION  (07),508.0
+Terry R. McAuliffe,2.0,Powhatan County,16.01%,Democratic,402 - MT ZION  (07),97.0
+Princess L. Blanding,3.0,Powhatan County,0.17%,Liberation,402 - MT ZION  (07),1.0
 Write In,2147483647.0,Powhatan County,0.00%,Write-In,402 - MT ZION  (07),0.0
-Glenn A. Youngkin,1.0,Powhatan County,0.00%,Republican,501 - SMITH CROSS ROADS (07),0.0
-Terry R. McAuliffe,2.0,Powhatan County,0.00%,Democratic,501 - SMITH CROSS ROADS (07),0.0
-Princess L. Blanding,3.0,Powhatan County,0.00%,Liberation,501 - SMITH CROSS ROADS (07),0.0
+Glenn A. Youngkin,1.0,Powhatan County,72.47%,Republican,501 - SMITH CROSS ROADS (07),358.0
+Terry R. McAuliffe,2.0,Powhatan County,27.13%,Democratic,501 - SMITH CROSS ROADS (07),134.0
+Princess L. Blanding,3.0,Powhatan County,0.40%,Liberation,501 - SMITH CROSS ROADS (07),2.0
 Write In,2147483647.0,Powhatan County,0.00%,Write-In,501 - SMITH CROSS ROADS (07),0.0
 Glenn A. Youngkin,1.0,Powhatan County,70.51%,Republican,502 - PINEVILLE (07),428.0
 Terry R. McAuliffe,2.0,Powhatan County,28.83%,Democratic,502 - PINEVILLE (07),175.0
 Princess L. Blanding,3.0,Powhatan County,0.66%,Liberation,502 - PINEVILLE (07),4.0
 Write In,2147483647.0,Powhatan County,0.00%,Write-In,502 - PINEVILLE (07),0.0
-Glenn A. Youngkin,1.0,Powhatan County,0.00%,Republican,503 - TOBACCOVILLE (07),0.0
-Terry R. McAuliffe,2.0,Powhatan County,0.00%,Democratic,503 - TOBACCOVILLE (07),0.0
-Princess L. Blanding,3.0,Powhatan County,0.00%,Liberation,503 - TOBACCOVILLE (07),0.0
+Glenn A. Youngkin,1.0,Powhatan County,87.16%,Republican,503 - TOBACCOVILLE (07),448.0
+Terry R. McAuliffe,2.0,Powhatan County,12.26%,Democratic,503 - TOBACCOVILLE (07),63.0
+Princess L. Blanding,3.0,Powhatan County,0.58%,Liberation,503 - TOBACCOVILLE (07),3.0
 Write In,2147483647.0,Powhatan County,0.00%,Write-In,503 - TOBACCOVILLE (07),0.0
 Glenn A. Youngkin,1.0,Prince Edward County,27.71%,Republican,# AB - Central Absentee Precinct (05),171.0
 Terry R. McAuliffe,2.0,Prince Edward County,71.31%,Democratic,# AB - Central Absentee Precinct (05),440.0
@@ -7007,9 +7007,9 @@ Glenn A. Youngkin,1.0,Prince William County,55.05%,Republican,114 - PINEY BRANCH
 Terry R. McAuliffe,2.0,Prince William County,44.41%,Democratic,114 - PINEY BRANCH (01),497.0
 Princess L. Blanding,3.0,Prince William County,0.54%,Liberation,114 - PINEY BRANCH (01),6.0
 Write In,2147483647.0,Prince William County,0.00%,Write-In,114 - PINEY BRANCH (01),0.0
-Glenn A. Youngkin,1.0,Prince William County,0.00%,Republican,201 - SAUNDERS (11),0.0
-Terry R. McAuliffe,2.0,Prince William County,0.00%,Democratic,201 - SAUNDERS (11),0.0
-Princess L. Blanding,3.0,Prince William County,0.00%,Liberation,201 - SAUNDERS (11),0.0
+Glenn A. Youngkin,1.0,Prince William County,39.79%,Republican,201 - SAUNDERS (11),376.0
+Terry R. McAuliffe,2.0,Prince William County,59.15%,Democratic,201 - SAUNDERS (11),559.0
+Princess L. Blanding,3.0,Prince William County,1.06%,Liberation,201 - SAUNDERS (11),10.0
 Write In,2147483647.0,Prince William County,0.00%,Write-In,201 - SAUNDERS (11),0.0
 Glenn A. Youngkin,1.0,Prince William County,58.76%,Republican,202 - MARSHALL (01),751.0
 Terry R. McAuliffe,2.0,Prince William County,40.69%,Democratic,202 - MARSHALL (01),520.0
@@ -7019,9 +7019,9 @@ Glenn A. Youngkin,1.0,Prince William County,57.04%,Republican,203 - BENNETT (01)
 Terry R. McAuliffe,2.0,Prince William County,42.05%,Democratic,203 - BENNETT (01),508.0
 Princess L. Blanding,3.0,Prince William County,0.91%,Liberation,203 - BENNETT (01),11.0
 Write In,2147483647.0,Prince William County,0.00%,Write-In,203 - BENNETT (01),0.0
-Glenn A. Youngkin,1.0,Prince William County,0.00%,Republican,204 - ELLIS (01),0.0
-Terry R. McAuliffe,2.0,Prince William County,0.00%,Democratic,204 - ELLIS (01),0.0
-Princess L. Blanding,3.0,Prince William County,0.00%,Liberation,204 - ELLIS (01),0.0
+Glenn A. Youngkin,1.0,Prince William County,52.88%,Republican,204 - ELLIS (01),900.0
+Terry R. McAuliffe,2.0,Prince William County,46.89%,Democratic,204 - ELLIS (01),798.0
+Princess L. Blanding,3.0,Prince William County,0.24%,Liberation,204 - ELLIS (01),4.0
 Write In,2147483647.0,Prince William County,0.00%,Write-In,204 - ELLIS (01),0.0
 Glenn A. Youngkin,1.0,Prince William County,54.50%,Republican,205 - BUCKHALL (10),721.0
 Terry R. McAuliffe,2.0,Prince William County,45.05%,Democratic,205 - BUCKHALL (10),596.0
@@ -7255,9 +7255,9 @@ Glenn A. Youngkin,1.0,Prince William County,25.08%,Republican,603 - HAMPTON (11)
 Terry R. McAuliffe,2.0,Prince William County,74.47%,Democratic,603 - HAMPTON (11),493.0
 Princess L. Blanding,3.0,Prince William County,0.45%,Liberation,603 - HAMPTON (11),3.0
 Write In,2147483647.0,Prince William County,0.00%,Write-In,603 - HAMPTON (11),0.0
-Glenn A. Youngkin,1.0,Prince William County,0.00%,Republican,604 - GIDEON (11),0.0
-Terry R. McAuliffe,2.0,Prince William County,0.00%,Democratic,604 - GIDEON (11),0.0
-Princess L. Blanding,3.0,Prince William County,0.00%,Liberation,604 - GIDEON (11),0.0
+Glenn A. Youngkin,1.0,Prince William County,33.01%,Republican,604 - GIDEON (11),241.0
+Terry R. McAuliffe,2.0,Prince William County,66.58%,Democratic,604 - GIDEON (11),486.0
+Princess L. Blanding,3.0,Prince William County,0.41%,Liberation,604 - GIDEON (11),3.0
 Write In,2147483647.0,Prince William County,0.00%,Write-In,604 - GIDEON (11),0.0
 Glenn A. Youngkin,1.0,Prince William County,45.86%,Republican,605 - MINNIEVILLE (11),676.0
 Terry R. McAuliffe,2.0,Prince William County,53.19%,Democratic,605 - MINNIEVILLE (11),784.0
