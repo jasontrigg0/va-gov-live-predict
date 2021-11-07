@@ -124,10 +124,13 @@ def load_election_live(filename, year, simulate=False):
     df = df[["party","state","county","precinct","votes"]]
     df = tally_votes(df)
 
+    df["fit"] = 1 #leave out some precincts from the fits
+    df["confirmed"] = 0 #allow confirmation that certain precinct data is correct
+
     #TODO: assert one row per (state, county, precinct) here
 
-    #columns should be [state, county, precinct, rep, dem, other]
-    assert(len(df.columns) == 6)
+    #columns should be [state, county, precinct, rep, dem, other, fit, confirmed]
+    assert(len(df.columns) == 8)
     if year == 2020:
         df = map_precincts_2020(df)
     elif year == 2021:
@@ -300,6 +303,7 @@ def map_precincts_2020(df):
                 split_row["rep"] *= out["frac"]
                 split_row["dem"] *= out["frac"]
                 split_row["other"] *= out["frac"]
+                split_row["fit"] = 0 #don't fit these split precincts
                 output_rows.append(split_row)
             return pd.DataFrame(output_rows)
         elif row["precinct"].startswith("# AB - Central Absentee Precinct"):
@@ -346,10 +350,5 @@ def load_virginia():
     compute_stats(categories_live)
 
     merge_baselines(categories_live, categories_baseline)
-
-    for category in categories_live:
-        df = categories_live[category]["df"]
-        df["fit"] = 1 #leave out some precincts from the fits
-        df["confirmed"] = 0 #allow confirmation that certain precinct data is correct
 
     return categories_live
