@@ -1,0 +1,134 @@
+region,fips,inperson,mail
+Accomack County,1,901,174
+Albemarle County,3,1816,828
+Alleghany County,5,94,81
+Amelia County,7,285,61
+Amherst County,9,454,181
+Appomattox County,11,317,83
+Arlington County,13,3374,2133
+Augusta County,15,1564,463
+Bath County,17,40,19
+Bedford County,19,1322,552
+Bland County,21,48,33
+Botetourt County,23,591,232
+Brunswick County,25,296,90
+Buchanan County,27,75,83
+Buckingham County,29,256,106
+Campbell County,31,683,288
+Caroline County,33,339,227
+Carroll County,35,166,263
+Charles City County,36,54,45
+Charlotte County,37,111,31
+Chesterfield County,41,5389,4092
+Clarke County,43,392,129
+Craig County,45,53,17
+Culpeper County,47,592,471
+Cumberland County,49,139,66
+Dickenson County,51,156,86
+Dinwiddie County,53,413,123
+Essex County,57,249,76
+Fairfax County,59,10148,10082
+Fauquier County,61,1303,818
+Floyd County,63,227,122
+Fluvanna County,65,879,402
+Franklin County,67,727,276
+Frederick County,69,1187,553
+Giles County,71,415,98
+Gloucester County,73,565,194
+Goochland County,75,1074,242
+Grayson County,77,98,104
+Greene County,79,344,141
+Greensville County,81,138,117
+Halifax County,83,462,169
+Hanover County,85,2563,1099
+Henrico County,87,5078,2808
+Henry County,89,672,283
+Highland County,91,33,23
+Isle of Wight County,93,589,371
+James City County,95,3811,780
+King and Queen County,97,97,35
+King George County,99,517,156
+King William County,101,196,107
+Lancaster County,103,320,86
+Lee County,105,82,49
+Loudoun County,107,3486,3718
+Louisa County,109,601,359
+Lunenburg County,111,239,93
+Madison County,113,233,53
+Mathews County,115,276,53
+Mecklenburg County,117,331,240
+Middlesex County,119,210,97
+Montgomery County,121,994,816
+Nelson County,125,334,143
+New Kent County,127,0,541
+Northampton County,131,313,102
+Northumberland County,133,388,114
+Nottoway County,135,203,93
+Orange County,137,462,287
+Page County,139,340,142
+Patrick County,141,252,112
+Pittsylvania County,143,350,366
+Powhatan County,145,881,164
+Prince Edward County,147,229,138
+Prince George County,149,621,170
+Prince William County,153,5907,4807
+Pulaski County,155,491,409
+Rappahannock County,157,110,125
+Richmond County,159,135,10
+Roanoke County,161,1139,708
+Rockbridge County,163,523,219
+Rockingham County,165,1329,542
+Russell County,167,248,105
+Scott County,169,172,79
+Shenandoah County,171,940,268
+Smyth County,173,107,104
+Southampton County,175,280,100
+Spotsylvania County,177,2032,878
+Stafford County,179,1844,804
+Surry County,181,121,62
+Sussex County,183,123,92
+Tazewell County,185,542,273
+Warren County,187,582,232
+Washington County,191,782,444
+Westmoreland County,193,314,140
+Wise County,195,201,153
+Wythe County,197,366,181
+York County,199,2176,524
+Alexandria City,510,1848,1483
+Bristol City,520,209,188
+Buena Vista City,530,53,42
+Charlottesville City,540,591,254
+Chesapeake City,550,4442,1450
+Colonial Heights City,570,501,138
+Covington City,580,27,41
+Danville City,590,494,329
+Emporia City,595,84,47
+Fairfax City,600,555,357
+Falls Church City,610,306,119
+Franklin City,620,133,70
+Fredericksburg City,630,350,255
+Galax City,640,82,27
+Hampton City,650,1513,872
+Harrisonburg City,660,805,119
+Hopewell City,670,297,98
+Lexington City,678,199,77
+Lynchburg City,680,844,920
+Manassas City,683,749,344
+Manassas Park City,685,149,86
+Martinsville City,690,102,117
+Newport News City,700,947,1324
+Norfolk City,710,1051,637
+Norton City,720,34,27
+Petersburg City,730,430,457
+Poquoson City,735,320,49
+Portsmouth City,740,734,827
+Radford City,750,307,122
+Richmond City,760,2815,813
+Roanoke City,770,1112,919
+Salem City,775,516,243
+Staunton City,790,669,321
+Suffolk City,800,1015,437
+Virginia Beach City,810,3783,3456
+Waynesboro City,820,397,356
+Williamsburg City,830,506,197
+Winchester City,840,568,174
