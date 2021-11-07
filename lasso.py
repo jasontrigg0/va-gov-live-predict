@@ -71,6 +71,8 @@ class StandardLasso():
         X = X[[c for c in X.columns if c != "__ones"]]
         return X
     def fit(self, X, y, demean_cols=None, sample_weight=None, print_fit=False):
+        if len(X) == 0:
+            raise Exception("Empty dataframe passed in")
         if self.cols:
             X = X[self.cols]
         # print("testing123--------")
@@ -84,7 +86,7 @@ class StandardLasso():
         if self.intercept_prior is not None:
             new_y -= self.intercept_prior
         self.scale_y = new_y.std()
-        if self.scale_y != 0: #unsure what to do for constant y, leaving as is
+        if len(new_y) > 1 and self.scale_y: #unsure what to do for constant y, leaving as is
             new_y /= self.scale_y
         params = {}
         if sample_weight is not None:
