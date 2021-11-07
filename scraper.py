@@ -5,17 +5,6 @@ import csv
 import pandas as pd
 import json
 
-def download_historical_csv():
-    #https://apps.elections.virginia.gov/SBE_CSV/ELECTIONS/
-    #has both election results and election changes -- what's the difference?
-    #believe "election changes" shows the history for any rows that are updated.
-    #it looks like few rows are updated -> for the most part you can consider
-    #a precinct complete once the initial results are in
-    #"election results" just shows the final outcome for each precinct
-    #NOTE: absentee and provisional votes are reported by county instead of by precinct
-    #unsure whether early voting is absentee or precinct specific (guess: absentee?)
-    pass
-
 def scrape_live_json(election_name, office):
     #https://results.elections.virginia.gov/vaelections/2020%20November%20General/Json/Locality/ACCOMACK_COUNTY/President_and_Vice_President.json
     fips = pd.read_csv("va_fips.csv")
