@@ -23,7 +23,7 @@ def scrape_live_json(election_name, office):
             for c in p["Candidates"]:
                 df = df.append({"LocalityName": region, "PrecinctName": p["PrecinctName"], **c}, ignore_index=True)
         print(df)
-    df.to_csv("results_from_json.csv",index=False)
+    df.to_csv("results_2021.csv",index=False)
 
 def download_live_misc_csv():
     #https://results.elections.virginia.gov/vaelections/2021%20June%20Special%20Election/Site/Statistics/Index.html

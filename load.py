@@ -2,13 +2,13 @@ import pandas as pd
 import re
 
 def diff_locality():
-    df = pd.read_csv("2021_from_json.csv")
+    df = pd.read_csv("results_2021.csv")
     df = df.rename(columns={"PoliticalParty": "party", "LocalityName": "county", "PrecinctName": "precinct"})
     #df["LocalityName"] = df["LocalityName"].str.upper()
     #df["PrecinctName"] = df["PrecinctName"].apply(lambda x: x.rsplit(" ",1)[0])
     l1 = set(list(df[["county","precinct"]].itertuples(index=False, name=None)))
 
-    df = pd.read_csv("2020_from_json.csv")
+    df = pd.read_csv("results_2020.csv")
     df = df.rename(columns={"PoliticalParty": "party"})
     df["precinct"] = df["precinct"].apply(map_precincts_2020_2021)
     #df["LocalityName"] = df["LocalityName"].str.upper()
@@ -338,11 +338,11 @@ def tally_votes(df):
 
 def load_virginia():
     #diff_locality() #check on precinct changes between 2020 -> 2021
-    categories_baseline = load_election_live("2020_from_json.csv",2020)
+    categories_baseline = load_election_live("results_2020.csv",2020)
     compute_stats(categories_baseline)
 
-    #categories_live = load_election_live("results_from_json_20_00_00.csv",2021) #as of 8PM election night
-    categories_live = load_election_live("results_from_json.csv",2021) #latest
+    #categories_live = load_election_live("results_2021_8pm.csv",2021) #as of 8PM election night
+    categories_live = load_election_live("results_2021.csv",2021) #latest
     compute_stats(categories_live)
 
     merge_baselines(categories_live, categories_baseline)
