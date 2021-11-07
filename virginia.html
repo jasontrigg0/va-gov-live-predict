@@ -138,7 +138,7 @@
        });
        rows += row + '</tr>';
      });
-     $('#table-text').text(`${currentCounty} County`);
+     $('#table-text').text(`${currentCounty}`);
      $('#data-table').html(rows);
    }
 
@@ -146,9 +146,14 @@
      let stagePrefix = getStagePrefix(stageText);
      let categoryName = getCategoryName(categoryText);
 
-     return virginiaJsonGlobal.features.map(x => x.properties.NAME).map(x => {
-       let rep = predJsonGlobal[currentElection]["county"][x][categoryName][`${stagePrefix}rep`];
-       let dem = predJsonGlobal[currentElection]["county"][x][categoryName][`${stagePrefix}dem`];
+     return virginiaJsonGlobal.features.map(x => {
+       let countyName = `${x.properties.NAME}`;
+       if (!predJsonGlobal[currentElection]["county"][countyName] || !predJsonGlobal[currentElection]["county"][countyName][categoryName]) {
+         console.log(`Warning, couldn't find ${countyName},${categoryName} in input data`);
+         return 0;
+       }
+       let rep = predJsonGlobal[currentElection]["county"][countyName][categoryName][`${stagePrefix}rep`];
+       let dem = predJsonGlobal[currentElection]["county"][countyName][categoryName][`${stagePrefix}dem`];
        return (100 * (rep - dem) / (rep + dem + 1e-6)).toFixed(1);
      });
    }
@@ -198,6 +203,8 @@
    Plotly.d3.json('virginia-counties.json', function(virginiaJson) {
      Plotly.d3.json('pred.json', function(predJson) {
        virginiaJsonGlobal = virginiaJson;
+       //geojson may call eg Fairfax City and Fairfax county both "Fairfax". Distinguish with the LSAD value
+       virginiaJsonGlobal.features.forEach(x => x.properties.NAME = `${x.properties.NAME} ${x.properties.LSAD.replace("city","City")}`);
        predJsonGlobal = predJson;
        $('span#update-time').html(` <i>Last updated: ${predJsonGlobal["time"]}</i>.`);
        setVoteCount();
