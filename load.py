@@ -117,6 +117,7 @@ def add_agg_stats(df, level):
 def load_election_live(filename, year, simulate=False):
     #load election info from the live feed
     df = pd.read_csv(filename)
+
     df = df.rename(columns={"PoliticalParty": "party", "LocalityName": "county", "PrecinctName": "precinct", "Votes": "votes"})
     df["state"] = "Virginia"
     df["county"] = df["county"].apply(lambda x: re.sub(" city$"," City",x).replace("King & Queen","King and Queen")) #rename counties to match the geojson file
@@ -124,19 +125,20 @@ def load_election_live(filename, year, simulate=False):
     df = df[["party","state","county","precinct","votes"]]
     df = tally_votes(df)
 
-    df["fit"] = 1 #leave out some precincts from the fits
-    df["confirmed"] = 0 #allow confirmation that certain precinct data is correct
-
     #TODO: assert one row per (state, county, precinct) here
 
-    #columns should be [state, county, precinct, rep, dem, other, fit, confirmed]
-    assert(len(df.columns) == 8)
     if year == 2020:
         df = map_precincts_2020(df)
     elif year == 2021:
         df = map_precincts_2021(df)
     else:
         raise
+
+    df["fit"] = 1 #leave out some precincts from the fits
+    df["confirmed"] = 0 #allow confirmation that certain precinct data is correct
+
+    #columns should be [state, county, precinct, rep, dem, other, fit, confirmed]
+    assert(len(df.columns) == 8)
 
     #VA records its absentee voting by (county,congressional district)
     #there are 95 counties and only 11 districts so this generally means one per county
@@ -347,6 +349,7 @@ def load_virginia():
 
     #categories_live = load_election_live("results_2021_8pm.csv",2021) #as of 8PM election night
     categories_live = load_election_live("results_2021.csv",2021) #latest
+
     compute_stats(categories_live)
 
     merge_baselines(categories_live, categories_baseline)

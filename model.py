@@ -25,6 +25,8 @@ def get_margin_model(category, settings):
 def fit_predict_margin_model(df, category, settings):
     training = df[(df["total"]>0) & (df["fit"] | df["confirmed"])]
 
+    print(f"fitting {category}")
+    
     #first print results of a simple model meant to be easy to interpret
     simple_cols = ["baseline_margin_frac"]
     simple_margin_mdl = StandardLasso(alpha=25, prior=[1], intercept_prior=0, cols=simple_cols)
@@ -102,8 +104,6 @@ def fit_predict_turnout_model(df, category, settings):
     print("---")
     print("simple turnout model:")
 
-    print("length")
-    print(len(training))
     simple_turnout_mdl.fit(training[["baseline_total"]], training["total"], print_fit=True)
 
     #full model
@@ -146,9 +146,13 @@ def model_votes(category_info, settings):
         print(f"predicting {category}")
         df = category_info[category]["df"]
 
+        print(len(df[True & (df["fit"] | df["confirmed"])]))
+        
         if len(df[(df["total"]>0) & (df["fit"] | df["confirmed"])]) > 0:
             print("checking for outliers:")
             drop_outliers(df, category, settings)
+
+        df.to_csv(f"/tmp/test_{category}.csv")
 
         if len(df[(df["total"]>0) & (df["fit"] | df["confirmed"])]) == 0 or category == "Provisional Votes":
             predict_from_priors(df, category, settings)
